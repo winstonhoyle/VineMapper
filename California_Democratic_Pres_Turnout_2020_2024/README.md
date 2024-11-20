@@ -9,7 +9,7 @@ A Simple Map showing the difference between 2020 and 2024 Presidential Voter Tur
 * [Mexico Shapefile](https://data.humdata.org/dataset/cod-ab-mex?)
 
 ## Code
-* [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/California_Election_Map_2024/FormatData.ipynb)
+* [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/California_Democratic_Pres_Turnout_2020_2024/FormatData.ipynb)
 
 ## Posts
 * [Tiktok](https://www.tiktok.com/@vinemapper/video/7439483139795193119)
