@@ -1,6 +1,6 @@
-## Republican Presidential Vote Changes From 2020 to 2024
-A Simple Map showing the difference between 2020 and 2024 Republican Presidential Voter Turnout in California (11/20/2024)
-![Map](https://github.com/winstonhoyle/VineMapper/blob/main/European_Capitals_HDI/European_Capitals_HDI.png)
+## HDI Of European Capitals
+A Simple Map showing the HDI Of European Capitals
+![Map](https://github.com/winstonhoyle/VineMapper/blob/main/European_Capitals_HDI/europe_hdi_instagram.png)
 
 ## Data
 * [European Shapefile](https://github.com/leakyMirror/map-of-europe/blob/master/GeoJSON/europe.geojson)
@@ -17,7 +17,7 @@ A Simple Map showing the difference between 2020 and 2024 Republican Presidentia
 * [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/European_Capitals_HDI/FormatData.ipynb)
 
 ## Posts
-* [Tiktok]()
-* [Instagram]()
-* [Threads]()
-* [BlueSky]()
+* [Tiktok](https://www.tiktok.com/@vinemapper/video/7440200674840825118)
+* [Instagram](https://www.instagram.com/VineMapper/)
+* [Threads](https://www.threads.net/@vinemapper/post/DCr8Z3JTaSd)
+* [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbksjjm46k2m)
