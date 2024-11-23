@@ -21,3 +21,4 @@ A Simple Map showing the HDI Of European Capitals
 * [Instagram](https://www.instagram.com/VineMapper/)
 * [Threads](https://www.threads.net/@vinemapper/post/DCr8Z3JTaSd)
 * [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbksjjm46k2m)
+* [Reddit](https://www.reddit.com/r/Maps/comments/1gxn41g/hdi_of_european_capitals/)
