@@ -164,6 +164,7 @@ cython_debug/
 # QGIS
 *.qgz
 *.qpt
+*.qml
 
 # Projects
 data/
