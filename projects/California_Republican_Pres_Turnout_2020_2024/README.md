@@ -1,6 +1,6 @@
 ## Republican Presidential Vote Changes From 2020 to 2024
 A Simple Map showing the difference between 2020 and 2024 Republican Presidential Voter Turnout in California (11/20/2024)
-![Map](https://github.com/winstonhoyle/VineMapper/blob/main/California_Republican_Pres_Turnout_2020_2024/rep_votes_2020_2024.png)
+![Map](rep_votes_2020_2024.png)
 
 ## Data
 * [2020 Election Data](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-3-2020/statement-vote)
@@ -9,7 +9,7 @@ A Simple Map showing the difference between 2020 and 2024 Republican Presidentia
 * [Mexico Shapefile](https://data.humdata.org/dataset/cod-ab-mex?)
 
 ## Code
-* [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/California_Republican_Pres_Turnout_2020_2024/FormatData.ipynb)
+* [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
 * [Tiktok](https://www.tiktok.com/@vinemapper/video/7439867854217907487)

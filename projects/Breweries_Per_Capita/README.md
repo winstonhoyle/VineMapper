@@ -1,6 +1,6 @@
 ## Breweries Per Capita Per US State
 A Simple Map showing the breweries per capita per each US State
-![Map](https://github.com/winstonhoyle/VineMapper/blob/main/Breweries_Per_Capita/Breweries_Per_Capita.png)
+![Map](Breweries_Per_Capita.png)
 
 ## Data
 * [Brewery Data](https://usbreweryguide.com/brewery-map)
@@ -10,7 +10,7 @@ A Simple Map showing the breweries per capita per each US State
 
 
 ## Code
-* [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/Breweries_Per_Capita/FormatData.ipynb)
+* [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
 * [Tiktok](https://www.tiktok.com/@vinemapper/video/7440602267780123935)

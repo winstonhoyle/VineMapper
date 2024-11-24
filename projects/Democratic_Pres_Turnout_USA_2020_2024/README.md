@@ -1,6 +1,6 @@
 ## Democratic Presidential Vote Changes From 2020 to 2024
 A Simple Map showing the difference between 2020 and 2024 Democratic Presidential Voter Turnout (11/22/2024)
-![Map](https://github.com/winstonhoyle/VineMapper/blob/main/Democratic_Pres_Turnout_2020_2024/Democratic_Pres_Turnout_2020_2024.png)
+![Map](Democratic_Pres_Turnout_2020_2024.png)
 
 ## Data
 * [2020 Election Data](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/federal-elections-2020/)
@@ -9,7 +9,7 @@ A Simple Map showing the difference between 2020 and 2024 Democratic Presidentia
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
 ## Code
-* [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/Democratic_Pres_Turnout_2020_2024/FormatData.ipynb)
+* [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
 * [Tiktok]()

@@ -1,6 +1,6 @@
 ## HDI Of European Capitals
 A Simple Map showing the HDI Of European Capitals
-![Map](https://github.com/winstonhoyle/VineMapper/blob/main/European_Capitals_HDI/europe_hdi_instagram.png)
+![Map](europe_hdi_instagram.png)
 
 ## Data
 * [European Shapefile](https://github.com/leakyMirror/map-of-europe/blob/master/GeoJSON/europe.geojson)
@@ -14,7 +14,7 @@ A Simple Map showing the HDI Of European Capitals
 * [Malta Life Expectancy](https://data.who.int/countries/470)
 
 ## Code
-* [Jupyter Notebook](https://github.com/winstonhoyle/VineMapper/blob/main/European_Capitals_HDI/FormatData.ipynb)
+* [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
 * [Tiktok](https://www.tiktok.com/@vinemapper/video/7440200674840825118)
