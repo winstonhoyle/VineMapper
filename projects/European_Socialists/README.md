@@ -10,7 +10,8 @@ A Simple Map showing the percent of socialists in national legislature
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-* [Tiktok]()
-* [Instagram]()
-* [Threads]()
-* [BlueSky]()
+* [Reddit](https://www.reddit.com/r/Maps/comments/1gz04k0/socialists_in_the_eu_parliament/)
+* [Tiktok](https://www.tiktok.com/@vinemapper/video/7440939041786203423)
+* [Instagram](https://www.instagram.com/p/DCxFq8aTGlu/)
+* [Threads](https://www.threads.net/@vinemapper/post/DCxFrhHzOll)
+* [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbptudz57k2y)
