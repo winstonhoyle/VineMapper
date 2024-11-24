@@ -10,8 +10,9 @@ A Simple Map showing the percent of socialists in national legislature
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-* [Reddit](https://www.reddit.com/r/Maps/comments/1gz04k0/socialists_in_the_eu_parliament/)
-* [Tiktok](https://www.tiktok.com/@vinemapper/video/7440939041786203423)
-* [Instagram](https://www.instagram.com/p/DCxFq8aTGlu/)
-* [Threads](https://www.threads.net/@vinemapper/post/DCxFrhHzOll)
-* [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbptudz57k2y)
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7440939041786203423)
+- [x] [Instagram](https://www.instagram.com/p/DCxFq8aTGlu/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DCxFrhHzOll)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbptudz57k2y)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1gz04k0/socialists_in_the_eu_parliament/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1gz1ps6/socialists_in_the_eu_parliament/)
