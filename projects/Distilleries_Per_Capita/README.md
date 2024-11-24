@@ -12,8 +12,9 @@ A Simple Map showing the Distilleries per 500k in each US State
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-* [Tiktok]()
-* [Instagram]()
-* [Threads]()
-* [BlueSky]()
-* [Reddit]()
+- [ ] [Tiktok]()
+- [ ] [Instagram]()
+- [ ] [Threads]()
+- [ ] [BlueSky]()
+- [ ] [Reddit r/Maps]()
+- [ ] [Reddit r/MapPorn]()

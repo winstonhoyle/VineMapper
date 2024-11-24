@@ -12,7 +12,8 @@ A Simple Map showing the difference between 2020 and 2024 Republican Presidentia
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-* [Tiktok](https://www.tiktok.com/@vinemapper/video/7439867854217907487)
-* [Instagram](https://www.instagram.com/p/DCppt1aSg-H/)
-* [Threads](https://www.threads.net/@vinemapper/post/DCppuU0Snvs)
-* [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbjagtmz7s2q)
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7439867854217907487)
+- [x] [Instagram](https://www.instagram.com/p/DCppt1aSg-H/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DCppuU0Snvs)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbjagtmz7s2q)
+- [ ] [Reddit r/MapPorn]()

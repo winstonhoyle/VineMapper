@@ -17,8 +17,9 @@ A Simple Map showing the HDI Of European Capitals
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-* [Tiktok](https://www.tiktok.com/@vinemapper/video/7440200674840825118)
-* [Instagram](https://www.instagram.com/VineMapper/)
-* [Threads](https://www.threads.net/@vinemapper/post/DCr8Z3JTaSd)
-* [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbksjjm46k2m)
-* [Reddit](https://www.reddit.com/r/Maps/comments/1gxn41g/hdi_of_european_capitals/)
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7440200674840825118)
+- [x] [Instagram](https://www.instagram.com/VineMapper/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DCr8Z3JTaSd)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbksjjm46k2m)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1gxn41g/hdi_of_european_capitals/)
+- [ ] [Reddit r/MapPorn]()
