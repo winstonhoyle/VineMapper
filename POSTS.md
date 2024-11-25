@@ -10,3 +10,7 @@
 * [11/27/2024](projects/European_Capitals_Life_Expectancy/) Life Expectancy in European Capitals
 * [11/28/2024](projects/Distilleries_vs_Breweries/) Distilleries vs Breweries in US States
 * [11/29/2024](projects/Grape_Production_Europe_2022/) Grape Production in Europe in 2022
+* [11/30/2024]() Unknown
+
+## December
+* [12/01/2024](projects/Tomato_Production_Europe_2022/) Tomato Production in Europe in 2022
