@@ -8,3 +8,4 @@
 * [11/25/2024 - Distilleries Per 500k in the USA](projects/Distilleries_Per_Capita/)
 * [11/26/2024 - Homeless Change from 2020 to 2023](projects/Homeless_Change_2020_2023/)
 * [11/27/2024 - Life Expectancy in European Capitals](projects/European_Capitals_Life_Expectancy/)
+* [11/28/2024 - Distilleries vs Breweries in US States](projects/Distilleries_vs_Breweries/)

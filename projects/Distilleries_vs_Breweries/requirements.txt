@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+geopandas==1.0.1
+jupyter==1.0.0
+pandas==2.2.3
+requests==2.32.3
+shapely==2.0.6
+tqdm==4.67.0
