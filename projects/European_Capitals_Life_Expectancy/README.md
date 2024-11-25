@@ -11,7 +11,9 @@ A Simple Map showing the Life Expectancy in European Capitals
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
+- [ ] [Instagram Reels]()
 - [ ] [Threads]()
+- [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

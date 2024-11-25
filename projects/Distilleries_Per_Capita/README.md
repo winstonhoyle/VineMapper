@@ -15,7 +15,9 @@ A Simple Map showing the Distilleries per 500k in each US State
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
+- [ ] [Instagram Reels]()
 - [ ] [Threads]()
+- [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

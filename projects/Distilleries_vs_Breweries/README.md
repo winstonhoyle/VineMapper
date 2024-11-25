@@ -15,7 +15,9 @@ A Simple Map showing the if there are more Distilleries or Breweries in each USA
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
+- [ ] [Instagram Reels]()
 - [ ] [Threads]()
+- [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

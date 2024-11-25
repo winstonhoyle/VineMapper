@@ -14,7 +14,9 @@ A Simple Map showing percent change in homeless population per US State
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
+- [ ] [Instagram Reels]()
 - [ ] [Threads]()
+- [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

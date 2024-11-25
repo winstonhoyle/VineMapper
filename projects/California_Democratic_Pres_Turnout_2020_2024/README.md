@@ -16,4 +16,4 @@ A Simple Map showing the difference between 2020 and 2024 Democratic Presidentia
 - [x] [Instagram](https://www.instagram.com/p/DCm7Km2zGVZ/)
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DCm7LFAzp5y)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbfxihww6k2d)
-- [x] [Reddit r/MapPorn]()
+- [ ] [Reddit r/MapPorn]()
