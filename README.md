@@ -1,6 +1,7 @@
+![Image](logo.png)
+
 ## VineMapper
 
-![Image](logo.png)
 This is the repo where I aggregate all the data for the posts on @VineMapper.
 
 ## Posts
