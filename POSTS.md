@@ -9,3 +9,4 @@
 * [11/26/2024](projects/Homeless_Change_2020_2023/) Homeless Change from 2020 to 2023
 * [11/27/2024](projects/European_Capitals_Life_Expectancy/) Life Expectancy in European Capitals
 * [11/28/2024](projects/Distilleries_vs_Breweries/) Distilleries vs Breweries in US States
+* [11/29/2024](projects/Grape_Production_Europe_2022/) Grape Production in Europe in 2022
