@@ -1,9 +1,9 @@
-## Distilleries vs Breweries Per US State
-A Simple Map showing the if there are more Distilleries or Breweries in each USA State
-![Map](Distilleries_vs_Breweries.png)
+## Distilleries vs Wineries Per US State
+A Simple Map showing the if there are more Wineries or Distilleries in each USA State
+![Map](Distilleries_vs_Wineries.png)
 
 ## Data
-* [Brewery Data](https://usbreweryguide.com/brewery-map)
+* [Wineries](https://winemaps.com/api/wine-maps-winery)
 * [Distillery Data](https://www.distillerytrail.com/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
@@ -17,7 +17,7 @@ A Simple Map showing the if there are more Distilleries or Breweries in each USA
 - [ ] [Instagram]()
 - [ ] [Instagram Reels]()
 - [ ] [Threads]()
-- [x] [Youtube Shorts](https://youtube.com/shorts/Jyk3CiP-O8I)
+- [] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

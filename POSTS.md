@@ -11,5 +11,7 @@
 * [11/28/2024](projects/Distilleries_vs_Breweries/) Distilleries vs Breweries in US States
 * [11/29/2024](projects/Grape_Production_Europe_2022/) Grape Production in Europe in 2022
 * [11/30/2024](projects/Wineries_Per_Capita/) Wineries Per 500k in USA
+
 ## December
 * [12/01/2024](projects/Tomato_Production_Europe_2022/) Tomato Production in Europe in 2022
+* [12/02/2024](projects/Distilleries_vs_Wineries) Distilleries vs Wineries in US States
