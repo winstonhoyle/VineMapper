@@ -1,6 +1,6 @@
-## Russians In the USA
-A Simple Map showing the number of Russians per 1000 people
-![Map](Russians_in_USA.png)
+## Brazilians In the USA
+A Simple Map showing the number of Brazilians per 1000 people
+![Map](Brazilians_in_USA.png)
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2022.B04006?q=People%20Reporting%20Ancestry&g=010XX00US$0400000)
