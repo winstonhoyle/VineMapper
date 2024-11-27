@@ -26,9 +26,3 @@
 * [12/11/2024] Unknown
 * [12/12/2024] Unknown
 * [12/13/2024](projects/Brazilians_in_USA/) Brazilians In the USA
-* [12/14/2024] Unknown
-* [12/15/2024] Unknown
-* [12/16/2024] Unknown
-* [12/17/2024] Unknown
-* [12/18/2024] Unknown
-* [12/19/2024] Unknown
