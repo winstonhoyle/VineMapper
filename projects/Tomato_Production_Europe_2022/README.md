@@ -11,11 +11,11 @@ A Simple Map showing volume of tomatoes produced in Europe in 2022
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7441861763475328298)
+- [x] [Instagram](https://www.instagram.com/p/DDKgfaIvOIT/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
-- [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDKgg3svhKv)
+- [x] [Youtube Shorts](https://youtube.com/shorts/eazsdHxKi2Y)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcin5wrtkk2o)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h6laq0/tomato_production_in_europe_2022_unfao/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h6la9e/tomato_production_in_europe_2022_unfao/)

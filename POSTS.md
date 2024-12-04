@@ -18,7 +18,7 @@
 * [12/03/2024](projects/Distilleries_vs_Wineries) Distilleries vs Wineries in US States
 * [12/04/2024](projects/Tomato_Production_Europe_2022/) Tomato Production in Europe in 2022
 * [12/05/2024](projects/Haitians_in_USA/) Haitians in the USA
-* [12/06/2024] Unknown
+* [12/06/2024](projects/Homeless_Change_2007_2023) Homeless Population Change from 2007 to 023
 * [12/07/2024] Unknown
 * [12/08/2024](projects/Russians_in_USA/) Russians in the USA
 * [12/09/2024] Unknown

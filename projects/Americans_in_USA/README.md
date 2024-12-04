@@ -12,12 +12,11 @@ A Simple Map showing the number of Americans per 1000 people
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]
-- [ ] [Instagram]
-- [ ] [Instagram Reels]
-- [ ] [Threads]
-- [ ] [Youtube Shorts]
-- [ ] [BlueSky]
-- [ ] [Reddit r/Maps]
-- [ ] [Reddit r/MapPorn]
-- [ ] [Reddit r/firewater]
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7441876042765258030)
+- [x] [Instagram](https://www.instagram.com/p/DDFank5SAFg/)
+- [ ] [Instagram Reels]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDFao1OSL_q)
+- [x] [Youtube Shorts](https://youtube.com/shorts/0MOWem-WycE)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcdnv54pnk25)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h50hzx/americans_per_1000_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h50hku/americans_per_1000_people/)

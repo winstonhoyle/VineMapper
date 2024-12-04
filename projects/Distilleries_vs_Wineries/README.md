@@ -17,7 +17,7 @@ A Simple Map showing the if there are more Wineries or Distilleries in each USA 
 - [x] [Instagram](https://www.instagram.com/p/DDIAnqJyK_q/)
 - [ ] [Instagram Reels]()
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DDIAo2kS6Uc)
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/RO9-uIm3fxA)
 - [x] [BlueSky](vhttps://bsky.app/profile/vinemapper.bsky.social/post/3lcg72n22l22s)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h5sxk1/does_your_state_have_more_wineries_or_distilleries/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h5sxax/does_your_state_have_more_wineries_or_distilleries/)

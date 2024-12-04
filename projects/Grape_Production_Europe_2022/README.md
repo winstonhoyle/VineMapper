@@ -14,7 +14,7 @@ A Simple Map showing volume of grapes produced in Europe in 2022
 - [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7441449515334536494)
 - [x] [Instagram](https://www.instagram.com/p/DC-GhvxzOUS/)
 - [ ] [Instagram Reels]()
-- [x] [Threads](https://www.threads.net/@vinemapper)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DC-Gi-vzAyt)
 - [x] [Youtube Shorts](https://www.youtube.com/shorts/8uBIjxhwQck)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lc4jk32xrc2z)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h2qyex/grapes_produced_in_europe_2022/)
