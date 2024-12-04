@@ -18,11 +18,21 @@
 * [12/03/2024](projects/Distilleries_vs_Wineries) Distilleries vs Wineries in US States
 * [12/04/2024](projects/Tomato_Production_Europe_2022/) Tomato Production in Europe in 2022
 * [12/05/2024](projects/Haitians_in_USA/) Haitians in the USA
-* [12/06/2024](projects/Homeless_Change_2007_2023) Homeless Population Change from 2007 to 023
-* [12/07/2024] Unknown
+* [12/06/2024](projects/Homeless_Change_2007_2023) Homeless Population Change from 2007 to 2023
+* [12/07/2024](projects/Vietnam_War_Deaths) Vietnam War Deaths Per 100k
 * [12/08/2024](projects/Russians_in_USA/) Russians in the USA
 * [12/09/2024] Unknown
 * [12/10/2024] Unknown
 * [12/11/2024] Unknown
 * [12/12/2024] Unknown
 * [12/13/2024](projects/Brazilians_in_USA/) Brazilians In the USA
+* [12/14/2024] Unknown
+* [12/15/2024] Unknown
+* [12/16/2024] Unknown
+* [12/17/2024] Unknown
+* [12/18/2024](projects/Yugoslavs_in_USA/) Yugoslavs In the USA
+* [12/19/2024] Unknown
+* [12/20/2024] Unknown
+* [12/21/2024] Unknown
+* [12/22/2024] Unknown
+* [12/23/2024](projects/Soviets_in_USA/) Soviets In the USA
