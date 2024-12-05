@@ -16,8 +16,7 @@ A Simple Map showing the Vietnam War Deaths per USA State with Per 100k informat
 - [ ] [Instagram]
 - [ ] [Instagram Reels]
 - [ ] [Threads]
-- [ ] [Youtube Shorts]
+- [x] [Youtube Shorts](https://www.youtube.com/shorts/oPwi9MbRB8I)
 - [ ] [BlueSky]
 - [ ] [Reddit r/Maps]
 - [ ] [Reddit r/MapPorn]
-- [ ] [Reddit r/firewater]
