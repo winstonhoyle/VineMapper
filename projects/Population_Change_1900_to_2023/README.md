@@ -17,7 +17,7 @@ A Simple Map showing if a county has increased in population from 1900 to 2023
 - [ ] [Instagram]()
 - [ ] [Instagram Reels]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/C_FxcruUAoM)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

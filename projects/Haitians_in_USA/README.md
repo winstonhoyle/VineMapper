@@ -12,11 +12,11 @@ A Simple Map showing the number of Haitians per 1000 people
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7441879253722860842)
+- [x] [Instagram](https://www.instagram.com/p/DDNFG6Pv6D4/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDNFH-pPu9n)
 - [x] [Youtube Shorts](https://youtube.com/shorts/OQNgq89XTj0)
-- [ ] [BlueSky]
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcl5kccffk2m)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h7e1ye/haitians_per_100k_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h7e1kq/haitians_per_100k_people/)
