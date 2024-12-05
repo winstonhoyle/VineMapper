@@ -1,0 +1,3 @@
+geopandas
+pandas
+topojson==1.9
