@@ -36,3 +36,16 @@
 * [12/21/2024] Unknown
 * [12/22/2024] Unknown
 * [12/23/2024](projects/Soviets_in_USA/) Soviets In the USA
+* [12/24/2024] Unknown
+* [12/25/2024] Unknown
+* [12/26/2024] Unknown
+* [12/27/2024] Unknown
+* [12/28/2024] Unknown
+* [12/29/2024] Unknown
+* [12/30/2024] Unknown
+* [12/31/2024] Unknown
+
+## January
+* [01/01/2025] Unknown
+* [01/02/2025] Unknown
+* [01/03/2025] Unknown
