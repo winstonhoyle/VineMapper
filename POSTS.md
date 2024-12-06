@@ -23,12 +23,12 @@
 * [12/08/2024](projects/Russians_in_USA/) Russians in the USA
 * [12/09/2024](projects/Population_Change_1900_to_2023/) US County Population Change from 1900 to 2023
 * [12/10/2024](projects/ChuckECheese_Locations_US/) Chuck-E-Cheese Locations In the USA
-* [12/11/2024](projects/Police_Spending_Per_Capita) Police Spending Per Capita for Each US State
+* [12/11/2024](projects/Corrections_Spending_Per_Capita/) Corrections Spending Per Capita for Each US State
 * [12/12/2024] Unknown
 * [12/13/2024](projects/Brazilians_in_USA/) Brazilians In the USA
 * [12/14/2024](projects/TexasRoadHouse_Locations_US/) Texas Roadhouse Locations In the USA
 * [12/15/2024] Unknown
-* [12/16/2024] Unknown
+* [12/16/2024](projects/Police_Spending_Per_Capita/) Police Spending Per Capita for Each US State
 * [12/17/2024] Unknown
 * [12/18/2024](projects/Yugoslavs_in_USA/) Yugoslavs In the USA
 * [12/19/2024](projects/McDonalds_Per_State/) McDonald's Per State in the USA
