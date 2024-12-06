@@ -2,7 +2,7 @@ https://www.mcdonalds.com/us/en-us/restaurant-locator.html
 
 ## McDonald's Per State
 A Simple Map showing McDonald's Per State
-![Map](McDonalds_Per_State.png)
+![Map](McDonalds_Locations_US.png)
 
 ## Data
 * [McDonalds Data](https://www.mcdonalds.com/us/en-us/restaurant-locator.html)
