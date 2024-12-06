@@ -13,11 +13,11 @@ A Simple Map showing percent change in homeless population per US State from 200
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7444731160069967150)
+- [x] [Instagram](https://www.instagram.com/p/DDPsttDSknJ/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDPsuQQyRYb)
 - [x] [Youtube Shorts](https://youtube.com/shorts/Eg9Y63JqGtQ)
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcnpfzflcc26)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h86nep/percent_change_in_homeless_population_from_2007/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h86ku8/percent_change_in_homeless_population_from_2007/)

@@ -31,7 +31,7 @@
 * [12/16/2024] Unknown
 * [12/17/2024] Unknown
 * [12/18/2024](projects/Yugoslavs_in_USA/) Yugoslavs In the USA
-* [12/19/2024] Unknown
+* [12/19/2024](projects/McDonalds_Per_State/) McDonald's Per State in the USA
 * [12/20/2024] Unknown
 * [12/21/2024] Unknown
 * [12/22/2024] Unknown
