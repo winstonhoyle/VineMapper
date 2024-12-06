@@ -1,5 +1,5 @@
 ## Brazilians In the USA
-A Simple Map showing the number of Brazilians per 1000 people
+A Simple Map showing the number of Brazilians per 100k people
 ![Map](Brazilians_in_USA.png)
 
 ## Data
