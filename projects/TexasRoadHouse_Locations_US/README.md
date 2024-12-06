@@ -1,6 +1,6 @@
 ## Texas RoadHouse In The US
 A Simple Map showing locations of Each Texas Roadhouse and Stores per 1m People
-![Map](TexasRoadHouse_Locations_US/.png)
+![Map](TexasRoadHouse_Locations_US.png)
 
 ## Data
 * [Texas Roadhouse Data](https://www.texasroadhouse.com/location)
