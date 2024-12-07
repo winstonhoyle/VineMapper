@@ -21,6 +21,7 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 
 ## Post Schedule
 
+November 2024
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - |1|2|
@@ -29,6 +30,7 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 |17|18|19|[20](projects/California_Democratic_Pres_Turnout_2020_2024/)|[21](projects/California_Republican_Pres_Turnout_2020_2024)|[22](projects/Breweries_Per_Capita/)|[23](projects/Breweries_Per_Capita/)|
 |[24](projects/European_Socialists/)|[25](projects/Distilleries_Per_Capita/)|[26](projects/Homeless_Change_2020_2023/)|[27](projects/Homeless_population_per_10k/)|[28](projects/Distilleries_vs_Breweries/)|[29](projects/Grape_Production_Europe_2022/)|[30](projects/Wineries_Per_Capita/)|
 
+December 2024
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
