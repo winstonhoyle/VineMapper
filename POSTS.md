@@ -4,9 +4,9 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - |1|2|
 |3|4|5|6|7|8|9|
-|11|12|13|14|15|16|17|
-|18|19|[20](projects/California_Democratic_Pres_Turnout_2020_2024/)|[21](projects/California_Republican_Pres_Turnout_2020_2024)|[22](projects/Breweries_Per_Capita/)|[23](projects/Breweries_Per_Capita/)|[24](projects/European_Socialists/)|
-|[25](projects/Distilleries_Per_Capita/)|[26](projects/Homeless_Change_2020_2023/)|[27](projects/Homeless_population_per_10k/)|[28](projects/Distilleries_vs_Breweries/)|[29](projects/Grape_Production_Europe_2022/)|[30](projects/Wineries_Per_Capita/)| - |
+|10|11|12|13|14|15|16|
+|17|18|19|[20](projects/California_Democratic_Pres_Turnout_2020_2024/)|[21](projects/California_Republican_Pres_Turnout_2020_2024)|[22](projects/Breweries_Per_Capita/)|[23](projects/Breweries_Per_Capita/)|
+|[24](projects/European_Socialists/)|[25](projects/Distilleries_Per_Capita/)|[26](projects/Homeless_Change_2020_2023/)|[27](projects/Homeless_population_per_10k/)|[28](projects/Distilleries_vs_Breweries/)|[29](projects/Grape_Production_Europe_2022/)|[30](projects/Wineries_Per_Capita/)|
 
 
 * [11/20/2024](projects/California_Democratic_Pres_Turnout_2020_2024/) Democratic Presidential Turnout in California 2020 vs 2024
