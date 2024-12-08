@@ -13,12 +13,10 @@ A Simple Map showing the number of Russians per 1000 people
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]
-- [ ] [Instagram]
-- [ ] [Instagram Reels]
-- [ ] [Threads]
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7444735045568335150)
+- [x] [Instagram](https://www.instagram.com/p/DDUxmw3P4N1/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDUxnQnPliC)
 - [x] [Youtube Shorts](https://www.youtube.com/shorts/Yec-j0ltLCM)
-- [ ] [BlueSky]
-- [ ] [Reddit r/Maps]
-- [ ] [Reddit r/MapPorn]
-- [ ] [Reddit r/firewater]
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcsnwyz2f226)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h9mzid/russians_per_10k_people_in_the_usa/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h9mzrp/russians_per_10k_people_in_the_usa/)
