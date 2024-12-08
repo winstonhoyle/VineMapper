@@ -26,7 +26,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
-|[8](projects/Russians_in_USA/)|[9](projects/Population_Change_1900_to_2023/)|[10](projects/ChuckECheese_Locations_US/)|[11](projects/Corrections_Spending_Per_Capita/)|12|[13](projects/Brazilians_in_USA/)|[14](projects/TexasRoadHouse_Locations_US/)|
+|[8](projects/Russians_in_USA/)|[9](projects/Population_Change_1900_to_2023/)|[10](projects/ChuckECheese_Locations_US/)|[11](projects/Corrections_Spending_Per_Capita/)|[12](projects/COVID_Deaths_Per_State/)|[13](projects/Brazilians_in_USA/)|[14](projects/TexasRoadHouse_Locations_US/)|
 |15|[16](projects/Police_Spending_Per_Capita/)|[17](projects/Police_Spending_Per_Capita/)|18|19|[20](projects/McDonalds_Per_State/)|21|
 |22|23|24|25|26|27|28|
 |29|30|31| - | - | - | - |
@@ -42,7 +42,7 @@
 * [12/09/2024](projects/Population_Change_1900_to_2023/) US County Population Change from 1900 to 2023
 * [12/10/2024](projects/ChuckECheese_Locations_US/) Chuck-E-Cheese Locations In the USA
 * [12/11/2024](projects/Corrections_Spending_Per_Capita/) Corrections Spending Per Capita for Each US State
-* [12/12/2024] Unknown
+* [12/12/2024](projects/COVID_Deaths_Per_State/) COVID Deaths Per State
 * [12/13/2024](projects/Brazilians_in_USA/) Brazilians In the USA
 * [12/14/2024](projects/TexasRoadHouse_Locations_US/) Texas Roadhouse Locations In the USA
 * [12/15/2024] Unknown
