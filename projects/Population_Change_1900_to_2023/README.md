@@ -15,7 +15,6 @@ A Simple Map showing if a county has increased in population from 1900 to 2023
 ## Posts
 - [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7444737418118303018)
 - [x] [Instagram](https://www.instagram.com/p/DDXYXxaPBSj/)
-- [ ] [Instagram Reels]()
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DDXYY6wPnla)
 - [x] [Youtube Shorts](https://youtube.com/shorts/C_FxcruUAoM)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcv7kw7on222)
