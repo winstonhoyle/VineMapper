@@ -15,6 +15,7 @@ A Simple Map showing the number of Russians per 1000 people
 ## Posts
 - [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7444735045568335150)
 - [x] [Instagram](https://www.instagram.com/p/DDUxmw3P4N1/)
+- [x] [Instagram Reels](https://www.instagram.com/reel/DDWCnTxRzEo/)
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DDUxnQnPliC)
 - [x] [Youtube Shorts](https://www.youtube.com/shorts/Yec-j0ltLCM)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcsnwyz2f226)

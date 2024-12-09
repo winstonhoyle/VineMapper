@@ -17,7 +17,7 @@ A Simple Map showing the number of COVID-19 Deaths and Deaths per 10k People
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/Uoj76iRnGf4)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

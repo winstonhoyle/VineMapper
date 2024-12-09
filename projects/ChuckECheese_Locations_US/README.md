@@ -15,9 +15,8 @@ A Simple Map showing locations of Each Chuck-E-Cheese and Stores per 1m People
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
-- [ ] [Instagram Reels]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/xDLn8oLTkpc)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

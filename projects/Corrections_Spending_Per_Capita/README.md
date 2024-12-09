@@ -16,7 +16,7 @@ A Simple Map showing percent of state spending on corrections and amount per cap
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/SnoXDH1NFP0)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

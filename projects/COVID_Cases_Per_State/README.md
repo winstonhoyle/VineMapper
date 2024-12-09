@@ -17,7 +17,7 @@ A Simple Map showing the number of COVID-19 Cases and Deaths per 1,000 People
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/WrZ2jo2V8xA)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

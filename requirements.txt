@@ -12,3 +12,4 @@ pyxlsb==1.0.10
 requests==2.32.3
 shapely==2.0.6
 tqdm==4.67.0
+wikipedia==1.4.0

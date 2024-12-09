@@ -14,10 +14,8 @@ A Simple Map showing the number of Brazilians per 100k people
 ## Posts
 - [ ] [Tiktok]
 - [ ] [Instagram]
-- [ ] [Instagram Reels]
 - [ ] [Threads]
-- [ ] [Youtube Shorts]
+- [x] [Youtube Shorts](https://youtube.com/shorts/s6IPFurG0BU)
 - [ ] [BlueSky]
 - [ ] [Reddit r/Maps]
 - [ ] [Reddit r/MapPorn]
-- [ ] [Reddit r/firewater]
