@@ -28,7 +28,7 @@
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
 |[8](projects/Russians_in_USA/)|[9](projects/Population_Change_1900_to_2023/)|[10](projects/ChuckECheese_Locations_US/)|[11](projects/Corrections_Spending_Per_Capita/)|[12](projects/COVID_Deaths_Per_State/)|[13](projects/Brazilians_in_USA/)|[14](projects/TexasRoadHouse_Locations_US/)|
 |15|[16](projects/Police_Spending_Per_Capita/)|[17](projects/COVID_Cases_Per_State/)|[18](projects/Yugoslavs_in_USA/)|[19](projects/McDonalds_Per_State/)|20|21|
-|22|23|24|25|26|27|28|
+|[22](projects/COVID_Vaccine_Rates_Per_State/)|23|24|25|26|27|28|
 |29|30|31| - | - | - | - |
 
 * [12/01/2024](projects/European_Capitals_Life_Expectancy/) Life Expectancy in European Capitals
@@ -52,7 +52,7 @@
 * [12/19/2024](projects/McDonalds_Per_State/) McDonald's Per State in the USA
 * [12/20/2024] Unknown
 * [12/21/2024] Unknown
-* [12/22/2024] Unknown
+* [12/22/2024](projects/COVID_Vaccine_Rates_Per_State/) COVID Vaccines Per State
 * [12/23/2024](projects/Soviets_in_USA/) Soviets In the USA
 * [12/24/2024] Unknown
 * [12/25/2024] Unknown
