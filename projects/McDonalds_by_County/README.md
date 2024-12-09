@@ -1,10 +1,11 @@
-## McDonald's Per State
-A Simple Map showing McDonald's Per State
-![Map](McDonalds_Locations_US.png)
+## McDonald's In Each County
+A Simple Map showing if a county has a McDonald's
+![Map](McDonalds_by_County.png)
 
 ## Data
-* [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
-* [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [McDonalds Data](https://www.mcdonalds.com/us/en-us/restaurant-locator.html)
+* [County Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
