@@ -27,7 +27,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
 |[8](projects/Russians_in_USA/)|[9](projects/Population_Change_1900_to_2023/)|[10](projects/ChuckECheese_Locations_US/)|[11](projects/Corrections_Spending_Per_Capita/)|[12](projects/COVID_Deaths_Per_State/)|[13](projects/Brazilians_in_USA/)|[14](projects/TexasRoadHouse_Locations_US/)|
-|15|[16](projects/Police_Spending_Per_Capita/)|[17](projects/Police_Spending_Per_Capita/)|18|19|[20](projects/McDonalds_Per_State/)|21|
+|15|[16](projects/Police_Spending_Per_Capita/)|[17](projects/COVID_Cases_Per_State/)|[18](projects/Yugoslavs_in_USA/)|[19](projects/McDonalds_Per_State/)|20|21|
 |22|23|24|25|26|27|28|
 |29|30|31| - | - | - | - |
 
@@ -47,7 +47,7 @@
 * [12/14/2024](projects/TexasRoadHouse_Locations_US/) Texas Roadhouse Locations In the USA
 * [12/15/2024] Unknown
 * [12/16/2024](projects/Police_Spending_Per_Capita/) Police Spending Per Capita for Each US State
-* [12/17/2024] Unknown
+* [12/17/2024](projects/COVID_Cases_Per_State/) COVID Cases Per State
 * [12/18/2024](projects/Yugoslavs_in_USA/) Yugoslavs In the USA
 * [12/19/2024](projects/McDonalds_Per_State/) McDonald's Per State in the USA
 * [12/20/2024] Unknown

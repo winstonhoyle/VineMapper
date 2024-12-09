@@ -1,6 +1,6 @@
-## COVID Deaths Per State
-A Simple Map showing the number of COVID-19 Deaths and Deaths per 10k People
-![Map](COVID_Deaths_Per_State.png)
+## COVID Cases Per State
+A Simple Map showing the number of COVID-19 Cases and Deaths per 1,000 People
+![Map](COVID_Cases_Per_State.png)
 
 ## Data
 * [COVID Data](https://coronavirus.jhu.edu/region)
