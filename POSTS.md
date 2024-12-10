@@ -23,7 +23,6 @@
 
 ## December 2024
 
-December 2024
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
@@ -65,6 +64,43 @@ December 2024
 * [12/31/2024] Unknown
 
 ## January 2025
+
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|-|-|-|1|[2](projects/Slavic_in_USA/)|3|4|
+|5|6|7|8|9|10|11|
+|12|13|14|15|16|17|18|
+|19|20|21|22|23|24|25|
+|26|27|28|29|30|31|-|
+
 * [01/01/2025] Unknown
-* [01/02/2025] Unknown
+* [01/02/2025](projects/Slavic_in_USA/) Self-Reported Slavs in the USA
 * [01/03/2025] Unknown
+* [01/04/2025] Unknown
+* [01/05/2025] Unknown
+* [01/06/2025] Unknown
+* [01/07/2025] Unknown
+* [01/08/2025] Unknown
+* [01/09/2025] Unknown
+* [01/10/2025] Unknown
+* [01/11/2025] Unknown
+* [01/12/2025] Unknown
+* [01/13/2025] Unknown
+* [01/14/2025] Unknown
+* [01/15/2025] Unknown
+* [01/16/2025] Unknown
+* [01/17/2025] Unknown
+* [01/18/2025] Unknown
+* [01/19/2025] Unknown
+* [01/20/2025] Unknown
+* [01/21/2025] Unknown
+* [01/22/2025] Unknown
+* [01/23/2025] Unknown
+* [01/24/2025] Unknown
+* [01/25/2025] Unknown
+* [01/26/2025] Unknown
+* [01/27/2025] Unknown
+* [01/28/2025] Unknown
+* [01/29/2025] Unknown
+* [01/30/2025] Unknown
+* [01/31/2025] Unknown
