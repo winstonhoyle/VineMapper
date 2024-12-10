@@ -52,7 +52,7 @@ December 2024
 * [12/18/2024](projects/Yugoslavs_in_USA/) Yugoslavs In the USA
 * [12/19/2024](projects/McDonalds_Per_State/) McDonald's Per State in the USA
 * [12/20/2024](projects/Virginia_Population_Change_1790_2023/) Virginia Counties' Population Change from 1790 to 2023
-* [12/21/2024] Unknown
+* [12/21/2024](projects/US_Population_Change_2023_to_2024/) Population Change Per State from 2023 to 2024
 * [12/22/2024](projects/COVID_Vaccine_Rates_Per_State/) COVID Vaccines Per State
 * [12/23/2024](projects/Soviets_in_USA/) Soviets In the USA
 * [12/24/2024] Unknown
