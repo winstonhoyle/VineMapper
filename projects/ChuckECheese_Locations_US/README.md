@@ -15,6 +15,7 @@ A Simple Map showing locations of Each Chuck-E-Cheese and Stores per 1m People
 ## Posts
 - [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7446261415175916843)
 - [x] [Instagram](https://www.instagram.com/p/DDZ9YJqvGA8/)
+- [x] [Instagram Reels](https://www.instagram.com/reel/DDbJjOERA1d/)
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DDZ9ZVrPo6k)
 - [x] [Youtube Shorts](https://youtube.com/shorts/xDLn8oLTkpc)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcxpxzzdo223)
