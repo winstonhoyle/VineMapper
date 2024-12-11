@@ -1,6 +1,6 @@
 ## Dollar Generals Per State
 A Simple Map showing Dollar Generals Per State
-![Map](Dollar_Generals_per_State.png)
+![Map](Dollar_Generals_Per_State.png)
 
 ## Data
 * [Dollar General Data](https://www.dollargeneral.com/store-directory/)
