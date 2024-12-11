@@ -28,7 +28,7 @@
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
 |[8](projects/Russians_in_USA/)|[9](projects/Population_Change_1900_to_2023/)|[10](projects/ChuckECheese_Locations_US/)|[11](projects/Corrections_Spending_Per_Capita/)|[12](projects/COVID_Deaths_Per_State/)|[13](projects/Brazilians_in_USA/)|[14](projects/TexasRoadHouse_Locations_US/)|
 |[15](projects/Progressives_Per_State_119th_Congress/)|[16](projects/Police_Spending_Per_Capita/)|[17](projects/COVID_Cases_Per_State/)|[18](projects/Yugoslavs_in_USA/)|[19](projects/McDonalds_Per_State/)|[20](projects/Virginia_Population_Change_1790_2023/)|[21](projects/US_Population_Change_2023_to_2024/)|
-|[22](projects/COVID_Vaccine_Rates_Per_State/)|[23](projects/Soviets_in_USA/)|[24](projects/US_States_GDP_Change_2023-2024/)|25|26|[27](projects/Dollar_Generals_Per_State/)|[28](projects/McDonalds_by_County/)|
+|[22](projects/COVID_Vaccine_Rates_Per_State/)|[23](projects/Soviets_in_USA/)|[24](projects/US_States_GDP_Change_2023-2024/)|25|[26](projects/Corrections_Spending_Per_Capita_Inversed/)|[27](projects/Dollar_Generals_Per_State/)|[28](projects/McDonalds_by_County/)|
 |29|30|31| - | - | - | - |
 
 * [12/01/2024](projects/European_Capitals_Life_Expectancy/) Life Expectancy in European Capitals
@@ -56,7 +56,7 @@
 * [12/23/2024](projects/Soviets_in_USA/) Soviets In the USA
 * [12/24/2024](projects/US_States_GDP_Change_2023-2024/) US States GDP Change from 2023 to 2024
 * [12/25/2024] Unknown
-* [12/26/2024] Unknown
+* [12/26/2024](projects/Corrections_Spending_Per_Capita_Inversed/) Corrections Spending Per Capita for Each US State Inversed Data from [12/11/2024](projects/Corrections_Spending_Per_Capita/)
 * [12/27/2024](projects/Dollar_Generals_Per_State/) Dollar Generals Per State
 * [12/28/2024](projects/McDonalds_by_County/) Does Your County Have a McDonald's?
 * [12/29/2024](projects/Turks_In_USA) Turkish People In the USA
