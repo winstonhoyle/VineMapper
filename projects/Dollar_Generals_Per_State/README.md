@@ -1,13 +1,13 @@
-## COVID Vaccines Per State
-A Simple Map showing the number of COVID-19 Vaccines and Vaccine Rates
-![Map](COVID_Vaccine_Rates_Per_State.png)
+## Dollar Generals Per State
+A Simple Map showing Dollar Generals Per State
+![Map](Dollar_Generals_per_State.png)
 
 ## Data
-* [COVID Data](https://coronavirus.jhu.edu/region)
+* [Dollar General Data](https://www.dollargeneral.com/store-directory/)
+* [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
-
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)
@@ -15,8 +15,9 @@ A Simple Map showing the number of COVID-19 Vaccines and Vaccine Rates
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
+- [ ] [Instagram Reels]()
 - [ ] [Threads]()
-- [x] [Youtube Shorts](https://youtube.com/shorts/hFxn0aTL4kI)
+- [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

@@ -16,7 +16,7 @@ A Simple Map showing percent of state spending on Policing and amount per capita
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/1FAP_p_2YAo)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

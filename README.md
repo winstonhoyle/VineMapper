@@ -36,7 +36,7 @@ December 2024
 |[1](projects/European_Capitals_Life_Expectancy/)|[2](projects/Americans_in_USA/)|[3](projects/Distilleries_vs_Wineries)|[4](projects/Tomato_Production_Europe_2022/)|[5](projects/Haitians_in_USA/)|[6](projects/Homeless_Change_2007_2023)|[7](projects/Vietnam_War_Deaths)|
 |[8](projects/Russians_in_USA/)|[9](projects/Population_Change_1900_to_2023/)|[10](projects/ChuckECheese_Locations_US/)|[11](projects/Corrections_Spending_Per_Capita/)|[12](projects/COVID_Deaths_Per_State/)|[13](projects/Brazilians_in_USA/)|[14](projects/TexasRoadHouse_Locations_US/)|
 |[15](projects/Progressives_Per_State_119th_Congress/)|[16](projects/Police_Spending_Per_Capita/)|[17](projects/COVID_Cases_Per_State/)|[18](projects/Yugoslavs_in_USA/)|[19](projects/McDonalds_Per_State/)|[20](projects/Virginia_Population_Change_1790_2023/)|[21](projects/US_Population_Change_2023_to_2024/)|
-|[22](projects/COVID_Vaccine_Rates_Per_State/)|[23](projects/Soviets_in_USA/)|24|25|26|27|[28](projects/McDonalds_by_County/)|
+|[22](projects/COVID_Vaccine_Rates_Per_State/)|[23](projects/Soviets_in_USA/)|[24](projects/US_States_GDP_Change_2023-2024/)|25|26|[27](projects/Dollar_Generals_Per_State/)|[28](projects/McDonalds_by_County/)|
 |29|30|31| - | - | - | - |
 
 January 2025

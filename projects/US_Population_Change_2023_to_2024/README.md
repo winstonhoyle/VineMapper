@@ -16,7 +16,7 @@ A simple map showing population change from 2023 to 2024
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/AVd5QyKxiGo)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

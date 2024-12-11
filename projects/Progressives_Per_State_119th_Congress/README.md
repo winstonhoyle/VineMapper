@@ -18,7 +18,7 @@ A Simple Map showing the percent of progressive House Members per state and prog
 - [ ] [Instagram]()
 - [ ] [Instagram Reels]()
 - [ ] [Threads]()
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/qogB88Z3e2Y)
 - [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()
