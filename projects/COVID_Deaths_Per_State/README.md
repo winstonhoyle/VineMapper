@@ -14,10 +14,10 @@ A Simple Map showing the number of COVID-19 Deaths and Deaths per 10k People
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7446265252196519214)
+- [x] [Instagram](https://www.instagram.com/p/DDfHC9kPbKQ/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDfHD_OvsoV)
 - [x] [Youtube Shorts](https://youtube.com/shorts/Uoj76iRnGf4)
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ld4qz2deuc2v)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hcpqs4/covid_deaths_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hcpqea/covid_deaths_per_state/)

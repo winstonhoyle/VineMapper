@@ -69,7 +69,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|1|[2](projects/Slavic_in_USA/)|[3](projects/Dollar_Generals_Per_County/)|4|
 |5|[6](projects/McDonalds_Per_County_Count/)|7|8|[9](projects/Dollar_Generals_Per_County_Count/)|10|11|
-|12|13|14|15|16|17|18|
+|[12](projects/Dollar_Generals_HeatMap/)|13|14|15|16|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|-|
 
@@ -84,7 +84,7 @@
 * [01/09/2025](projects/Dollar_Generals_Per_County_Count/) How Many Dollar Generals Does Your County Have?
 * [01/10/2025] Unknown
 * [01/11/2025] Unknown
-* [01/12/2025] Unknown
+* [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
 * [01/13/2025] Unknown
 * [01/14/2025] Unknown
 * [01/15/2025] Unknown
