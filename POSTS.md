@@ -85,7 +85,7 @@
 * [01/10/2025] Unknown
 * [01/11/2025] Unknown
 * [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
-* [01/13/2025](projects/Over_18_Working_Population/) Percent Of
+* [01/13/2025](projects/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
 * [01/14/2025] Unknown
 * [01/15/2025] Unknown
 * [01/16/2025] Unknown
