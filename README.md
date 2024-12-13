@@ -43,7 +43,7 @@ January 2025
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|1|[2](projects/Slavic_in_USA/)|[3](projects/Dollar_Generals_Per_County/)|[4](projects/Over_18_Population/)|
-|5|[6](projects/McDonalds_Per_County_Count/)|7|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|11|
+|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|7|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|11|
 |[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|14|15|16|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|-|
