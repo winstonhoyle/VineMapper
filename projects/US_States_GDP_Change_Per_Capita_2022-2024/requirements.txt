@@ -1,0 +1,4 @@
+geopandas==1.0.1
+jupyter==1.0.0
+pandas==2.2.3
+wikipedia==1.4.0
