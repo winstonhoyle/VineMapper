@@ -12,10 +12,10 @@ A Simple Map showing the number of Brazilians per 100k people
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]
-- [ ] [Instagram]
-- [ ] [Threads]
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7446268386775944490)
+- [x] [Instagram](https://www.instagram.com/p/DDhs6rxPyRQ/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDhs7a6v8H2)
 - [x] [Youtube Shorts](https://youtube.com/shorts/s6IPFurG0BU)
-- [ ] [BlueSky]
-- [ ] [Reddit r/Maps]
-- [ ] [Reddit r/MapPorn]
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ld7bywo74c2z)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hdh3l6/brazilians_per_us_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hdh36v/brazilians_per_us_state/)
