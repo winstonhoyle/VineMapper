@@ -14,6 +14,7 @@ A Simple Map showing the number of Brazilians per 100k people
 ## Posts
 - [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7446268386775944490)
 - [x] [Instagram](https://www.instagram.com/p/DDhs6rxPyRQ/)
+- [x] [Instagram Reels](https://www.instagram.com/reel/DDizK6pJRp_/)
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DDhs7a6v8H2)
 - [x] [Youtube Shorts](https://youtube.com/shorts/s6IPFurG0BU)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ld7bywo74c2z)
