@@ -1,14 +1,14 @@
-## Federal Government Workers Per State
-A simple map showing the population (out of 10k) that are federal government workers and the raw number
-![Map](US_Government_Employees_By_State.png)
+## McDonald's Vs General Dollar
+A Simple Map showing if a county has more McDonald's Or General Dollars
+![Map](McDonalds_Vs_Dollar_Generals.png)
 
 ## Data
-* [US Population Data](https://worldpopulationreview.com/states)
-* [Federal Government Data](https://crsreports.congress.gov/product/pdf/R/R47716)
+* [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
+* [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
-
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)
@@ -16,6 +16,7 @@ A simple map showing the population (out of 10k) that are federal government wor
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
+- [ ] [Instagram Reels]()
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
