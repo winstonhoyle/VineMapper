@@ -22,3 +22,4 @@ A Simple Map showing locations of Each Texas Roadhouse and Stores per 1m People
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1he7j5v/texas_roadhouses_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1he7hrv/texas_roadhouse_locations_in_the_usa/)
 - [x] [Reddit r/TexasRoadhouse](https://www.reddit.com/r/TexasRoadhouse/comments/1he7lyi/texas_roadhouse_locations_in_the_usa/)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1868126732697604392/photo/1)

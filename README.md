@@ -18,6 +18,7 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 * [Instagram](https://www.instagram.com/VineMapper/)
 * [Threads](https://www.threads.net/@vinemapper)
 * [BlueSky](https://bsky.app/profile/vinemapper.bsky.social)
+* [Twitter/X](https://x.com/VineMapper)
 
 ## Post Schedule
 
