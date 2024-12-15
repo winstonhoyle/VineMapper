@@ -20,3 +20,6 @@ A Simple Map showing the Vietnam War Deaths per USA State with Per 100k informat
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h8x3wk/american_deaths_in_vietnam_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h8x0xt/american_deaths_in_vietnam_per_state/)
 - [x] [Reddit r/VietnamWar](https://www.reddit.com/r/VietnamWar/comments/1h8x4ug/american_deaths_in_vietnam_per_state/)
+
+## Stolen
+- [Twitter/X](https://x.com/simongerman600/status/1868039262026813927)

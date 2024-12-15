@@ -21,3 +21,6 @@ A Simple Map showing the number of Russians per 1000 people
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcsnwyz2f226)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h9mzid/russians_per_10k_people_in_the_usa/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h9mzrp/russians_per_10k_people_in_the_usa/)
+
+## Stolen
+- [Twitter/X](https://x.com/Locati0ns/status/1866128297878601892)

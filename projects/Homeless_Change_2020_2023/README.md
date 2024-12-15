@@ -21,3 +21,10 @@ A Simple Map showing percent change in homeless population per US State
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lbulerhjds2d)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/hot/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h0gohn/percent_homeless_population_change_from_2020_to/)
+
+## Stolen
+- [Twitter/X](https://x.com/whatgives9/status/1862849159155376133)
+- [Twitter/X](https://x.com/RogerHudsonCO/status/1862525739268284935)
+- [Twitter/X](https://x.com/Civixplorer/status/1861909618571829452)
+- [Twitter/X](https://x.com/simongerman600/status/1862134865308598560)
+- [BlueSky](https://bsky.app/profile/dystopiangrift.bsky.social/post/3lbxbki2urs27)
