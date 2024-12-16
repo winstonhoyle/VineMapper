@@ -68,7 +68,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/US_Government_Employees_By_State/)|[2](projects/Slavic_in_USA/)|[3](projects/Dollar_Generals_Per_County/)|[4](projects/Over_18_Population/)|
-|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|7|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|11|
+|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|[10](projects/Police_Spending_Per_Capita_Inversed/)|11|
 |[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|14|15|16|[17](projects/McDonalds_Vs_Dollar_Generals/)|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|-|
@@ -79,10 +79,10 @@
 * [01/04/2025](projects/Over_18_Population/) Percent of State's Population Over 18
 * [01/05/2025](projects/Preventable_COVID_Deaths/) Preventable COVID Deaths In The USA (2021-2022)
 * [01/06/2025](projects/McDonalds_Per_County_Count/) How Many McDonald's Does Your County Have?
-* [01/07/2025] Unknown
+* [01/07/2025](projects/Progressives_Per_State_119th_Congress_Fixed/) Progressives In the 119th Congress, Fixed from [12/15/2024](projects/Progressives_Per_State_119th_Congress/)
 * [01/08/2025](projects/Working_Population/) Percentage of Working Age (16-64) Population In Each State
 * [01/09/2025](projects/Dollar_Generals_Per_County_Count/) How Many Dollar Generals Does Your County Have?
-* [01/10/2025] Unknown
+* [01/10/2025](projects/Police_Spending_Per_Capita_Inversed/) Police Spending Per Capita for Each US State Inversed Data from [12/16/2024](projects/Police_Spending_Per_Capita/)
 * [01/11/2025] Unknown
 * [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
 * [01/13/2025](projects/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
