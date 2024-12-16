@@ -69,8 +69,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/US_Government_Employees_By_State/)|[2](projects/Slavic_in_USA/)|[3](projects/Dollar_Generals_Per_County/)|[4](projects/Over_18_Population/)|
 |[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|[10](projects/Police_Spending_Per_Capita_Inversed/)|11|
-|[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|14|15|16|[17](projects/McDonalds_Vs_Dollar_Generals/)|18|
-|19|20|21|22|23|24|25|
+|[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|14|[15](projects/Lidl_Locations_USA/)|16|[17](projects/McDonalds_Vs_Dollar_Generals/)|18|
+|19|20|21|[22](projects/Subways_Per_State/)|23|24|25|
 |26|27|28|29|30|31|-|
 
 * [01/01/2025](projects/US_Government_Employees_By_State/) Federal Government Workers Per State (2024)
@@ -87,7 +87,7 @@
 * [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
 * [01/13/2025](projects/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
 * [01/14/2025] Unknown
-* [01/15/2025] Unknown
+* [01/15/2025](projects/Lidl_Locations_USA/) Lidl Locations In the USA
 * [01/16/2025] Unknown
 * [01/17/2025](projects/McDonalds_Vs_Dollar_Generals/) If A County has more Dollar Generals Or McDonald's
 * [01/18/2025] Unknown
