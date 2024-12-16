@@ -46,5 +46,5 @@ January 2025
 |-|-|-|[1](projects/US_Government_Employees_By_State/)|[2](projects/Slavic_in_USA/)|[3](projects/Dollar_Generals_Per_County/)|[4](projects/Over_18_Population/)|
 |[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|[10](projects/Police_Spending_Per_Capita_Inversed/)|11|
 |[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|14|[15](projects/Lidl_Locations_USA/)|16|[17](projects/McDonalds_Vs_Dollar_Generals/)|18|
-|19|20|21|[22](projects/Subways_Per_State/)|23|24|25|
+|19|[20](projects/Trader_Joes_Per_State/)|21|22|[23](projects/Subways_Per_State/)|24|25|
 |26|27|28|29|30|31|-|
