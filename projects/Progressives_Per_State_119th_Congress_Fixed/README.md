@@ -1,6 +1,6 @@
 ## Progressive House Members in the 119th Congress. Fixed from [12/15/2024](../Progressives_Per_State_119th_Congress/)
 A Simple Map showing the percent of progressive House Members per state and progressive districts. Fixed from [12/15/2024](../Progressives_Per_State_119th_Congress/)
-![Map](Progressives_Per_State_119th_Congress.png)
+![Map](Progressives_Per_State_119th_Congress_Fixed.png)
 
 ## Data
 * [Progressive Data](https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus)
