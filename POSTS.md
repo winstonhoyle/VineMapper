@@ -46,7 +46,7 @@
 * [12/13/2024](projects/Brazilians_in_USA/) Brazilians In the USA
 * [12/14/2024](projects/TexasRoadHouse_Locations_US/) Texas Roadhouse Locations In the USA
 * [12/15/2024](projects/Progressives_Per_State_119th_Congress/) Progressives in the 119th Congress by State
-* [12/16/2024](projects/Police_Spending_Per_Capita/) Police Spending Per Capita for Each US State
+* [12/16/2024](projects/Police_Spending_Per_Capita/) Police Spending Per Capita for Each US State (Percents And $ Amounts)
 * [12/17/2024](projects/COVID_Cases_Per_State/) COVID Cases Per State
 * [12/18/2024](projects/Yugoslavs_in_USA/) Yugoslavs In the USA
 * [12/19/2024](projects/McDonalds_Per_State/) McDonald's Per State in the USA
@@ -56,7 +56,7 @@
 * [12/23/2024](projects/Soviets_in_USA/) Soviets In the USA
 * [12/24/2024](projects/US_States_GDP_Change_2023-2024/) US States GDP Change from 2023 to 2024
 * [12/25/2024](projects/US_States_GDP_Change_Per_Capita_2022-2024) US States GDP Per Capita Change from 2022 to 2024
-* [12/26/2024](projects/Corrections_Spending_Per_Capita_Inversed/) Corrections Spending Per Capita for Each US State Inversed Data from [12/11/2024](projects/Corrections_Spending_Per_Capita/)
+* [12/26/2024](projects/Corrections_Spending_Per_Capita_Inversed/) Corrections Spending Per Capita for Each US State (Percents)
 * [12/27/2024](projects/Dollar_Generals_Per_State/) Dollar Generals Per State
 * [12/28/2024](projects/McDonalds_by_County/) Does Your County Have a McDonald's?
 * [12/29/2024](projects/Turks_In_USA) Turkish People In the USA
@@ -69,7 +69,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/US_Government_Employees_By_State/)|[2](projects/Slavic_in_USA/)|[3](projects/Dollar_Generals_Per_County/)|[4](projects/Over_18_Population/)|
 |[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|[10](projects/Police_Spending_Per_Capita_Inversed/)|11|
-|[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|14|[15](projects/Lidl_Locations_USA/)|16|[17](projects/McDonalds_Vs_KFC/)|18|
+|[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|[14](projects/Corrections_Spending_Per_Capita_Values/)|[15](projects/Lidl_Locations_USA/)|16|[17](projects/McDonalds_Vs_KFC/)|18|
 |19|[20](projects/Trader_Joes_Per_State/)|21|22|[23](projects/Subways_Per_State/)|24|25|
 |[26](projects/KFCs_Per_State/)|27|28|[29](projects/McDonalds_Vs_Dollar_Generals/)|30|31|-|
 
@@ -82,11 +82,11 @@
 * [01/07/2025](projects/Progressives_Per_State_119th_Congress_Fixed/) Progressives In the 119th Congress, Fixed from [12/15/2024](projects/Progressives_Per_State_119th_Congress/)
 * [01/08/2025](projects/Working_Population/) Percentage of Working Age (16-64) Population In Each State
 * [01/09/2025](projects/Dollar_Generals_Per_County_Count/) How Many Dollar Generals Does Your County Have?
-* [01/10/2025](projects/Police_Spending_Per_Capita_Inversed/) Police Spending Per Capita for Each US State Inversed Data from [12/16/2024](projects/Police_Spending_Per_Capita/)
+* [01/10/2025](projects/Police_Spending_Per_Capita_Inversed/) Policing Spending Per Capita for Each US State ($ Amounts)
 * [01/11/2025] Unknown
 * [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
 * [01/13/2025](projects/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
-* [01/14/2025] Unknown
+* [01/14/2025](projects/Corrections_Spending_Per_Capita_Values/) Police Spending Per Capita for Each US State ($ Amounts)
 * [01/15/2025](projects/Lidl_Locations_USA/) Lidl Locations In the USA
 * [01/16/2025] Unknown
 * [01/17/2025](projects/McDonalds_Vs_KFC/) McDonald's Vs KFC Per County
