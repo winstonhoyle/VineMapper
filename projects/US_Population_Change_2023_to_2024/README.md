@@ -14,9 +14,10 @@ A simple map showing population change from 2023 to 2024
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DD2VEbnxeQY/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DD2VFXaRKTb)
 - [x] [Youtube Shorts](https://youtube.com/shorts/AVd5QyKxiGo)
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ldtgkhn36k24)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1870522055487316242)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hjejm4/population_change_from_2023_to_2024_in_each_us/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hjej5c/population_change_from_2023_to_2024_in_each_us/)

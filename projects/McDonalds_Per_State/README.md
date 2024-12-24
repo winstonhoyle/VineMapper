@@ -14,11 +14,11 @@ A Simple Map showing McDonald's Per State
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7446914537783282990)
+- [x] [Instagram](https://www.instagram.com/p/DDxLMPXxFWo/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DDxLNamR-Zw)
 - [x] [Youtube Shorts](https://youtube.com/shorts/I0s_ogh3K3I)
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1869795203768562046)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ldof2z47ds2z)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hhxeu6/mcdonalds_per_state_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hhxerp/mcdonalds_per_state_2024/)

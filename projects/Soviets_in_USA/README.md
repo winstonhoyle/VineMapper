@@ -13,11 +13,11 @@ A Simple Map showing the number of Soviets per 100k people
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7444735045568335150)
-- [x] [Instagram](https://www.instagram.com/p/DDUxmw3P4N1/)
-- [x] [Instagram Reels](https://www.instagram.com/reel/DDWCnTxRzEo/)
-- [x] [Threads](https://www.threads.net/@vinemapper/post/DDUxnQnPliC)
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7448870553424760107)
+- [x] [Instagram](https://www.instagram.com/p/DD7ZqgJRTvR/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DD7ZrZ-Rtpy)
 - [x] [Youtube Shorts](https://www.youtube.com/shorts/Yec-j0ltLCM)
-- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lcsnwyz2f226)
-- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1h9mzid/russians_per_10k_people_in_the_usa/)
-- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1h9mzrp/russians_per_10k_people_in_the_usa/)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ldyfaiax7s2h)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1871237152408731731)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hkrspg/reported_ancestry_of_soviet_per_1m_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hkrsec/reported_ancestry_of_soviet_per_1m_people/)
