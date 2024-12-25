@@ -15,10 +15,10 @@ A Simple Map showing the location of Lidl's and the state's stores per 1m value
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DEAfqkQRwGI/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DEAfrpaxOI7)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3le5eai5cyk2y)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1871953029609791780)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hm3hum/lidl_locations_in_the_us_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hm3iav/lidl_locations_in_the_us_2024/)

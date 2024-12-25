@@ -1,5 +1,5 @@
-## GDP Change Per State from 2023 to 2024
-A Simple Map showing GDP Change Per State from 2023 to 2024
+## GDP Change Per State from 2022 to 2024
+A Simple Map showing GDP Change Per State from 2022 to 2024
 ![Map](US_States_GDP_Change_Per_Capita_2022-2024.png)
 
 ## Data
@@ -12,10 +12,11 @@ A Simple Map showing GDP Change Per State from 2023 to 2024
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
-- [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7448872281163484462)
+- [x] [Instagram](https://www.instagram.com/p/DD9-kmlxthi/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DD9-k8Oxths)
+- [x] [Youtube Shorts](https://www.youtube.com/shorts/Dq8RV9xVLUw)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1871599138112196982)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3le2vnkq4us24)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hlhh0t/gdp_per_capita_changes_per_state_from_2022_to_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hlhgqg/gdp_per_capita_changes_per_state_from_2022_to_2024/)
