@@ -3,7 +3,7 @@ A Simple Map showing McDonald's Per State
 ![Map](McDonalds_Locations_US.png)
 
 ## Data
-* [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
+* [McDonalds Data](https://www.mcdonalds.com/us/en-us/restaurant-locator.html)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)

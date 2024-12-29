@@ -1,6 +1,6 @@
 ## McDonald's Count In Each County in the USA
 A Simple Map showing the count of McDonald's in each US County
-![Map](Dollar_Generals_Per_County_Count.png)
+![Map](McDonalds_Per_County_Count.png)
 
 ## Data
 * [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
