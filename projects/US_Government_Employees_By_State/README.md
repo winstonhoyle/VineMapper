@@ -15,9 +15,10 @@ A simple map showing the population (out of 10k) that are federal government wor
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DENzMSSPdwi/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DENzNdoPiGa)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1873826244858700136)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3leke4xz6vc2j)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hpwci3/federal_workers_per_state_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hpwc80/federal_workers_per_state_2024/)
