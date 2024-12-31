@@ -13,10 +13,10 @@ A Fun Map of Using [4 Color Theorem](https://en.wikipedia.org/wiki/Four_color_th
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DEQB216P7Fa/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DEQB3X4PVXR)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [Twitter/X](https://x.com/VineMapper/status/1874139689298633098)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lemjqygi6s2h)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hqj36n/united_states_of_dollar_general/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hqj3os/united_states_of_dollar_general/)
