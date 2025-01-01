@@ -68,7 +68,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/Gender_Ratio_USA/)|[2](projects/Slavic_in_USA/)|[3](projects/Police_Spending_Per_Capita_Inversed/)|[4](projects/Over_18_Population/)|
-|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|11|
+|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|[11](projects/Bojangles_Per_State/)|
 |[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|[14](projects/Corrections_Spending_Per_Capita_Values/)|15|16|[17](projects/McDonalds_Vs_KFC/)|18|
 |19|[20](projects/Trader_Joes_Per_State/)|21|22|[23](projects/Subways_Per_State/)|24|25|
 |[26](projects/KFCs_Per_State/)|27|28|[29](projects/McDonalds_Vs_Dollar_Generals/)|30|31|-|
@@ -84,7 +84,7 @@
 * [01/08/2025](projects/Working_Population/) Percentage of Working Age (16-64) Population In Each State
 * [01/09/2025](projects/Dollar_Generals_Per_County_Count/) How Many Dollar Generals Does Your County Have?
 * [01/10/2025] Unknown
-* [01/11/2025] Unknown
+* [01/11/2025](projects/Bojangles_Per_State/) Bojangles Locations With Per State Information
 * [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
 * [01/13/2025](projects/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
 * [01/14/2025](projects/Corrections_Spending_Per_Capita_Values/) Police Spending Per Capita for Each US State ($ Amounts)

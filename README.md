@@ -5,7 +5,7 @@ This is the repo where I aggregate all the data for the posts on [@VineMapper](#
 ![Image](logo.png)
 
 ## Posts
-Check [POSTS.md](https://github.com/winstonhoyle/VineMapper/blob/main/POSTS.md) to see what post was uploaded on exact dates.
+Check [POSTS.md](https://github.com/winstonhoyle/VineMapper/blob/main/POSTS.md) to see what post was uploaded on exact dates. Most posts will not include the image (png format) until date posted.
 
 ## Code
 Each project has a `requirements.txt` but I have also created a master [requirements.txt](requirements.txt) in root if you want to run multiple projects.
@@ -44,7 +44,7 @@ January 2025
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/Gender_Ratio_USA/)|[2](projects/Slavic_in_USA/)|[3](projects/Police_Spending_Per_Capita_Inversed/)|[4](projects/Over_18_Population/)|
-|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|11|
+|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|[11](projects/Bojangles_Per_State/)|
 |[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|[14](projects/Corrections_Spending_Per_Capita_Values/)|15|16|[17](projects/McDonalds_Vs_KFC/)|18|
 |19|[20](projects/Trader_Joes_Per_State/)|21|22|[23](projects/Subways_Per_State/)|24|25|
 |[26](projects/KFCs_Per_State/)|27|28|[29](projects/McDonalds_Vs_Dollar_Generals/)|30|31|-|
