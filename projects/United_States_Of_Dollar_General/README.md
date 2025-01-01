@@ -20,3 +20,8 @@ A Fun Map of Using [4 Color Theorem](https://en.wikipedia.org/wiki/Four_color_th
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lemjqygi6s2h)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hqj36n/united_states_of_dollar_general/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hqj3os/united_states_of_dollar_general/)
+
+## Stolen
+- [Threads](https://www.threads.net/@dataposts/post/DEQd2utv7Sj)
+- [Instagram](https://www.instagram.com/p/DEQd2Gtvj0I/)
+- [Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02osBPCkLzy6n2df3Bm8GJmNEonsmc78vWKczdhQqNJyUw1UtQEAJhJx2Y3Z2a2ooel&id=61555672017566)

@@ -24,3 +24,5 @@ A Simple Map showing the number of Russians per 1000 people
 
 ## Stolen
 - [Twitter/X](https://x.com/Locati0ns/status/1866128297878601892)
+- [Instagram](https://www.instagram.com/p/DDmkwUfRLyb/)
+- [Threads](https://threads.net/@dataposts/post/DDmkwscRj5F)
