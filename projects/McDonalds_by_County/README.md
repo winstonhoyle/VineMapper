@@ -21,3 +21,7 @@ A Simple Map showing if a county has a McDonald's
 - [x] [X/Twitter](https://x.com/VineMapper/status/1873042351050133562)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ho9070/does_your_county_have_a_mcdonalds/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ho8yt9/does_your_county_have_a_mcdonalds/)
+
+## Stolen
+- [Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0kKYCHaie7uh8NSYSWV6eJKUEccsTmVz46MVQYRgfdtUvekNV9PUW32g1CXM7upzRl&id=61555672017566)
+- [Youtube](https://www.youtube.com/watch?v=3T5nurSVNNQ)
