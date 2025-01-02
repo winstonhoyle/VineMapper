@@ -94,7 +94,7 @@
 * [01/18/2025] Unknown
 * [01/19/2025] Unknown
 * [01/20/2025](projects/Trader_Joes_Per_State/) Trader Joe's Per State
-* [01/21/2025] Unknown
+* [01/21/2025](projects/McDonalds_Vs_Subway/) McDonald's Vs Subways Per County
 * [01/22/2025] Unknown
 * [01/23/2025] Unknown
 * [01/24/2025] Unknown
