@@ -68,9 +68,9 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/Gender_Ratio_USA/)|[2](projects/Slavic_in_USA/)|[3](projects/Police_Spending_Per_Capita_Inversed/)|[4](projects/Over_18_Population/)|
-|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|10|[11](projects/Bojangles_Per_State/)|
-|[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|[14](projects/Corrections_Spending_Per_Capita_Values/)|15|16|[17](projects/McDonalds_Vs_KFC/)|18|
-|19|[20](projects/Trader_Joes_Per_State/)|21|22|[23](projects/Subways_Per_State/)|24|25|
+|[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|[10](projects/Homeless_Change_2023_2024_Percents/)|[11](projects/Bojangles_Per_State/)|
+|[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|[14](projects/Corrections_Spending_Per_Capita_Values/)|[15](projects/Subways_Per_State/)|[16](projects/Homeless_Change_2023_2024_Totals/)|[17](projects/McDonalds_Vs_KFC/)|18|
+|19|[20](projects/Trader_Joes_Per_State/)|21|22|23|24|25|
 |[26](projects/KFCs_Per_State/)|27|28|[29](projects/McDonalds_Vs_Dollar_Generals/)|30|31|-|
 
 
@@ -83,20 +83,20 @@
 * [01/07/2025](projects/Progressives_Per_State_119th_Congress_Fixed/) Progressives In the 119th Congress, Fixed from [12/15/2024](projects/Progressives_Per_State_119th_Congress/)
 * [01/08/2025](projects/Working_Population/) Percentage of Working Age (16-64) Population In Each State
 * [01/09/2025](projects/Dollar_Generals_Per_County_Count/) How Many Dollar Generals Does Your County Have?
-* [01/10/2025] Unknown
+* [01/10/2025](projects/Homeless_Change_2023_2024_Percents/) Percent Homeless Population Change from 2023 to 2024
 * [01/11/2025](projects/Bojangles_Per_State/) Bojangles Locations With Per State Information
 * [01/12/2025](projects/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
 * [01/13/2025](projects/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
 * [01/14/2025](projects/Corrections_Spending_Per_Capita_Values/) Police Spending Per Capita for Each US State ($ Amounts)
-* [01/15/2025]
-* [01/16/2025] Unknown
+* [01/15/2025](projects/Subways_Per_State/) Subways Per State
+* [01/16/2025](projects/Homeless_Change_2023_2024_Totals/) Total Homeless Population Change from 2023 to 2024
 * [01/17/2025](projects/McDonalds_Vs_KFC/) McDonald's Vs KFC Per County
 * [01/18/2025] Unknown
 * [01/19/2025] Unknown
 * [01/20/2025](projects/Trader_Joes_Per_State/) Trader Joe's Per State
 * [01/21/2025] Unknown
 * [01/22/2025] Unknown
-* [01/23/2025](projects/Subways_Per_State/) Subways Per State
+* [01/23/2025] Unknown
 * [01/24/2025] Unknown
 * [01/25/2025] Unknown
 * [01/26/2025](projects/KFCs_Per_State/) KFCs Per State
