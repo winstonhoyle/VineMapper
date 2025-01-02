@@ -1,10 +1,10 @@
-## Gender Ratio in the USA
-A Simple Map showing Gender Ratio betweent the ages of 20-44
-![Map](Gender_Ratio_USA_20-44.png)
+## McDonald's Vs Subway
+A Simple Map showing if a State has more McDonald's Or Subways
+![Map](McDonalds_Vs_Subway_Per_State.png)
 
 ## Data
-* [Gender Data](https://data.census.gov/table/ACSST1Y2023.S0101?g=010XX00US$0400000)
-* [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
+* [Subway Data, check other Subway Map. Webscrapping takes ~1h](../Subways_Per_State/)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
