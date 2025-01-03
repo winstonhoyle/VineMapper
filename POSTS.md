@@ -111,8 +111,8 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - | - |[1](projects/Hunt_Brothers_Per_State/)|
-|2|[3](projects/Taco_Bells_Vs_KFC)|4|[5](projects/Hunt_Brothers_Countes)|6|7|8|
-|9|10|11|12|13|14|15|
+|2|[3](projects/Taco_Bells_Vs_KFC)|4|[5](projects/Hunt_Brothers_Counties)|6|[7](projects/Taco_Bells_Per_State_Per_Capita/)|8|
+|[9](projects/Dollar_General_Vs_Hunt_Brothers_Counties/)|10|11|12|13|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|-|
 
@@ -120,11 +120,11 @@
 * [02/02/2025]()
 * [02/03/2025](projects/Taco_Bells_Vs_KFC) Taco Bells Vs KFCs Per State
 * [02/04/2025]()
-* [02/05/2025](projects/Hunt_Brothers_Countes) Does Your County Have A Hunt Brothers Pizza?
+* [02/05/2025](projects/Hunt_Brothers_Counties) Does Your County Have A Hunt Brothers Pizza?
 * [02/06/2025]()
-* [02/07/2025]()
+* [02/07/2025](projects/Taco_Bells_Per_State_Per_Capita/) Taco Bells Per Per 100k in USA
 * [02/08/2025]()
-* [02/09/2025]()
+* [02/09/2025](projects/Dollar_General_Vs_Hunt_Brothers_Counties/) Dollar General Vs Hunt Brothers Pizza Per County
 * [02/10/2025]()
 * [02/11/2025]()
 * [02/12/2025]()

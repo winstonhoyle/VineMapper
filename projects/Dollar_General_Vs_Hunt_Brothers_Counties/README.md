@@ -1,10 +1,10 @@
-## Taco Bells Per State
-A Simple Map showing Taco Bells Per State
-![Map](Taco_Bells_Per_State.png)
+## Dollar General Vs Hunt Brothers Pizza Per County
+A Simple Map showing if a county has more Dollar Generals or Hunt Brothers Pizza
+![Map](Dollar_General_Vs_Hunt_Brothers_Counties.png)
 
 ## Data
-* [Taco Bell Data](https://locations.tacobell.com/)
-* [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
+* [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)
+* [Hunt Brothers Pizza Data, check other Hunt Brothers Per State Map. Webscrapping takes ~1h](../Hunt_Brothers_Per_State/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)

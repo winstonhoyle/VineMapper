@@ -1,6 +1,6 @@
-## Taco Bells Per State
-A Simple Map showing Taco Bells Per State
-![Map](Taco_Bells_Per_State.png)
+## Taco Bells Per Capita Per State
+A Simple Map showing Taco Bells Per Capita Per State
+![Map](Taco_Bells_Per_State_Per_Capita.png)
 
 ## Data
 * [Taco Bell Data](https://locations.tacobell.com/)
