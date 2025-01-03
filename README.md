@@ -53,7 +53,7 @@ February 2025
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - | - |[1](projects/Hunt_Brothers_Per_State/)|
-|2|[3](projects/Taco_Bells_Vs_KFC)|4|[5](projects/Hunt_Brothers_Counties)|6|[7](projects/Taco_Bells_Per_State_Per_Capita/)|8|
-|9|10|11|12|13|14|15|
+|2|[3](projects/Taco_Bells_Vs_KFCs_Per_State/)|4|5|6|[7](projects/Taco_Bells_Per_State_Per_Capita/)|8|
+|[9](projects/Dollar_General_Vs_Hunt_Brothers_Counties/)|10|11|12|13|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|-|
