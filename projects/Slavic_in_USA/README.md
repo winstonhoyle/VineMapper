@@ -13,10 +13,10 @@ A Simple Map showing the number of Slavs per 100k people
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7455389920077647150)
 - [x] [Instagram](https://www.instagram.com/p/DEVMl5AP9sE/)
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DEVMm6Iv76p)
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/lQhFYVMkZc8)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lerl7czj422q)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hryovk/reported_ancestry_of_slavic_per_100k_people/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hryojd/reported_ancestry_of_slavic_per_100k_people/)

@@ -46,5 +46,5 @@ January 2025
 |-|-|-|[1](projects/Gender_Ratio_USA/)|[2](projects/Slavic_in_USA/)|[3](projects/Police_Spending_Per_Capita_Inversed/)|[4](projects/Over_18_Population/)|
 |[5](projects/Preventable_COVID_Deaths/)|[6](projects/McDonalds_Per_County_Count/)|[7](projects/Progressives_Per_State_119th_Congress_Fixed/)|[8](projects/Working_Population/)|[9](projects/Dollar_Generals_Per_County_Count/)|[10](projects/Homeless_Change_2023_2024_Percents/)|[11](projects/Bojangles_Per_State/)|
 |[12](projects/Dollar_Generals_HeatMap/)|[13](projects/Over_18_Working_Population/)|[14](projects/Corrections_Spending_Per_Capita_Values/)|[15](projects/Subways_Per_State/)|[16](projects/Homeless_Change_2023_2024_Totals/)|[17](projects/McDonalds_Vs_KFC/)|[18](projects/Gender_Ratio_USA_20-44/)|
-|[19](projects/Wine_Production_Europe_2022/)|[20](projects/Trader_Joes_Per_State/)|[21](projects/McDonalds_Vs_Subway/)|[22](projects/Gender_Ratio_USA_65_And_Over/)|23|[24](projects/McDonalds_Vs_Subway_Per_State/)|25|
-|[26](projects/KFCs_Per_State/)|27|28|[29](projects/McDonalds_Vs_Dollar_Generals/)|30|31|-|
+|[19](projects/Wine_Production_Europe_2022/)|[20](projects/Trader_Joes_Per_State/)|[21](projects/McDonalds_Vs_Subway/)|[22](projects/Gender_Ratio_USA_65_And_Over/)|23|[24](projects/McDonalds_Vs_Subway_Per_State/)|[25](projects/Wine_Produced_USA_2024/)|
+|[26](projects/KFCs_Per_State/)|27|28|[29](projects/McDonalds_Vs_Dollar_Generals/)|[30](projects/Wine_Produced_USA_2024_Per_Capita/)|31|-|
