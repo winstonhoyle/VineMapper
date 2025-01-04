@@ -1,6 +1,6 @@
 ## Homeless Population Out of 10k
 A Simple Map showing percent homeless population out of 10k
-![Map](projects/Homeless_population_per_10k/Homeless_population_per_10k.png)
+![Map](Homeless_population_per_10k.png)
 
 ## Data
 * [US Homeless Data](https://www.huduser.gov/portal/datasets/ahar/2023-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html)
