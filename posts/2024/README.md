@@ -1,6 +1,8 @@
 ## Calendar
 
-November
+Click the month for post descriptions
+
+[November](november.md)
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -10,7 +12,7 @@ November
 |17|18|19|[20](projects/politics/California_Democratic_Pres_Turnout_2020_2024/)|[21](projects/politics/California_Republican_Pres_Turnout_2020_2024)|[22](projects/demography/European_Capitals_HDI)|[23](projects/alcohol/Breweries_Per_Capita/)|
 |[24](projects/politics/European_Socialists/)|[25](projects/alcohol/Distilleries_Per_Capita/)|[26](projects/homeless/Homeless_Change_2020_2023/)|[27](projects/homeless/Homeless_population_per_10k/)|[28](projects/versus/Distilleries_vs_Breweries/)|[29](projects/agriculture/Grape_Production_Europe_2022/)|[30](projects/alcohol/Wineries_Per_Capita/)|
 
-December
+[December](december.mdd)
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|

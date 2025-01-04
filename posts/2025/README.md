@@ -1,6 +1,8 @@
 ## Calendar
 
-January
+Click the month for post descriptions
+
+[January](january.md)
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -10,7 +12,7 @@ January
 |[19](../../projects/alcohol/Wine_Production_Europe_2022/)|[20](../../projects/stores/Trader_Joes_Per_State/)|[21](../../projects/versus/McDonalds_Vs_Subway/)|[22](../../projects/demography/Gender_Ratio_USA_65_And_Over/)|[23](../../projects/ethnicity/Cubans_in_USA/)|[24](../../projects/versus/McDonalds_Vs_Subway_Per_State/)|[25](../../projects/alcohol/Wine_Produced_USA_2024/)|
 |[26](../../projects/restaurants/KFCs_Per_State/)|[27](../../projects/stores/Dollar_Generals_Per_County)|[28](../../projects/restaurants/Taco_Bells_Per_State/)|[29](../../projects/versus/McDonalds_Vs_Dollar_Generals/)|[30](../../projects/alcohol/Wine_Produced_USA_2024_Per_Capita/)|[31](../../projects/economics/US_States_GDP_Change_2023-2024/)|-|
 
-February
+[February](february.md)
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
