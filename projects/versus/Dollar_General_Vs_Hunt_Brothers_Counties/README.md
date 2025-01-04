@@ -1,10 +1,10 @@
-## McDonald's Vs General Dollar
-A Simple Map showing if a county has more McDonald's Or General Dollars
-![Map](McDonalds_Vs_Dollar_Generals.png)
+## Dollar General Vs Hunt Brothers Pizza Per County
+A Simple Map showing if a county has more Dollar Generals or Hunt Brothers Pizza
+![Map](Dollar_General_Vs_Hunt_Brothers_Counties.png)
 
 ## Data
-* [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
-* [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)
+* [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../../stores/Dollar_Generals_Per_State/)
+* [Hunt Brothers Pizza Data, check other Hunt Brothers Per State Map. Webscrapping takes ~1h](../../restaurants/Hunt_Brothers_Per_State/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
