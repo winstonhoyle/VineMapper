@@ -1,5 +1,5 @@
 ## McDonald's Per Capita
-A Simple Map showing the count of McDonald's Per Capita in Each County
+A Simple Map showing the count of McDonald's Per 100k People in Each County
 ![Map](McDonalds_Per_Capita.png)
 
 ## Data
