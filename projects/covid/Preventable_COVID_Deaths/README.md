@@ -13,10 +13,11 @@ A Simple Map showing the raw number of preventable deaths and the per 100k death
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DEdMI5jzOp8/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DEdMJeqzOes)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lezexkt7rs2q)
+- [x] [X\Twitter](https://x.com/VineMapper/status/1875991661098197389)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hufdsz/preventable_covid_deaths_20212022/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hufbc4/preventable_covid_deaths_20212022/)

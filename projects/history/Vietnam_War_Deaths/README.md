@@ -25,3 +25,4 @@ A Simple Map showing the Vietnam War Deaths per USA State with Per 100k informat
 - [Twitter/X](https://x.com/simongerman600/status/1868039262026813927)
 - [Threads](https://www.threads.net/@dataposts/post/DDS1LCbPV5T)
 - [Instagram](https://www.instagram.com/p/DDS1KAlPgHT/)
+- [Instgram](https://www.instagram.com/p/DEY3SlbgXBV/)
