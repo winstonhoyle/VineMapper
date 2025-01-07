@@ -15,11 +15,10 @@ A Simple Map showing the percent of progressive House Members per state and prog
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DEiPcjkSoDp/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DEiPdIcyhH5)
 - [ ] [Youtube Shorts]()
-- [ ] [Twitter/X]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [Twitter/X](https://x.com/VineMapper/status/1876702790912778598)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lf6cudltlk2a)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hvys7d/house_progressives_in_the_119th_congress/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hvyqgv/house_progressives_in_the_119th_congress/)
