@@ -17,7 +17,7 @@
 * [01/05/2025](../../projects/covid/Preventable_COVID_Deaths/) Preventable COVID Deaths In The USA (2021-2022)
 * [01/06/2025](../../projects/restaurants/McDonalds_Per_County_Count/) How Many McDonald's Does Your County Have?
 * [01/07/2025](../../projects/politics/Progressives_Per_State_119th_Congress_Fixed/) Progressives In the 119th Congress, Fixed from [12/15/2024](../../projects/politics/Progressives_Per_State_119th_Congress/)
-* [01/08/2025](../../projects/demography/Working_Population/) Percentage of Working Age (16-64) Population In Each State
+* [01/08/2025](../../projects/demography/Over_16_Working_Population/) Percent of Working Age (16-64) Population In Each State
 * [01/09/2025](../../projects/stores/Dollar_Generals_Per_County_Count/) How Many Dollar Generals Does Your County Have?
 * [01/10/2025](../../projects/homeless/Homeless_Change_2023_2024_Percents/) Percent Homeless Population Change from 2023 to 2024
 * [01/11/2025](../../projects/restaurants/Bojangles_Per_State/) Bojangles Locations With Per State Information

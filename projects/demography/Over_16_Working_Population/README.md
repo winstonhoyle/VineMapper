@@ -1,7 +1,7 @@
 # Percent Of the Population Aged 16+ That Is "Working Age" (16-64)
 A Simple Map showing percent of the population that is over 16 of working age
 
-![Map](Over_18_Working_Population.png)
+![Map](Over_16_Working_Population.png)
 
 ## Data
 * [Gender Data](https://data.census.gov/table/ACSST1Y2023.S0101?g=010XX00US$0400000)
@@ -14,10 +14,11 @@ A Simple Map showing percent of the population that is over 16 of working age
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DEky7gXS6kO/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DEky8EIS2Ry)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1877062125098578074)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lfasoqimas2l)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hwrcwb/percent_of_the_population_that_is_working_age_1664/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hwrcj1/percent_of_the_population_that_is_working_age_1664/)
