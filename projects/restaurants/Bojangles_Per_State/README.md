@@ -14,10 +14,11 @@ A Simple Map show all the locations of Bojangles
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DEsijkGyp2H/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DEsikJkSL8e)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lfieotryvk2a)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1878152166726140000)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hz2sxz/bojangles_locations/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hz2spb/bojangles_locations/)
