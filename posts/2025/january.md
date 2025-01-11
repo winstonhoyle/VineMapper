@@ -22,13 +22,13 @@
 * [01/10/2025](../../projects/homeless/Homeless_Change_2023_2024_Percents/) Percent Homeless Population Change from 2023 to 2024
 * [01/11/2025](../../projects/restaurants/Bojangles_Per_State/) Bojangles Locations With Per State Information
 * [01/12/2025](../../projects/stores/Dollar_Generals_HeatMap/) HeatMap of Dollar Generals In the USA
-* [01/13/2025](../../projects/demography/Over_18_Working_Population/) Percentage of the Working Age Population Over 16
+* [01/13/2025](../../projects/alcohol/Wine_Production_Europe_2022/) Wine Production In Europe (2022)
 * [01/14/2025](../../projects/police/Corrections_Spending_Per_Capita_Values/) Police Spending Per Capita for Each US State ($ Amounts)
 * [01/15/2025](../../projects/restaurants/Subways_Per_State/) Subways Per State
 * [01/16/2025](../../projects/homeless/Homeless_Change_2023_2024_Totals/) Total Homeless Population Change from 2023 to 2024
 * [01/17/2025](../../projects/versus/McDonalds_Vs_KFC/) McDonald's Vs KFC Per County
 * [01/18/2025](../../projects/demography/Gender_Ratio_USA_20-44/) Gender Ratio Between the Ages of 20 to 44 Per State
-* [01/19/2025](../../projects/alcohol/Wine_Production_Europe_2022/) Wine Production In Europe (2022)
+* [01/19/2025] Unknown
 * [01/20/2025](../../projects/stores/Trader_Joes_Per_State/) Trader Joe's Per State
 * [01/21/2025](../../projects/versus/McDonalds_Vs_Subway/) McDonald's Vs Subways Per County
 * [01/22/2025](../../projects/demography/Gender_Ratio_USA_65_And_Over/) Gender Ratio Between the Ages of 65 and Over Per State
