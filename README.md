@@ -5,7 +5,7 @@ This is the repo where I aggregate all the data for the posts on [@VineMapper](#
 ![Image](logo.png)
 
 ## Posts
-Check [posts](posts/) to see what post was uploaded on exact dates. Most posts will not include the image (png format) until date posted.
+Check [posts](posts/) to see what post was uploaded on exact dates. **Most posts will not include the image (png format) until date posted.**
 
 ## Code
 Each project has a `requirements.txt` but I have also created a master [requirements.txt](requirements.txt) in root if you want to run multiple projects.
