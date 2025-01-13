@@ -4,7 +4,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - | - |[1](../../projects/restaurants/Hunt_Brothers_Per_State/)|
 |[2](../../projects/stores/Costcos_Per_State/)|[3](../../projects/versus/Taco_Bells_Vs_KFCs_Per_State/)|[4](../../projects/economics/Homeownership_Rate_Per_State_2024/)|[5](../../projects/restaurants/McDonalds_Per_Capita/)|6|[7](../../projects/restaurants/Taco_Bells_Per_State_Per_Capita/)|8|
-|[9](../../projects/versus/Dollar_General_Vs_Hunt_Brothers_Counties/)|10|11|12|13|14|15|
+|[9](../../projects/versus/Dollar_General_Vs_Hunt_Brothers_Counties/)|[10](../../projects/economics/Rental_Rate_Per_State_2024/)|11|12|13|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|-|
 
@@ -19,7 +19,7 @@
 * [02/07/2025](../../projects/restaurants/Taco_Bells_Per_State_Per_Capita/) Taco Bells Per Per 100k in USA
 * [02/08/2025]()
 * [02/09/2025](../../projects/versus/Dollar_General_Vs_Hunt_Brothers_Counties/) Dollar General Vs Hunt Brothers Pizza Per County
-* [02/10/2025]()
+* [02/10/2025](../../projects/economics/Rental_Rate_Per_State_2024/) Renter-Occupied Housing Rate in USA Per State (2024)
 * [02/11/2025]()
 * [02/12/2025]()
 * [02/13/2025]()
