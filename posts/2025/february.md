@@ -25,12 +25,12 @@
 * [02/13/2025](../../projects/economics/Homeownership_Rate_Change_2023_2024) Change in Homeownership Rate in USA from 2023 to 2024
 * [02/14/2025]()
 * [02/15/2025]()
-* [02/16/2025](../../projects/restaurants/CarlsJr_Per_State/) Carl's Jr Per State
+* [02/16/2025](../../projects/restaurants/CarlsJr_Per_State/) Carl's Jr Locations
 * [02/17/2025]()
 * [02/18/2025]()
 * [02/19/2025]()
 * [02/20/2025](../../projects/economics/Rental_Rate_Change_2023_2024/) Change in Rental-Occupied Housing Rate in USA from 2023 to 2024
-* [02/21/2025](../../projects/restaurants/Hardees_Per_State/) Hardee's Per State
+* [02/21/2025](../../projects/restaurants/Hardees_Per_State/) Hardee's Locations
 * [02/22/2025]()
 * [02/23/2025]()
 * [02/24/2025]()
