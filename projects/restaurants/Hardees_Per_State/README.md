@@ -1,4 +1,4 @@
-## Hardee;s Locations
+## Hardee's Locations
 A Simple Map showing all the locations of Hardee's
 ![Map](Hardees_Per_State.png)
 
