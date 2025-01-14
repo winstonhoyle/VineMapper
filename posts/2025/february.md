@@ -4,8 +4,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - | - |[1](../../projects/restaurants/Hunt_Brothers_Per_State/)|
 |[2](../../projects/stores/Costcos_Per_State/)|[3](../../projects/versus/Taco_Bells_Vs_KFCs_Per_State/)|[4](../../projects/economics/Homeownership_Rate_Per_State_2024/)|[5](../../projects/restaurants/McDonalds_Per_Capita/)|6|[7](../../projects/restaurants/Taco_Bells_Per_State_Per_Capita/)|8|
-|[9](../../projects/versus/Dollar_General_Vs_Hunt_Brothers_Counties/)|[10](../../projects/economics/Rental_Rate_Per_State_2024/)|11|12|13|14|15|
-|16|17|18|19|20|21|22|
+|[9](../../projects/versus/Dollar_General_Vs_Hunt_Brothers_Counties/)|[10](../../projects/economics/Rental_Rate_Per_State_2024/)|11|12|[13](../../projects/economics/Homeownership_Rate_Change_2023_2024)|14|15|
+|16|17|18|19|[20](../../projects/economics/Rental_Rate_Change_2023_2024/)|21|22|
 |23|24|25|26|27|28|-|
 
 ## Posts
@@ -22,14 +22,14 @@
 * [02/10/2025](../../projects/economics/Rental_Rate_Per_State_2024/) Renter-Occupied Housing Rate in USA Per State (2024)
 * [02/11/2025]()
 * [02/12/2025]()
-* [02/13/2025]()
+* [02/13/2025](../../projects/economics/Homeownership_Rate_Change_2023_2024) Change in Homeownership Rate in USA from 2023 to 2024
 * [02/14/2025]()
 * [02/15/2025]()
 * [02/16/2025]()
 * [02/17/2025]()
 * [02/18/2025]()
 * [02/19/2025]()
-* [02/20/2025]()
+* [02/20/2025](../../projects/economics/Rental_Rate_Change_2023_2024/) Change in Rental-Occupied Housing Rate in USA from 2023 to 2024
 * [02/21/2025]()
 * [02/22/2025]()
 * [02/23/2025]()
