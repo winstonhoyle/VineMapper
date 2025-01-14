@@ -1,6 +1,6 @@
-## Number of Subway's Per State
-A Simple Map showing Subways Per state
-![Map](Subway_Per_State.png)
+## Subway Locations Per 100k People
+A Simple Map showing Subways Per 100k People in Each state
+![Map](Subway_Per_Capita.png)
 
 ## Data
 * [Subway Data](https://restaurants.subway.com/united-states)

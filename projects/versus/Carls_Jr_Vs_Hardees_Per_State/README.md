@@ -1,11 +1,10 @@
-## Number of Subway's Per State
-A Simple Map showing Subways Per state
-![Map](Subway_Per_State.png)
+## Hardee's Vs Carl's Jr in the US
+A Simple Map showing if a State has more Carl's Jr Or Hardee's
+![Map](Carls_Jr_Vs_Hardees_Per_State.png)
 
 ## Data
-* [Subway Data](https://restaurants.subway.com/united-states)
-* [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
-* [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [Carl's Jr Data, Webscraped](../../restaurants/CarlsJr_Per_State/)
+* [Hardee's Data, Webscraped](../../restaurants/Hardees_Per_State/)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
