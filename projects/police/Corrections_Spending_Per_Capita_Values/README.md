@@ -1,6 +1,7 @@
 ## Corrections Spending Per State ($ Values)
 A Simple Map showing percent of state spending on Corrections, only $ value, from [Corrections_Spending_Per_Capita](../Corrections_Spending_Per_Capita/)
-![Map](Corrections_Spending_Per_Capita_Values.png)
+![Image](https://drive.google.com/uc?id=18xOmoJLiHhHj5BpUNmANnj3VVLL1EoLS)
+
 
 ## Data
 * [Corrections Data](https://www.moneygeek.com/financial-planning/taxes/state-policing-corrections-spending/)
