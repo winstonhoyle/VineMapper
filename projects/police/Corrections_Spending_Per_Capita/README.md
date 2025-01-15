@@ -1,13 +1,12 @@
 ## Corrections Spending Per State
 A Simple Map showing percent of state spending on corrections and amount per capita
-![Map](Corrections_Spending_Per_Capita.png)
+![Image](https://drive.google.com/uc?export=view&id=15VQfqmaGJSMVS-lYQnythmAZ_-cnb1mc)
 
 ## Data
 * [Corrections Data](https://www.moneygeek.com/financial-planning/taxes/state-policing-corrections-spending/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
-
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)

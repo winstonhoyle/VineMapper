@@ -1,6 +1,6 @@
 ## Brazilians In the USA
 A Simple Map showing the number of Brazilians per 100k people
-![Map](Brazilians_in_USA.png)
+![Image](https://drive.google.com/uc?export=view&id=1SxRSCzN2S6_hMd2JPPttTMzGuyKfiF0f)
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2022.B04006?q=People%20Reporting%20Ancestry&g=010XX00US$0400000)

@@ -1,6 +1,6 @@
 ## ChuckECheese In The US
 A Simple Map showing locations of Each Chuck-E-Cheese and Stores per 1m People
-![Map](ChuckECheese_Locations_US.png)
+![Image](https://drive.google.com/uc?export=view&id=1C_XnHm08wpcOtELhNg8Cnt_8D86Uvovd)
 
 ## Data
 * [Chuck-E-Cheese Data](https://locations.chuckecheese.com/)

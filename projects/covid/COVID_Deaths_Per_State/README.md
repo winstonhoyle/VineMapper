@@ -1,6 +1,6 @@
 ## COVID Deaths Per State
 A Simple Map showing the number of COVID-19 Deaths and Deaths per 10k People
-![Map](COVID_Deaths_Per_State.png)
+![Image](https://drive.google.com/uc?export=view&id=100EJVY1bTvCyJrWvK-uQeGZ_ZGDS5YV1)
 
 ## Data
 * [COVID Data](https://coronavirus.jhu.edu/region)
@@ -8,7 +8,6 @@ A Simple Map showing the number of COVID-19 Deaths and Deaths per 10k People
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
-
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)

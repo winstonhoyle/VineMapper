@@ -1,6 +1,6 @@
 ## Yugoslavians In the USA
 A Simple Map showing the number of Yugoslavians per 100k people
-![Map](Yugoslavs_in_USA.png)
+![Image](https://drive.google.com/uc?export=view&id=10mdEcvq7bCK-4ar35nubWZfkLZG3Wljx)
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2022.B04006?q=People%20Reporting%20Ancestry&g=010XX00US$0400000)

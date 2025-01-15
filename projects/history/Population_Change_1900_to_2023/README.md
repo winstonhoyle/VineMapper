@@ -1,6 +1,6 @@
 ## Population Change from 1900 to 2023
 A Simple Map showing if a county has increased in population from 1900 to 2023
-![Map](Population_Change_1900_to_2023.png)
+![Image](https://drive.google.com/uc?export=view&id=1I8EfyQ6gzaFjZV8QhPp02DSY-qoHc_3e)
 
 ## Data
 * [1900 Census](https://www.nber.org/research/data/census-us-decennial-county-population-data-1900-1990)

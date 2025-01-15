@@ -1,6 +1,6 @@
 ## Virginia Counties Population Change from 1790 to 2023
 A Simple Map showing if a county has increased in population from 1790 to 2023
-![Map](Virginia_Population_Change_1790_2023.png)
+![Image](https://drive.google.com/uc?export=view&id=1dfmcEI4OCbzFaIT8yb4eykMjjKu1zoAu)
 
 ## Data
 * [1790 Virginia Population](http://www.virginiaplaces.org/population/pop1790numbers.html)

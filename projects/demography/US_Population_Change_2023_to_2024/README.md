@@ -1,6 +1,6 @@
 ## State Population Change from 2023 to 2024
 A simple map showing population change from 2023 to 2024
-![Map](US_Population_Change_2023_to_2024.png)
+![Image](https://drive.google.com/uc?export=view&id=13Ngu9sjwPEyaU2tV7b2nsDCG2gmXeUAa)
 
 ## Data
 * [US Population Data](https://worldpopulationreview.com/states)
