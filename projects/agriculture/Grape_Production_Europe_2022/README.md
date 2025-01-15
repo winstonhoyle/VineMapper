@@ -1,6 +1,6 @@
 ## Grape Production In Europe 2022
 A Simple Map showing volume of grapes produced in Europe in 2022
-![Map](Grape_Production_Europe_2022.png)
+![Image](https://drive.google.com/uc?export=view&id=1U5z-ENXxcjM6BcpdWuoxVHFy29QD34YJ)
 
 ## Data
 * [Grape data](https://www.fao.org/faostat/en/#data/QCL)

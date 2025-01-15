@@ -1,6 +1,6 @@
 ## Distilleries Per 500k
 A Simple Map showing the Distilleries per 500k in each US State
-![Map](Distilleries_Per_Capita.png)
+![Image](https://drive.google.com/uc?export=view&id=1G3bJkAN99lqY9yzAs3qpHFRptf7pH1w4)
 
 ## Data
 * [Distillery Data](https://www.distillerytrail.com/)

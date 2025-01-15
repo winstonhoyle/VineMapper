@@ -1,6 +1,6 @@
 ## Distilleries vs Breweries Per US State
 A Simple Map showing the if there are more Distilleries or Breweries in each USA State
-![Map](Distilleries_vs_Breweries.png)
+![Image](https://drive.google.com/uc?export=view&id=1fQRP4s9Z9qetrfqYt3HJdLqvADouVIh5)
 
 ## Data
 * [Brewery Data](https://usbreweryguide.com/brewery-map)

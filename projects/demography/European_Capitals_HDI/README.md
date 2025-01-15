@@ -1,6 +1,6 @@
 ## HDI Of European Capitals
 A Simple Map showing the HDI Of European Capitals
-![Map](europe_hdi_instagram.png)
+![Image](https://drive.google.com/uc?export=view&id=1BudViSh-Ug-8IDyzfVKTDynUky06O0M7)
 
 ## Data
 * [European Shapefile](https://github.com/leakyMirror/map-of-europe/blob/master/GeoJSON/europe.geojson)

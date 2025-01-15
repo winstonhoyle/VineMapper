@@ -1,6 +1,6 @@
 ## Democratic Presidential Vote Changes From 2020 to 2024
 A Simple Map showing the difference between 2020 and 2024 Democratic Presidential Voter Turnout in California (11/19/2024)
-![Map](dem_votes_2020_2024.png)
+![Image](https://drive.google.com/uc?export=view&id=1w4wbLxSFIPS3aE9l_T6bIsiK3rUVnlln)
 
 ## Data
 * [2020 Election Data](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-3-2020/statement-vote)

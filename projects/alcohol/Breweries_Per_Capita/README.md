@@ -1,6 +1,6 @@
 ## Breweries Per Capita Per US State
 A Simple Map showing the breweries per capita per each US State
-![Map](Breweries_Per_Capita.png)
+![Image](https://drive.google.com/uc?export=view&id=1yv2HKV1VPPeQdEmTEvXML0rVpBXUIhFP)
 
 ## Data
 * [Brewery Data](https://usbreweryguide.com/brewery-map)

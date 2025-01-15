@@ -1,6 +1,6 @@
 ## Percent of Socialists in National Legislature
 A Simple Map showing the percent of socialists in national legislature
-![Map](European_Socialists.png)
+![Image](https://drive.google.com/uc?export=view&id=1RS96J_s_SWW5J3AY84tQD85CCBUeCKzc)
 
 ## Data
 * [From Previous Post -> GIS](https://github.com/winstonhoyle/VineMapper/blob/main/projects/European_Capitals_HDI/European_Capitals_HDI#Data)

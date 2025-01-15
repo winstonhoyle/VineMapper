@@ -1,6 +1,6 @@
 ## Republican Presidential Vote Changes From 2020 to 2024
 A Simple Map showing the difference between 2020 and 2024 Republican Presidential Voter Turnout in California (11/20/2024)
-![Map](rep_votes_2020_2024.png)
+![Image](https://drive.google.com/uc?export=view&id=1BTXDY8QYtSRUz0h-t3_kjktC7ycy88aU)
 
 ## Data
 * [2020 Election Data](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-3-2020/statement-vote)

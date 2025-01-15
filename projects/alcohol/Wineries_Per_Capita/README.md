@@ -1,6 +1,6 @@
 ## Wineries Per Capita Per US State
 A Simple Map showing the Wineries per 500k in each US State
-![Map](Wineries_Per_Capita.png)
+![Image](https://drive.google.com/uc?export=view&id=155zJgNQLv34fcr_JjXYz3nnnNhSrN8Lg)
 
 ## Data
 * [Wineries](https://winemaps.com/api/wine-maps-winery)
