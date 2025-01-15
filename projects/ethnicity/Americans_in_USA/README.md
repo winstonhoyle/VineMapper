@@ -1,6 +1,6 @@
 ## Americans In the USA
 A Simple Map showing the number of Americans per 1000 people
-![Map](Americans_in_USA.png)
+![Image](https://drive.google.com/uc?export=view&id=1WIjSYvqTcxDui8ff7YbjwlIKHaNEUSD4)
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2022.B04006?q=People%20Reporting%20Ancestry&g=010XX00US$0400000)

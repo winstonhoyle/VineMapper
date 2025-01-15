@@ -1,6 +1,6 @@
 ## Vietnam War Deaths Per US State
 A Simple Map showing the Vietnam War Deaths per USA State with Per 100k information too
-![Map](Vietnam_War_Deaths.png)
+![Image](https://drive.google.com/uc?export=view&id=1nQREmM3Miu8EhRZW6YmWY_BNzdpQl1QL)
 
 ## Data
 * [Vietnam Death Data](https://www.americanwarlibrary.com/vietnam/vwc14.htm)

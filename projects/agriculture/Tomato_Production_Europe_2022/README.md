@@ -1,6 +1,6 @@
 ## Tomato Production In Europe 2022
 A Simple Map showing volume of tomatoes produced in Europe in 2022
-![Map](Tomato_Production_Europe_2022.png)
+![Image](https://drive.google.com/uc?export=view&id=1pzftjY-U6uFU1CviBolT-ArfTPMET0DX)
 
 ## Data
 * [Tomatoes data](https://www.fao.org/faostat/en/#data/QCL)

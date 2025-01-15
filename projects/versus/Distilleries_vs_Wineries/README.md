@@ -1,6 +1,6 @@
 ## Distilleries vs Wineries Per US State
 A Simple Map showing the if there are more Wineries or Distilleries in each USA State
-![Map](Distilleries_vs_Wineries.png)
+![Image](https://drive.google.com/uc?export=view&id=1_1rPZQNXQNCwuuiyC7ViJTpPWW9BPIrz)
 
 ## Data
 * [Wineries](https://winemaps.com/api/wine-maps-winery)

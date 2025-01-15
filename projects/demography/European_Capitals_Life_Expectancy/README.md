@@ -1,6 +1,6 @@
 ## HDI Of European Capitals
 A Simple Map showing the Life Expectancy in European Capitals
-![Map](europe_life_expectancy.png)
+![Image](https://drive.google.com/uc?export=view&id=1kfkce0uv2Rj6WAdMLhjDphl2lEF9pY_f)
 
 ## Data
 * [From Previous Post](https://github.com/winstonhoyle/VineMapper//main/projects/European_Capitals_HDI/European_Capitals_HDI#Data)
