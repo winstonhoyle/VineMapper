@@ -1,6 +1,6 @@
 ## Gender Ratio in the USA
 A Simple Map showing Gender Ratio Per State
-![Map](Gender_Ratio.png)
+![Image](https://drive.google.com/uc?export=view&id=1D6gXnV6cpxC88mRno1dbBZF-WNCetJOI)
 
 ## Data
 * [Gender Data](https://data.census.gov/table/ACSST1Y2023.S0101?g=010XX00US$0400000)

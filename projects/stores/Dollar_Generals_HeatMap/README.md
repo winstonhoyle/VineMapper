@@ -1,6 +1,6 @@
 ## Dollar General HeatMap
 A Simple Map showing a heatmap of Dollar Generals in the USA
-![Map](Dollar_Generals_HeatMap.png)
+![Image](https://drive.google.com/uc?export=view&id=1axc5TmbkvCAWyf4HUlB9-rstcdQe_v4_)
 
 ## Data
 * [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)

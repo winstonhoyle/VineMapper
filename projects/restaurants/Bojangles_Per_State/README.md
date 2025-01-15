@@ -1,6 +1,6 @@
 ## Bojangles Locations
 A Simple Map show all the locations of Bojangles
-![Map](Bojangles_Per_State.png)
+![Image](https://drive.google.com/uc?export=view&id=1Q6uV2L_aXiN4FnKF6mj8oWOn8q1COPW2)
 
 ## Data
 * [Bojangles Data](https://locations.bojangles.com/)

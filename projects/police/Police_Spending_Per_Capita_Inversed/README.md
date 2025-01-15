@@ -1,13 +1,12 @@
 ## Police Spending Per State ($ Amounts)
 A Simple Map showing amount per capita, only $ amounts, from [Police_Spending_Per_Capita](../Police_Spending_Per_Capita/)
-![Map](Police_Spending_Per_Capita_Inversed.png)
+![Image](https://drive.google.com/uc?export=view&id=1QIb47JJ_2rpysmscjWsRvRhFAqw9D1Zk)
 
 ## Data
 * [Police Data](https://www.moneygeek.com/financial-planning/taxes/state-policing-corrections-spending/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
-
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)

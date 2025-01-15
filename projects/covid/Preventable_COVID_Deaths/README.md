@@ -1,6 +1,6 @@
 ## Preventable COVID Deaths (2021-2022)
 A Simple Map showing the raw number of preventable deaths and the per 100k deaths
-![Map](Preventable_COVID_Deaths.png)
+![Image](https://drive.google.com/uc?export=view&id=1lg2Plwtgzmj3eIVeJ-zz125Dor4D2Z1f)
 
 ## Data
 * [COVID Data](https://www.npr.org/sections/health-shots/2022/05/13/1098071284/this-is-how-many-lives-could-have-been-saved-with-covid-vaccinations-in-each-sta)

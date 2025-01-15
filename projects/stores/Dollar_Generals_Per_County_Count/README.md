@@ -1,6 +1,6 @@
 ## Dollar General Count In Each County in the USA
 A Simple Map showing the count of Dollar Generals in each US County
-![Map](Dollar_Generals_Per_County_Count.png)
+![Image](https://drive.google.com/uc?export=view&id=13em4BR_AVLyPeN1sixhdyx2dpFXPhJHx)
 
 ## Data
 * [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)

@@ -1,7 +1,6 @@
 # Percent Of the Population Aged 16+ That Is "Working Age" (16-64)
 A Simple Map showing percent of the population that is over 16 of working age
-
-![Map](Over_16_Working_Population.png)
+![Image](https://drive.google.com/uc?export=view&id=1EeQbymvFTk8vVFUkJufQSRAS3dDtvoBT)
 
 ## Data
 * [Gender Data](https://data.census.gov/table/ACSST1Y2023.S0101?g=010XX00US$0400000)

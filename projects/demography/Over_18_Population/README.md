@@ -1,7 +1,6 @@
 ## Percent Of the Population Aged 18+
 A Simple Map showing percent of the population that is over 18 years old
-
-![Map](Over_18_Population.png)
+![Image](https://drive.google.com/uc?export=view&id=1WfuQEFrq3hKVeaMvhjA0sG2Tzz6s6APQ)
 
 ## Data
 * [Population Data](https://data.census.gov/table/ACSST1Y2023.S0101?g=010XX00US$0400000)
