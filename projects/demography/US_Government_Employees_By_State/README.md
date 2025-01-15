@@ -1,6 +1,6 @@
 ## Federal Government Workers Per State
 A simple map showing the population (out of 10k) that are federal government workers and the raw number
-![Map](US_Government_Employees_By_State.png)
+![Image](https://drive.google.com/uc?export=view&id=1-K2TxNh3Zh39-rigwJxXt4U-XlhxZ33p)
 
 ## Data
 * [US Population Data](https://worldpopulationreview.com/states)

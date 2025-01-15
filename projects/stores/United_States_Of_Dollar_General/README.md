@@ -1,6 +1,6 @@
 ## United States of Dollar General
 A Fun Map of Using [4 Color Theorem](https://en.wikipedia.org/wiki/Four_color_theorem) To Plot Dollar Generals In The USA
-![Map](United_States_Of_Dollar_General.png)
+![Image](https://drive.google.com/uc?export=view&id=1D9TXKHW5rySJ_f_AG15gYXfsmxWkujmT)
 
 ## Data
 * [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)

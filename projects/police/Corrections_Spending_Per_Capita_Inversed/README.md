@@ -1,6 +1,6 @@
 ## Corrections Spending Per State Inversed
 A Simple Map showing percent of state spending on corrections and amount per capita inversed from [Corrections_Spending_Per_Capita](../Corrections_Spending_Per_Capita/)
-![Map](Corrections_Spending_Per_Capita_Inversed.png)
+![Image](https://drive.google.com/uc?export=view&id=1M_N8fgVwXt_T-3fPmOFPbTOVLfOWWOUR)
 
 ## Data
 * [Corrections Data](https://www.moneygeek.com/financial-planning/taxes/state-policing-corrections-spending/)

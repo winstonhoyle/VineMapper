@@ -1,6 +1,6 @@
 ## Lidl Locations In the USA
 A Simple Map showing the location of Lidl's and the state's stores per 1m value
-![Map](Lidl_Locations_USA.png)
+![Image](https://drive.google.com/uc?export=view&id=10p-3jJCgLAQwADfGrhvwaShq5qLb7b3Z)
 
 ## Data
 * [Lidl Locations](https://www.lidl.com/stores)

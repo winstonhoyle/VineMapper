@@ -1,6 +1,6 @@
 ## GDP Change Per State from 2022 to 2024
 A Simple Map showing GDP Change Per State from 2022 to 2024
-![Map](US_States_GDP_Change_Per_Capita_2022-2024.png)
+![Image](https://drive.google.com/uc?export=view&id=1iGW2UmJDGv-M2JvG2rnKI57tI5dRHVPm)
 
 ## Data
 * [GDP Data](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_GDP)

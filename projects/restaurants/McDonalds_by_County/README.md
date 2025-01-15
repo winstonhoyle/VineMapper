@@ -1,6 +1,6 @@
 ## McDonald's In Each County
 A Simple Map showing if a county has a McDonald's
-![Map](McDonalds_by_County.png)
+![Image](https://drive.google.com/uc?export=view&id=1FpafG2-JrhtnvU6arum3KaaOj3Rbt_jl)
 
 ## Data
 * [McDonalds Data](https://www.mcdonalds.com/us/en-us/restaurant-locator.html)
