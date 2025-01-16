@@ -18,3 +18,4 @@ A Simple Map showing a heatmap of Dollar Generals in the USA
 - [x] [X/Twitter](https://x.com/VineMapper/status/1878513128813572359)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1hztlzp/dollar_general_heat_map/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1hztlp0/dollar_general_heat_map/)
+- [x] [Reddit r/DollarGeneral](https://www.reddit.com/r/DollarGeneral/comments/1i2ek6y/dollar_general_heat_map/)

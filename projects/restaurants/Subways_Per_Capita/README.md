@@ -22,3 +22,4 @@ A Simple Map showing Subways Per 100k People in Each state
 - [x] [X/Twitter](https://x.com/VineMapper/status/1879559898008371524)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1i20n0i/subway_locations_per_100k_people/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1i20ml9/subway_locations_per_100k_people/)
+- [x] [Reddit r/Subway](https://www.reddit.com/r/subway/comments/1i2ej8s/subway_locations_per_100k_people/)
