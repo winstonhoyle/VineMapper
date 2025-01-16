@@ -1,12 +1,12 @@
-## Wineries in Virginia
-A Simple Map showing the Wineries in Virginia
+## Natural Gas Energy by State (Sept 2024)
+A Simple Map showing the percent energy from natural gas in september 2024
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Winery Data](https://www.virginiawine.org)
-* [County Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [Energy Data](https://www.chooseenergy.com/data-center/electricity-sources-by-state/)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
+* [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)
@@ -14,10 +14,9 @@ A Simple Map showing the Wineries in Virginia
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
-- [ ] [Instagram Reels]()
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
 - [ ] [X/Twitter]()
+- [ ] [BlueSky]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()
