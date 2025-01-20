@@ -1,6 +1,6 @@
 ## Trader Joe's Per State
 A Simple Map showing Trader Joes Per State
-![Map](Trader_Joes_Per_State.png)
+![Image](https://drive.google.com/uc?export=view&id=1PlHRS-65e9fIebMCsN5x-9aZDdGutL58)
 
 ## Data
 * [Trade Joe's Data](https://locations.traderjoes.com/)
@@ -14,10 +14,11 @@ A Simple Map showing Trader Joes Per State
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DFDr9d0MnYS/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFDr-kRsATB)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lg6xyjetp22l)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1881409555307106758)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1i5x8b0/trader_joes_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1i5x7u9/trader_joes_per_state/)
