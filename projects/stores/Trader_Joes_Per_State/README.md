@@ -22,3 +22,4 @@ A Simple Map showing Trader Joes Per State
 - [x] [X/Twitter](https://x.com/VineMapper/status/1881409555307106758)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1i5x8b0/trader_joes_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1i5x7u9/trader_joes_per_state/)
+- [x] [Reddit r/TraderJoes](https://www.reddit.com/r/traderjoes/comments/1i5xhcq/trader_joes_per_state_1202025/)
