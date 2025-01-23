@@ -3,8 +3,8 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - | - | - | - | - |1|
-|2|3|[4](../../projects/stores/Family_Dollars_Per_State/)|5|6|7|8|
-|9|10|11|12|13|14|15|
+|2|3|[4](../../projects/stores/Family_Dollars_Per_State/)|5|6|7|[8](../../projects/stores/General_Dollar_Vs_Family_Dollar_Vs_Dollar_Tree_Per_State)|
+|9|10|11|[12](../../projects/stores/Dollar_Trees_Per_State/)|13|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
 |30|31| - | - | - | - | - |
@@ -18,11 +18,11 @@
 * [03/05/2025]()
 * [03/06/2025]()
 * [03/07/2025]()
-* [03/08/2025]()
+* [03/08/2025](../../projects/stores/General_Dollar_Vs_Family_Dollar_Vs_Dollar_Tree_Per_State) Dollar General Vs Family Dollar Vs Dollar Tree Per State
 * [03/09/2025]()
 * [03/10/2025]()
 * [03/11/2025]()
-* [03/12/2025]()
+* [03/12/2025](../../projects/stores/Dollar_Trees_Per_State/) Number of Dollar Trees Per State
 * [03/13/2025]()
 * [03/14/2025]()
 * [03/15/2025]()
