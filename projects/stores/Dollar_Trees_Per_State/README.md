@@ -1,9 +1,9 @@
-## Kohls Per State
-A Simple Map showing Kohls per state
+## Dollar Trees Per State
+A Simple Map showing Dollar Trees Per State
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Kohls Data](https://www.nordstrom.com/browse/about/stores/sitemap)
+* [Dollar Tree Data](https://www.dollartree.com/locations/)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
@@ -15,7 +15,6 @@ A Simple Map showing Kohls per state
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
-- [ ] [Instagram Reels]()
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
