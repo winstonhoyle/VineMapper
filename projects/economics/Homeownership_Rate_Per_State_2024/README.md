@@ -1,6 +1,6 @@
 ## Homeownership Rate in USA Per State (2024)
 A Simple Map showing the homeownership rate per state in 2024
-![Map](Homeownership_Rate_Per_State_2024.png)
+![Image](https://drive.google.com/uc?export=view&id=1cIM4Upz6WeQIs9O1vz5vFfffS0yaCPfu)
 
 ## Data
 * [Homeownership Data](https://www.propertyshark.com/info/us-homeownership-rates-by-state-and-city/)
@@ -13,10 +13,10 @@ A Simple Map showing the homeownership rate per state in 2024
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DFkvnXwxc_4/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFkv0BURNZO)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1886064213656760519)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lh7b3vxmuk2k)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ifyk6h/home_ownership_rates_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ifyjk9/home_ownership_rates_2024/)

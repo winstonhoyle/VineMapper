@@ -6,7 +6,7 @@
 |[5](../../projects/covid/Preventable_COVID_Deaths/)|[6](../../projects/restaurants/McDonalds_Per_County_Count/)|[7](../../projects/politics/Progressives_Per_State_119th_Congress_Fixed/)|[8](../../projects/demography/Over_16_Working_Population/)|[9](../../projects/stores/Dollar_Generals_Per_County_Count/)|[10](../../projects/homeless/Homeless_Change_2023_2024_Percents/)|[11](../../projects/restaurants/Bojangles_Per_State/)|
 |[12](../../projects/stores/Dollar_Generals_HeatMap/)|[13](../../projects/alcohol/Wine_Production_Europe_2022/)|[14](../../projects/police/Corrections_Spending_Per_Capita_Values/)|[15](../../projects/restaurants/Subways_Per_Capita/)|[16](../../projects/homeless/Homeless_Change_2023_2024_Totals/)|[17](../../projects/versus/McDonalds_Vs_KFC/)|[18](../../projects/demography/Gender_Ratio_USA_20-44/)|
 |[19](../../projects/alcohol/Craft_Beer_Gallons_Per_Person_2023)|[20](../../projects/stores/Trader_Joes_Per_State/)|[21](../../projects/versus/McDonalds_Vs_Subway/)|[22](../../projects/demography/Gender_Ratio_USA_65_And_Over/)|[23](../../projects/ethnicity/Cubans_in_USA/)|[24](../../projects/versus/McDonalds_Vs_Subway_Per_State/)|[25](../../projects/alcohol/Wine_Produced_USA_2024/)|
-|[26](../../projects/restaurants/KFCs_Per_State/)|[27](../../projects/stores/Dollar_Generals_Per_County)|[28](../../projects/restaurants/Taco_Bells_Per_State/)|[29](../../projects/versus/McDonalds_Vs_Dollar_Generals/)|[30](../../projects/alcohol/Wine_Produced_USA_2024_Per_Capita/)|[31](../../projects/economics/US_States_GDP_Change_2023-2024/)|-|
+|[26](../../projects/stores/Dollar_Generals_Per_County)|[27](../../projects/restaurants/KFCs_Per_State/)|[28](../../projects/restaurants/Taco_Bells_Per_State/)|[29](../../projects/alcohol/Wine_Produced_USA_2024_Per_Capita/)|[30](../../projects/restaurants/Hunt_Brothers_Per_State/)|[31](../../projects/demography/Veteran_Per_Capita_2023/)|-|
 
 ## Posts
 
@@ -35,9 +35,9 @@
 * [01/23/2025](../../projects/ethnicity/Cubans_in_USA/) Cubans In the USA (2021)
 * [01/24/2025](../../projects/versus/McDonalds_Vs_Subway_Per_State/) McDonald's Vs Subways Per State
 * [01/25/2025](../../projects/alcohol/Wine_Produced_USA_2024/) Wine Production Per State (2024)
-* [01/26/2025](../../projects/restaurants/KFCs_Per_State/) KFCs Per State
-* [01/27/2025](../../projects/stores/Dollar_Generals_Per_County) Does Your County Have A Dollar General?
+* [01/26/2025](../../projects/stores/Dollar_Generals_Per_County) Does Your County Have A Dollar General?
+* [01/27/2025](../../projects/restaurants/KFCs_Per_State/) KFCs Per State
 * [01/28/2025](../../projects/restaurants/Taco_Bells_Per_State/) Taco Bells Per State
-* [01/29/2025](../../projects/versus/McDonalds_Vs_Dollar_Generals/) If A County has more Dollar Generals Or McDonald's
-* [01/30/2025](../../projects/alcohol/Wine_Produced_USA_2024_Per_Capita/) Bottles of Wine Produced Per Person (2024)
-* [01/31/2025](../../projects/economics/US_States_GDP_Change_2023-2024/) Nominal GDP Change Per State 2023 to 2024
+* [01/29/2025](../../projects/alcohol/Wine_Produced_USA_2024_Per_Capita/) Bottles of Wine Produced Per Person (2024)
+* [01/30/2025](../../projects/restaurants/Hunt_Brothers_Per_State/) Hunt Brothers Pizza locations
+* [01/31/2025](../../projects/demography/Veteran_Per_Capita_2023/) Veterans Per 1,000 Adults In Each State (2023)

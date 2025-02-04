@@ -1,6 +1,6 @@
 ## KFCs Per State
 A Simple Map showing KFCs Per State
-![Map](KFCs_Per_State.png)
+![Image](https://drive.google.com/uc?export=view&id=1tBXS4F5Eyj6-_fdIZ_uSfGJJRLAgYznZ)
 
 ## Data
 * [KFC Data](https://locations.kfc.com/)
@@ -14,10 +14,11 @@ A Simple Map showing KFCs Per State
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DFVXpJ7P180/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFVXtm5sjTt)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lgqakoit522w)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1883897952906912213)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ibbgtw/kfcs_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ibbgfw/kfcs_per_state/)

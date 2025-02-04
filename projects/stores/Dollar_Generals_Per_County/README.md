@@ -1,6 +1,6 @@
 ## Dollar Generals In Each County
 A Simple Map showing if a county has a Dollar General
-![Map](Dollar_Generals_Per_County.png)
+![Image](https://drive.google.com/uc?export=view&id=1UNyKDfrL6uC7vwGnL3neYYxJvzE-Nhhw)
 
 ## Data
 * [Dollar General Data, check other Dollar General Map. Webscrapping takes ~10h](../Dollar_Generals_Per_State/)
@@ -14,10 +14,10 @@ A Simple Map showing if a county has a Dollar General
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DFTVeUgTvES/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFTVlPFTuno)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lgoaxp7qnk2o)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1883611660646253035)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1iap74t/does_your_county_have_a_dollar_general/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1iap6nm/does_your_county_have_a_dollar_general/)

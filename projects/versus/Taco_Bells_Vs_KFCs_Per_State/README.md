@@ -1,6 +1,6 @@
 ## McDonald's Vs Subway
 A Simple Map showing if a State has more McDonald's Or Subways
-![Map](McDonalds_Vs_Subway_Per_State.png)
+![Image](https://drive.google.com/uc?export=view&id=1jNZajPusXHOJI_YQSqmt6HGHujQWLTF1)
 
 ## Data
 * [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../../restaurants/McDonalds_Per_State/)
@@ -13,10 +13,11 @@ A Simple Map showing if a State has more McDonald's Or Subways
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DFjFfPATT5K/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFjFVunTndS)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lh5nb2sepk2m)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1885829123547050056)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ifj4vh/taco_bell_vs_kfc_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ifj4gn/taco_bell_vs_kfc_per_state/)

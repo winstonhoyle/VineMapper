@@ -1,6 +1,6 @@
 ## Taco Bells Per Capita Per State
 A Simple Map showing Taco Bells Per Capita Per State
-![Map](Taco_Bells_Per_State_Per_Capita.png)
+![Image](https://drive.google.com/uc?export=view&id=1lwdee4AHqXmQvZ_FeFJqm79H0ZSdP_A2)
 
 ## Data
 * [Taco Bell Data](https://locations.tacobell.com/)
@@ -15,10 +15,11 @@ A Simple Map showing Taco Bells Per Capita Per State
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DFqaW_ZS2FN/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFqaYU7y7NJ)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lhes4ketec2c)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1886859607324184670)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ihq24o/taco_bells_per_100k_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ihq1j3/taco_bells_per_100k_people/)
