@@ -1,5 +1,5 @@
-## GDP Change Per State from 2023 to 2024
-A Simple Map showing Percent GDP Change Per State from 2023 to 2024
+## Real GDP Change Per State from 2023 to 2024
+A Simple Map showing [Real GDP](https://en.wikipedia.org/wiki/Real_gross_domestic_product) Change Per State from 2023 to 2024
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
@@ -17,5 +17,6 @@ A Simple Map showing Percent GDP Change Per State from 2023 to 2024
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
+- [ ] [Twitter/X]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()
