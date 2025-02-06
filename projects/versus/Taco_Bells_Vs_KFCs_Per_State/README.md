@@ -21,3 +21,4 @@ A Simple Map showing if a State has more McDonald's Or Subways
 - [x] [Twitter/X](https://x.com/VineMapper/status/1885829123547050056)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ifj4vh/taco_bell_vs_kfc_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ifj4gn/taco_bell_vs_kfc_per_state/)
+- [x] [Reddit r/2american4you](https://www.reddit.com/r/2american4you/comments/1ifmu8b/kentuckybros_how_the_hell_are_vermont_and_rhode/)

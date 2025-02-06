@@ -1,6 +1,6 @@
 ## Costcos Per State
 A Simple Map showing Costcos Per State
-![Map](Costcos_Per_State.png)
+![Image](https://drive.google.com/uc?export=view&id=1zZEX_LTfuoWDVCj9V4G-TknwkGWKUz-_)
 
 ## Data
 * [Costco Data](https://www.costco.com/WarehouseListByStateDisplayView)
@@ -14,10 +14,11 @@ A Simple Map showing Costcos Per State
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DFsswhKv0-0/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFssxIZvWKP)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lhgzqug3ik2a)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1887182195095445837)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1iiehcn/costcos_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1iieh0s/costcos_per_state/)
