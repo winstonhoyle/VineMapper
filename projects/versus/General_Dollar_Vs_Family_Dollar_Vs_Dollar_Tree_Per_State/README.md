@@ -1,5 +1,5 @@
 ## Dollar Generals Vs Family Dollar Vs Dollar Tree Per State
-A Simple Map showing if a State has more Dollar Generals, Family Dollars, or Dollar Trees per state
+A simple map showing if a State has more Dollar Generals, Family Dollars, or Dollar Trees
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
@@ -20,5 +20,6 @@ A Simple Map showing if a State has more Dollar Generals, Family Dollars, or Dol
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
+- [ ] [Twitter/X]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()
