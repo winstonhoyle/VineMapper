@@ -1,5 +1,5 @@
 ## Church's Chicken Per State
-A simple map show Church's Chicken per state
+A simple map showing Church's Chicken per state
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data

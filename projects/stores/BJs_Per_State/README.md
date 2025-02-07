@@ -1,9 +1,9 @@
-## Carls Jr Locations
-A simple map showing all the locations of Carls Jr
-![Map](CarlsJr_Per_State.png)
+## BJ's Wholesale Clubs Per State
+A Simple Map showing BJ's Wholesale Clubs per state
+![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Carl's Jr Data](https://locations.carlsjr.com/)
+* [BJ Wholesale Club Data](https://www.costco.com/WarehouseListByStateDisplayView)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
@@ -19,6 +19,6 @@ A simple map showing all the locations of Carls Jr
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
-- [ ] [X/Twitter]()
+- [ ] [Twitter/X]()
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()

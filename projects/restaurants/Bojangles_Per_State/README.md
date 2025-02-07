@@ -1,5 +1,5 @@
 ## Bojangles Locations
-A Simple Map show all the locations of Bojangles
+A simple map showing all the locations of Bojangles
 ![Image](https://drive.google.com/uc?export=view&id=1Q6uV2L_aXiN4FnKF6mj8oWOn8q1COPW2)
 
 ## Data
