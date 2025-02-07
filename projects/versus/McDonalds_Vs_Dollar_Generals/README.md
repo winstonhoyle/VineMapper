@@ -1,6 +1,6 @@
 ## McDonald's Vs General Dollar
 A Simple Map showing if a county has more McDonald's Or General Dollars
-![Map](McDonalds_Vs_Dollar_Generals.png)
+![Image](https://drive.google.com/uc?export=view&id=1m4_pBI7B0G8VxCH3ZCogF6dH_j_Sa1z2)
 
 ## Data
 * [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../../restaurants/McDonalds_Per_State/)
@@ -15,10 +15,11 @@ A Simple Map showing if a county has more McDonald's Or General Dollars
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DFvdgR7yM32/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DFvdg8GSIqg)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lhjpyzsomk26)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1887570588983578863)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ij9mpk/mcdonalds_vs_dollar_general_per_county/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ij9mfk/mcdonalds_vs_dollar_general_per_county/)
