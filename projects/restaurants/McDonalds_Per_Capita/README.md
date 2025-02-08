@@ -1,6 +1,6 @@
 ## McDonald's Per Capita
 A Simple Map showing the count of McDonald's Per 100k People in Each County
-![Image](https://drive.google.com/uc?export=view&id=1Q6uV2L_aXiN4FnKF6mj8oWOn8q1COPW2)
+![Image](https://drive.google.com/uc?export=view&id=1b1BqFMw8Pqe04ZkGczyTse9fo4VLZoHN)
 
 ## Data
 * [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
