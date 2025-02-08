@@ -1,6 +1,6 @@
 ## McDonald's Per Capita
 A Simple Map showing the count of McDonald's Per 100k People in Each County
-![Map](McDonalds_Per_Capita.png)
+![Image](https://drive.google.com/uc?export=view&id=1Q6uV2L_aXiN4FnKF6mj8oWOn8q1COPW2)
 
 ## Data
 * [McDonalds Data, check other McDonald's Map. Webscrapping takes ~10h](../McDonalds_Per_State/)
@@ -16,10 +16,11 @@ A Simple Map showing the count of McDonald's Per 100k People in Each County
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DF0xzsHzwnv/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DF0x0bHzwIL)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lhow3ys3l22o)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1888318576458907848)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ikwbom/mcdonalds_per_100k_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ikwa3u/mcdonalds_per_100k_people/)
