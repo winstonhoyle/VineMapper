@@ -5,8 +5,8 @@
 | - | - | - | - | - | - |[1](../../projects/economics/US_States_REAL_GDP_Change_2023-2024/)|
 |[2](../../projects/restaurants/Dunkin_Donuts_Per_State/)|[3](../../projects/economics/Mobile_Home_Percent_Per_State/)|[4](../../projects/stores/Family_Dollars_Per_State/)|[5](../../projects/restaurants/Roy_Rodgers_Locations/)|[6](../../projects/history/Gulf_War_Vets_Per_State)|[7](../../projects/stores/Five_Below_Per_State/)|[8](../../projects/stores/General_Dollar_Vs_Family_Dollar_Vs_Dollar_Tree_Per_State)|
 |[9](../../projects/restaurants/Churches_Chicken_Per_State/)|[10](../../projects/ethnicity/Israelis_in_USA/)|[11](../../projects/history/Korean_War_Vets_Per_State/)|[12](../../projects/stores/Dollar_Trees_Per_State/)|[13](../../projects/economics/Mobile_Home_Percent_Per_County/)|[14](../../projects/restaurants/Cold_Stones_Per_State/)|[15](../../projects/versus/BJs_Vs_Costco_Vs_Sams_Club_Per_State/)|
-|[16](../../projects/stores/Guitar_Centers_Per_State/)|[17](../../projects/economics/Interstates_Per_State/)|[18](../../projects/restaurants/Baskin_Robbins_Per_State/)|19|[20](../../projects/stores/BJs_Per_State/)|21|22|
-|23|[24](../../projects/stores/Sams_Club_Per_State/)|25|26|27|28|29|
+|[16](../../projects/stores/Guitar_Centers_Per_State/)|[17](../../projects/economics/Interstates_Per_State/)|[18](../../projects/restaurants/Baskin_Robbins_Per_State/)|[19](../../projects/versus/Dennys_Vs_IHOP_Per_State)|[20](../../projects/stores/BJs_Per_State/)|[21](../../projects/restaurants/Dennys_Per_State/)|22|
+|23|[24](../../projects/stores/Sams_Club_Per_State/)|25|[26](../../projects/restaurants/IHOPs_Per_State/)|27|28|29|
 |30|31| - | - | - | - | - |
 
 ## Posts
@@ -29,14 +29,14 @@
 * [03/16/2025](../../projects/stores/Guitar_Centers_Per_State/) Guitar Centers Per State
 * [03/17/2025](../../projects/economics/Interstates_Per_State/) Miles Of Interstates Per State (2024)
 * [03/18/2025](../../projects/restaurants/Baskin_Robbins_Per_State/) Baskin Robbins Per State
-* [03/19/2025]()
+* [03/19/2025](../../projects/versus/Dennys_Vs_IHOP_Per_State) Denny's Vs IHOPs Per State
 * [03/20/2025](../../projects/stores/BJs_Per_State/) BJ's Wholesale Clubs Per State
-* [03/21/2025]()
+* [03/21/2025](../../projects/restaurants/Dennys_Per_State/) Denny's Per State
 * [03/22/2025]()
 * [03/23/2025]()
 * [03/24/2025](../../projects/stores/Sams_Club_Per_State/) Sam's Clubs Per State
 * [03/25/2025]()
-* [03/26/2025]()
+* [03/26/2025](../../projects/restaurants/IHOPs_Per_State/) IHOPs Per State
 * [03/27/2025]()
 * [03/28/2025]()
 * [03/29/2025]()
