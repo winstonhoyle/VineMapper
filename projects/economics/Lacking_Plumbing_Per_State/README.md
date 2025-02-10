@@ -1,6 +1,7 @@
-## Percentage Of Housing Units Lacking Complete Plumbing Facilities Per County (2023)
-A simple map showing the what percent of the homes in the USA lacking plumbing facilites per county
+## Percentage Of Housing Units Lacking Complete Plumbing Facilities Per State (2023)
+A simple map showing the what percent of the homes in the USA lacking plumbing facilites per state
 ![Image](https://drive.google.com/uc?export=view&id=)
+
 
 ## Data
 * [Housing Data](https://data.census.gov/table/ACSDP5Y2023.DP04?q=homeownership)
