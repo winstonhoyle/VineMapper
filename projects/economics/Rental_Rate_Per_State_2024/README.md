@@ -1,6 +1,6 @@
 ## Renter-Occupied Housing Rate in USA Per State (2024)
 A Simple Map showing the renter-occupied housing rate per state in 2024
-![Map](Rental_Rate_Per_State_2024.png)
+![Image](https://drive.google.com/uc?export=view&id=1ogwphKmBBFVOaLisQDNtWfhFsXGSicVX)
 
 ## Data
 * [Homeownership Data](https://www.propertyshark.com/info/us-homeownership-rates-by-state-and-city/)
@@ -13,10 +13,10 @@ A Simple Map showing the renter-occupied housing rate per state in 2024
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DF5jwVlPqsG/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DF5jwwxvT11)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1888991523435364649)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1imafer/renteroccupied_housing_rate_in_usa_per_state_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1imafbj/renteroccupied_housing_rate_in_usa_per_state_2024/)
