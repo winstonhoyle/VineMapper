@@ -14,7 +14,7 @@ A simple map showing the Popeyes per state
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]|()
+- [ ] [Tiktok]()
 - [ ] [Instagram]()
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
