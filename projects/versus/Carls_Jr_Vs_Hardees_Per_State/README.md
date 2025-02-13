@@ -12,7 +12,7 @@ A Simple Map showing if a State has more Carl's Jr Or Hardee's
 * [Jupyter Notebook](FormatData.ipynb)
 
 ## Posts
-- [ ] [Tiktok]()
+- [x] [Tiktok](https://www.tiktok.com/@vinemapper/video/7470577252862840110)
 - [x] [Instagram](https://www.instagram.com/p/DF-uMomvPhh/)
 - [ ] [Instagram Reels]()
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DF-uNL_Pdx7)
