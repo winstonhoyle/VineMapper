@@ -1,6 +1,6 @@
 ## Baskin Robbins Vs Cold Stone Creameries Per State
 A simple map showing if a State has more Baskin Robbins or Cold Stones
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1exww7DOfgmc_lEHmwQQEcQAyvFSnObb4)
 
 ## Data
 * [Cold Stone Creameries Data, Webscrapping takes ~10m](../../restaurants/Cold_Stones_Per_State/)
