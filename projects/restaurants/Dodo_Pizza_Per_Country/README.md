@@ -3,7 +3,7 @@ A simple map showing Dodo Pizzas per country
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [DODO Data](https://restaurants.ihop.com/en-us/)
+* [DODO Data](https://globalapi.dodopizza.com/api/index.html)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 * [World Population Totals](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
