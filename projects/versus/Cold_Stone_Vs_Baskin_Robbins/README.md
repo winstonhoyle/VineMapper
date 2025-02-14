@@ -21,3 +21,6 @@ A simple map showing if a State has more Baskin Robbins or Cold Stones
 - [x] [Twitter/X](https://x.com/VineMapper/status/1890473375316779245)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1iphsc7/baskin_robbins_vs_cold_stone/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1iphs9y/baskin_robbins_vs_cold_stone/)
+- [x] [Reddit r/BaskinRobbins](https://www.reddit.com/r/Baskinrobbins/comments/1ipiuz6/baskin_robbins_vs_cold_stone_per_state/)
+- [x] [Reddit r/ColdStone](https://www.reddit.com/r/coldstone/comments/1ipivdt/baskin_robbins_vs_cold_stone_per_state/)
+- [x] [Reddit r/icecream](https://www.reddit.com/r/icecream/comments/1ipiwt3/baskin_robbins_vs_cold_stone_per_state/)

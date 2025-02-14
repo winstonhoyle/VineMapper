@@ -21,3 +21,5 @@ A Simple Map showing if a State has more Carl's Jr Or Hardee's
 - [x] [X/Twitter](https://x.com/VineMapper/status/1889718215883870636)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1invcpz/carls_jr_vs_hardees/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1invcss/carls_jr_vs_hardees/)
+- [x] [Reddit r/CarlsJr](https://www.reddit.com/r/CarlsJr/comments/1ioe32e/carls_jr_vs_hardees/)
+- [x] [Reddit r/Hardees](https://www.reddit.com/r/Hardees/comments/1ioe2yq/carls_jr_vs_hardees/)
