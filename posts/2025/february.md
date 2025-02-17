@@ -26,7 +26,7 @@
 * [02/14/2025](../../projects/versus/Cold_Stone_Vs_Baskin_Robbins/) Baskin Robbins Vs Cold Stone Creameries Per State
 * [02/15/2025](../../projects/demography/Largest_Age_Group_Per_State_2023/) What Age Group Has the Largest Population? (2023)
 * [02/16/2025](../../projects/restaurants/CarlsJr_Per_State/) Carl's Jr Locations
-* [02/17/2025](../../projects/economics/Percent_Energy_from_Natural_Gas_Per_State/) Natural Gas Energy by State (Feb 2025)
+* [02/17/2025](../../projects/economics/Percent_Energy_from_Natural_Gas_Per_State/) Natural Gas Energy by State (2023)
 * [02/18/2025](../../projects/versus/Subway_Vs_Dollar_Generals/) Subway Vs General Dollar Per County
 * [02/19/2025](../../projects/stores/Macys_Per_State/) Number of Macy's Per State
 * [02/20/2025](../../projects/economics/Rental_Rate_Change_2023_2024/) Change in Rental-Occupied Housing Rate in USA from 2023 to 2024
