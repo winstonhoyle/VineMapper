@@ -32,7 +32,7 @@
 * [02/20/2025](../../projects/economics/Rental_Rate_Change_2023_2024/) Change in Rental-Occupied Housing Rate in USA from 2023 to 2024
 * [02/21/2025](../../projects/restaurants/Hardees_Per_State/) Hardee's Locations
 * [02/22/2025](../../projects/stores/Nordstrom_Racks_Per_State/) Number of Nordstrom Racks Per State
-* [02/23/2025](../../projects/economics/Percent_Energy_from_Coal_Per_State/) Coal Energy by State (Sept 2024)
+* [02/23/2025](../../projects/economics/Percent_Energy_from_Coal_Per_State/) Coal Energy by State (2023)
 * [02/24/2025](../../projects/restaurants/Subways_Per_State/) Number of Subway's Per State
 * [02/25/2025](../../projects/demography/Median_Age_2023/) Median Age Per State (2023)
 * [02/26/2025](../../projects/history/9_11_Veterans_Per_Capita/) Post-9/11 Veterans Per 10k Adults (2023)

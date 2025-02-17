@@ -1,5 +1,5 @@
-## Coal Energy by State (2023)
-A Simple Map showing the percent energy from coal in 2023
+## Nuclear Energy by State (2023)
+A Simple Map showing the percent energy from nuclear energy in 2023
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
