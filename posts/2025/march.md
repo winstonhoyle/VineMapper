@@ -33,7 +33,7 @@
 * [03/20/2025](../../projects/stores/BJs_Per_State/) BJ's Wholesale Clubs Per State
 * [03/21/2025](../../projects/restaurants/Dennys_Per_State/) Denny's Per State
 * [03/22/2025](../../projects/economics/Lacking_Plumbing_Per_County/) Percentage Of Housing Units Lacking Complete Plumbing Facilities Per County (2023)
-* [03/23/2025](../../projects/agriculture/Beer_Of_Barley_Production_Europe_2022/) "Beer of Barley" Production In Europe 2022
+* [03/23/2025](../../projects/agriculture/Beer_Of_Barley_Production_Europe_2022/) "Beer of Barley" Production In Europe (2022)
 * [03/24/2025](../../projects/stores/Sams_Club_Per_State/) Sam's Clubs Per State
 * [03/25/2025](../../projects/versus/Churches_Vs_KFC_Vs_Popeyes/) Church's Vs KFC Vs Popeyes Per State
 * [03/26/2025](../../projects/restaurants/IHOPs_Per_State/) IHOPs Per State

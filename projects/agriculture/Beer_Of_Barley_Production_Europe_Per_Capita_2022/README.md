@@ -1,12 +1,11 @@
-## Sunflower Oil Production In Europe 2022
-A simple map showing volume of sunflower oil produced in 2022
+## "Beer of Barley" Production In Europe Per 100 People (2022)
+A simple map showing volume of barley grown for beer per 100 people in 2022
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
 * [FAO data, ZIP File Download](https://bulks-faostat.fao.org/production/Production_Crops_Livestock_E_All_Data.zip) from [https://www.fao.org/faostat/en](https://www.fao.org/faostat/en)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 * [Caspian Sea](https://cartographyvectors.com/map/1224-caspian-sea)
-* [World Population Totals](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)
