@@ -14,11 +14,12 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 
 ## Social Links
 * [Reddit](https://www.reddit.com/user/VineMapper/submitted/)
-* [TikTok](https://www.tiktok.com/@VineMapper)
 * [Instagram](https://www.instagram.com/VineMapper/)
 * [Threads](https://www.threads.net/@vinemapper)
 * [BlueSky](https://bsky.app/profile/vinemapper.bsky.social)
 * [Twitter/X](https://x.com/VineMapper)
+* [TikTok](https://www.tiktok.com/@VineMapper)
+* [YouTube](https://www.youtube.com/@VineMapper)
 
 ## Post Schedule
 
