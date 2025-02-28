@@ -1,6 +1,6 @@
-## Kohls Per State
+## Kohl's Per State
 A Simple Map showing Kohls per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1fMc8O1eqByb8iqC6oILWuczDe7dPyiMo)
 
 ## Data
 * [Kohls Data](https://www.nordstrom.com/browse/about/stores/sitemap)
@@ -14,11 +14,11 @@ A Simple Map showing Kohls per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DGoDF-hP-FB/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DGoDGhev8Rv)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [X/Twitter]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3ljaycyv2a22o)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1895534336805585289)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1j0dxx1/kohls_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1j0dxx4/kohls_per_state/)
