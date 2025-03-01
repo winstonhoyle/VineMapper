@@ -22,3 +22,4 @@ A Simple Map showing Kohls per state
 - [x] [X/Twitter](https://x.com/VineMapper/status/1895534336805585289)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1j0dxx1/kohls_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1j0dxx4/kohls_per_state/)
+- [x] [Reddit r/EmployedByKohls](https://www.reddit.com/r/employedbykohls/comments/1j0f6bs/kohls_per_state/)
