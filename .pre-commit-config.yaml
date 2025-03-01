@@ -12,3 +12,10 @@ repos:
     hooks:
     -   id: black-jupyter
         description: Black, with Jupyter Notebook support
+
+-   repo: https://github.com/jazzband/pip-tools
+    rev: 7.4.1
+    hooks:
+      - id: pip-compile
+        files: ^requirements\.(in|txt)$
+        args: [requirements.in]
