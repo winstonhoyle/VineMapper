@@ -1,5 +1,5 @@
 ## Family Dollars Per State
-A Simple Map showing Family Dollars Per State
+A simple map showing Family Dollars Per State
 ![Image](https://drive.google.com/uc?export=view&id=1iiMc2joUe36Yis2gNVDDhGqtbxisEfb_)
 
 ## Data
