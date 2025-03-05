@@ -15,7 +15,7 @@
 * [03/02/2025](../../projects/restaurants/Dunkin_Donuts_Per_State/) Number of Dunkin Donuts Per State
 * [03/03/2025](../../projects/economics/Mobile_Home_Percent_Per_State/) Mobile Home Percentage Per State (2023)
 * [03/04/2025](../../projects/stores/Family_Dollars_Per_State/) Number of Family Dollars Per State
-* [03/05/2025](../../projects/restaurants/Roy_Rodgers_Locations/) Roy Rodgers Locations
+* [03/05/2025](../../projects/restaurants/Roy_Rodgers_Locations/) Roy Rogers Locations
 * [03/06/2025](../../projects/history/Gulf_War_Vets_Per_State) Gulf War Veterans Per 1,000 Adults (2023)
 * [03/07/2025](../../projects/stores/Five_Below_Per_State/) Five Belows Per State
 * [03/08/2025](../../projects/versus/General_Dollar_Vs_Family_Dollar_Vs_Dollar_Tree_Per_State) Dollar General Vs Family Dollar Vs Dollar Tree Per State
