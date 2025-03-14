@@ -69,15 +69,15 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 | - | - | - | - | - | - |[1](projects/economics/US_States_REAL_GDP_Change_2023-2024/)|
 |[2](projects/restaurants/Dunkin_Donuts_Per_State/)|[3](projects/economics/Mobile_Home_Percent_Per_State/)|[4](projects/stores/Family_Dollars_Per_State/)|[5](projects/restaurants/Roy_Rodgers_Locations/)|[6](projects/history/Gulf_War_Vets_Per_State)|[7](projects/stores/Five_Below_Per_State/)|[8](projects/versus/Dollar_General_Vs_Family_Dollar_Vs_Dollar_Tree_Per_State)|
 |[9](projects/restaurants/Churches_Chicken_Per_State/)|[10](projects/history/Korean_War_Vets_Per_State/)|[11](projects/ethnicity/Israelis_in_USA/)|[12](projects/stores/Dollar_Trees_Per_State/)|[13](projects/economics/Mobile_Home_Percent_Per_County/)|[14](projects/restaurants/Cold_Stones_Per_State/)|[15](projects/versus/BJs_Vs_Costco_Vs_Sams_Club_Per_State/)|
-|[16](projects/stores/Guitar_Centers_Per_State/)|[17](projects/economics/Interstates_Per_State/)|[18](projects/restaurants/Baskin_Robbins_Per_State/)|[19](projects/versus/Dennys_Vs_IHOP_Per_State)|[20](projects/stores/BJs_Per_State/)|[21](projects/restaurants/Dennys_Per_State/)|[22](projects/economics/Lacking_Plumbing_Per_County/)|
+|[16](projects/stores/Guitar_Centers_Per_State/)|[17](projects/ethnicity/Irish_In_USA/) |[18](projects/restaurants/Baskin_Robbins_Per_State/)|[19](projects/versus/Dennys_Vs_IHOP_Per_State)|[20](projects/stores/BJs_Per_State/)|[21](projects/restaurants/Dennys_Per_State/)|[22](projects/economics/Lacking_Plumbing_Per_County/)|
 |[23](projects/agriculture/Beer_Of_Barley_Production_Europe_2022/)|[24](projects/stores/Sams_Club_Per_State/)|[25](projects/versus/Churches_Vs_KFC_Vs_Popeyes/)|[26](projects/restaurants/IHOPs_Per_State/)|[27](projects/economics//Lacking_Plumbing_Per_State/)|[28](projects/history/South_Carolina_Population_Change_1790_2023/)|[29](projects/restaurants/Swig_Drinks_Per_State/)|
 |[30](projects/economics/Percent_Energy_from_Nuclear_Per_State/)|[31](projects/agriculture/Sunflower_Oil_Production_Europe_2022/)| - | - | - | - | - |
 
 [April](posts/2025/april.md)
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| - | - |[1](projects/restaurants/Popeyes_Per_State/)|2|[3](projects/economics/Percent_Energy_from_Solar_Per_State/)|[4](projects/agriculture/Beer_Of_Barley_Production_Europe_Per_Capita_2022/)|[5](projects/restaurants/Dodo_Pizza_Per_Country/)|
-|6|[7](projects/economics/Percent_Energy_from_Wind_Per_State/)|8|9|10|[11](projects/economics/Largest_Energy_Sources_By_State/)|12|
-|13|14|15|16|[17](projects/economics/Percent_Energy_from_Biomass_Per_State/)|18|19|
+| - | - |[1](projects/restaurants/Popeyes_Per_State/)|[2](projects/ethnicity/Scotch-Irish_in_USA/)|[3](projects/economics/Percent_Energy_from_Solar_Per_State/)|[4](projects/agriculture/Beer_Of_Barley_Production_Europe_Per_Capita_2022/)|[5](projects/restaurants/Dodo_Pizza_Per_Country/)|
+|6|[7](projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](projects/ethnicity/Pennsylvania_German_In_USA/)|9|10|[11](projects/economics/Largest_Energy_Sources_By_State/)|12|
+|13|[14](projects/economics/Interstates_Per_State/)|15|16|[17](projects/economics/Percent_Energy_from_Biomass_Per_State/)|18|19|
 |20|21|22|23|24|25|26|
 |27|28|29|30|-|-|-|
