@@ -1,6 +1,6 @@
 ## Cold Stone Creameries Per State
 A simple map showing Cold Stone Creameries per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1aCN0HLskRZ9b2HoLOXiZsGBAOjOvPQj-)
 
 ## Data
 * [Cold Stone Data](https://www.coldstonecreamery.com/locator/)
@@ -14,11 +14,11 @@ A simple map showing Cold Stone Creameries per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DHMAUm5Ptof/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DHMAVIhPbgv)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lke3xy4xck2z)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1900594820927934829)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jb8x30/cold_stone_creameries_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jb8x5m/cold_stone_creameries_per_state/)
