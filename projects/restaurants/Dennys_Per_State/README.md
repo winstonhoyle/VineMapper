@@ -1,6 +1,6 @@
 ## Denny's Per State
 A Simple Map showing Denny's Dinners per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1oPbog4n2fipqsOrgONGISFSv5_K6yoit)
 
 ## Data
 * [Denny's Data](https://locations.dennys.com/)
@@ -15,10 +15,11 @@ A Simple Map showing Denny's Dinners per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DHer6pDSUxP/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DHer7KxyQd0)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1903223955718353023)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jguez7/dennys_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jguewc/dennys_per_state/)
