@@ -3,7 +3,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - |[1](../../projects/restaurants/Popeyes_Per_State/)|[2](../../projects/ethnicity/Scotch-Irish_in_USA/)|[3](../../projects/economics/Percent_Energy_from_Solar_Per_State/)|[4](../../projects/agriculture/Beer_Of_Barley_Production_Europe_Per_Capita_2022/)|[5](../../projects/restaurants/Dodo_Pizza_Per_Country/)|
-|[6](../../projects/versus/English_Vs_Irish_In_USA/)|[7](../../projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](../../projects/ethnicity/Pennsylvania_German_In_USA/)|9|10|[11](../../projects/economics/Largest_Energy_Sources_By_State/)|12|
+|[6](../../projects/versus/English_Vs_Irish_In_USA/)|[7](../../projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](../../projects/ethnicity/Pennsylvania_German_In_USA/)|[9](../../projects/politics/Parliamentary_Power_By_County/)|10|[11](../../projects/economics/Largest_Energy_Sources_By_State/)|12|
 |13|[14](../../projects/economics/Interstates_Per_State/)|15|16|[17](../../projects/economics/Percent_Energy_from_Biomass_Per_State/)|[18](../../projects/versus/Czech_Vs_Slovak_In_USA/)|19|
 |[20](../../projects/economics/Bachelors_Degree_In_Poverty/)|21|22|23|24|25|26|
 |27|28|29|30|-|-|-|
@@ -18,7 +18,7 @@
 * [04/06/2025](../../projects/versus/English_Vs_Irish_In_USA/) Does Your State Have More English or Irish Ancestry?
 * [04/07/2025](../../projects/economics/Percent_Energy_from_Wind_Per_State/) Wind Energy by State (2023)
 * [04/08/2025](../../projects/ethnicity/Pennsylvania_German_In_USA/) Pennsylvania German Ancestry In the USA
-* [04/09/2025]()
+* [04/09/2025](../../projects/politics/Parliamentary_Power_By_County/) Parliamentary Power By Country
 * [04/10/2025]()
 * [04/11/2025](../../projects/economics/Largest_Energy_Sources_By_State/) Largest Energy Sources By State (2023)
 * [04/12/2025]()

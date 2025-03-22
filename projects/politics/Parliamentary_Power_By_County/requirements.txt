@@ -1,0 +1,3 @@
+country-converter==1.3
+geopandas==1.0.1
+pandas==2.2.3
