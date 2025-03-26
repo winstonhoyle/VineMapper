@@ -1,6 +1,6 @@
 ## South Carolina Counties Population Change from 1790 to 2023
 A simple map showing if a county has increased in population from 1790 to 2023
-![Image](https://drive.google.com/uc?export=view&id=1dfmcEI4OCbzFaIT8yb4eykMjjKu1zoAu)
+![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
 * [1790 Population Totals](https://github.com/lmullen/slavery-map/tree/master)
