@@ -1,6 +1,6 @@
 ## Percentage Of Housing Units Lacking Complete Plumbing Facilities Per State (2023)
 A simple map showing the what percent of the homes in the USA lacking plumbing facilites per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1pm_QpsOmutoI8MATZsHE40ImVW9ZqqWA)
 
 ## Data
 * [Housing Data](https://data.census.gov/table/ACSDP5Y2023.DP04?q=homeownership)
@@ -15,10 +15,10 @@ A simple map showing the what percent of the homes in the USA lacking plumbing f
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DHtWU4lJeeF/)
+- [ ] [Threads](https://www.threads.net/@vinemapper/post/DHtWVaOpxWm)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1905287697851183548)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3llenxskyes2x)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jl779s/percentage_of_housing_units_lacking_complete/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jl77dh/percentage_of_housing_units_lacking_complete/)
