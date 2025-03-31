@@ -1,6 +1,6 @@
 ## Swing Drinks Per State
 A simple map showing the amount of Swig Drinks per state and their locations
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1Zp-gRHRW9ljO8eJ7PdA8pdBGRkJkxBk6)
 
 ## Data
 * [Swig Drinks Data](https://swigdrinks.com/findaswig/)
@@ -15,10 +15,11 @@ A simple map showing the amount of Swig Drinks per state and their locations
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DHwX_wipjo5/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DHwYARYJJYW)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3llhmkq3vhc2a)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1905713514754515326)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jm499k/swig_drinks_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jm49o7/swig_drinks_per_state/)
