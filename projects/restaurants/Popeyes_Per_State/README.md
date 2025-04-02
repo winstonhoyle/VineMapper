@@ -1,6 +1,6 @@
 ## Popeyes Per State
 A simple map showing the Popeyes per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1orUrmJVUCcb5ZKdPsDtygUzGTB13zdYI)
 
 ## Data
 * [Popeyes Data](https://www.popeyes.com/store-locator/)
@@ -15,10 +15,10 @@ A simple map showing the Popeyes per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DH7Rn5hvMy_/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DH7RoVkviuT)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1907247600782455117)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3llsb6zdbsc2m)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jp7oem/popeyes_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jp7o3m/popeyes_per_state/)
