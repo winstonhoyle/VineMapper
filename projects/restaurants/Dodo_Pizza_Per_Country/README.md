@@ -1,6 +1,6 @@
 ## Dodo Pizza Locations Per Country
 A simple map showing Dodo Pizzas per country
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1GAmedRB3o4T3mUR47_1a5t0mmC2cK9yH)
 
 ## Data
 * [DODO Data](https://globalapi.dodopizza.com/api/index.html)
@@ -12,10 +12,11 @@ A simple map showing Dodo Pizzas per country
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DIEsIaLvdV7/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DIEsI9bv6CN)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lm3hemzp7s2w)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1908572475153436983)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1js8oeo/dodo_pizza_locations_per_country/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1js8oi6/dodo_pizza_locations_per_country/)
