@@ -1,6 +1,6 @@
 ## Wind Energy by State (2023)
 A simple map showing the percent energy from wind energy in 2023
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1l6u_hyLJQr3Awb8vxgUMWFzgP8Fv_k8C)
 
 ## Data
 * [Energy Data](https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=vvvvu&geo=vvvvvvvvvvvvo&sec=g&linechart=ELEC.GEN.ALL-US-99.A&columnchart=ELEC.GEN.ALL-US-99.A&map=ELEC.GEN.ALL-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0)
@@ -13,10 +13,10 @@ A simple map showing the percent energy from wind energy in 2023
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DIJtUJcJPCV/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DIJtUzspPB4)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1909278445747810814)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lmae4iqbts2u)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jtp3vv/energy_from_wind_power_2023/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jtp3tm/energy_from_wind_power_2023/)
