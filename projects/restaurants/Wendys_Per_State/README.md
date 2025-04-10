@@ -1,6 +1,6 @@
 ## Wendy's Per State
 A Simple Map showing Wendy's per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=15XqPTwIgDrWSHEF7xoKizZt_l48ZwXPe)
 
 ## Data
 * [Wendy's Data](https://locations.wendys.com/united-states)
@@ -15,11 +15,11 @@ A Simple Map showing Wendy's per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DIPS5BazbPf/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DIPS5reTE0N)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lmfssangr224)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1910065075081396254)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jvfejs/wendys_per_100k_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jvfes0/wendys_per_100k_people/)
