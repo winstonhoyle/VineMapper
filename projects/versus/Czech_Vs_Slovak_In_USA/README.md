@@ -3,7 +3,7 @@ A simple map showing the if a state's ancestry is more Czech or Slovak
 ![Image](https://drive.google.com/uc?export=view&id=1XaAVrIbF3kqrqcR1roJ-SJGZ08Vz5aDw)
 
 ## Data
-* [Ethnic Data](https://data.census.gov/table/ACSDT5Y2022.B04006?q=People%20Reporting%20Ancestry&g=010XX00US$0400000)
+* [Ethnic Data](https://data.census.gov/table/ACSDT5Y2023.B04006?q=People+Reporting+Ancestry&g=010XX00US$0400000&moe=false)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
