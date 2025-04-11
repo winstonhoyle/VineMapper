@@ -18,7 +18,7 @@ A Simple Map showing Wendy's per state
 - [x] [Instagram](https://www.instagram.com/p/DIPS5BazbPf/)
 - [ ] [Instagram Reels]()
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DIPS5reTE0N)
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/oiipGeuEdR0)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lmfssangr224)
 - [x] [Twitter/X](https://x.com/VineMapper/status/1910065075081396254)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jvfejs/wendys_per_100k_people/)

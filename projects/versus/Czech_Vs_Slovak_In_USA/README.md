@@ -15,7 +15,7 @@ A simple map showing the if a state's ancestry is more Czech or Slovak
 - [ ] [Tiktok]()
 - [x] [Instagram](https://www.instagram.com/p/DIRX-HypPaU/)
 - [x] [Threads](https://www.threads.net/@vinemapper/post/DIRX-ysJPeN)
-- [ ] [Youtube Shorts]()
+- [x] [Youtube Shorts](https://youtube.com/shorts/ooI84jc4ywQ)
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lmhtrm4jpc2o)
 - [x] [X/Twitter](https://x.com/VineMapper/status/1910357726326407553)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jw107x/does_your_state_have_more_czech_or_slovak_ancestry/)
