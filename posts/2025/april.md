@@ -6,7 +6,7 @@
 |[6](../../projects/versus/English_Vs_Irish_In_USA/)|[7](../../projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](../../projects/ethnicity/Pennsylvania_German_In_USA/)|[9](../../projects/restaurants/Wendys_Per_State/)|[10](../../projects/versus/Czech_Vs_Slovak_In_USA/)|[11](../../projects/economics/Largest_Energy_Sources_By_State/)|[12](../../projects/ethnicity/Lebanese_In_USA/)|
 |[13](../../projects/stores/Dollar_Trees_Per_State_Per_Capita/)|[14](../../projects/economics/Interstates_Per_State/)|[15](../../projects/restaurants/Popeyes_Per_State_Per_Capita/)|[16](../../projects/politics/Parliamentary_Power_By_County/)|[17](../../projects/economics/Percent_Energy_from_Biomass_Per_State/)|[18](../../projects/ethnicity/African_Ancestry_Nationalities_USA/) |[19](../../projects/versus/Checkers_Vs_Rallys/)|
 |[20](../../projects/economics/Bachelors_Degree_In_Poverty/)|[21](../../projects/restaurants/Waffle_House_Per_State/)|22|[23](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Per_State/)|24|25|26|
-|27|28|29|30|-|-|-|
+|27|[28](../../projects/economics/Vehicle_Miles_Traveled_Per_State/)|29|30|-|-|-|
 
 ## Posts
 
@@ -33,10 +33,10 @@
 * [04/21/2025](../../projects/restaurants/Waffle_House_Per_State/) Waffle Houses Per 1m People
 * [04/22/2025]()
 * [04/23/2025](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Per_State/) Denny's Vs IHOP Vs Waffle House Per State
-* [04/24/2025]()
+* [04/24/2025](../../projects/economics/Vehicle_Deaths_Per_State_Per_Capita/) Vehiclear Deaths Per 100k People (2022)
 * [04/25/2025](../../projects/restaurants/Rallys_Per_State/) Rally's Restaurants Per 1m People
 * [04/26/2025]()
 * [04/27/2025]()
-* [04/28/2025]()
+* [04/28/2025](../../projects/economics/Vehicle_Miles_Traveled_Per_State/) Vehicular Miles Traveled Per State
 * [04/29/2025]()
 * [04/30/2025](../../projects/restaurants/Checkers_Per_State/) Checkers Restaurants Per 1m People
