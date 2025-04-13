@@ -2,7 +2,7 @@
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|-|-|-|-|[1](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|2|3|
+|-|-|-|-|[1](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|2|[3](../../projects/restaurants/Subways_Per_Canadian_Province/)|
 |[4](../../projects/economics/Homeownership_85_And_Over_Per_State/)|5|6|7|[8](../../projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|9|10|
 |11|12|13|14|15|16|17|
 |18|19|20|21|22|23|24|
@@ -12,7 +12,7 @@
 
 * [05/01/2025](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/) Vehicle Deaths Per 100 Million Miles Traveled Per State
 * [05/02/2025]()
-* [05/03/2025]()
+* [05/03/2025](../../projects/restaurants/Subways_Per_Canadian_Province/) Subways Per Capita Per Canadian Province
 * [05/04/2025](../../projects/economics/Homeownership_85_And_Over_Per_State/) Homeownership Under 85 and Old Per State
 * [05/05/2025]()
 * [05/06/2025]()
