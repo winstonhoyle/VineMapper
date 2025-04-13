@@ -1,6 +1,6 @@
 ## Dollar Trees Per 100k People
 A simple map showing Dollar Trees per 100k per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1Gwldt18-wLqvrwt5F8I9H72CWIY82q88)
 
 ## Data
 * [Dollar Tree Data](https://www.dollartree.com/locations/)
@@ -14,10 +14,10 @@ A simple map showing Dollar Trees per 100k per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DIZR_Juvnda/)
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DIZR_txPShG)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [X/Twitter]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1911470536984871120)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jycumx/dollar_trees_per_100k_people/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jycult/dollar_trees_per_100k_people/)
