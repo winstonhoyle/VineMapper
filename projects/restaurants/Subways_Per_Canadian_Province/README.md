@@ -1,6 +1,6 @@
 ## Number of Subway's Per Canadian Province
 A simple map showing Subways Per Canadian Province
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=19wKziTsLHcRFsArphPmAn71xZEyHibx8)
 
 ## Data
 * [Subway Data](https://restaurants.subway.com/canada)
@@ -13,11 +13,11 @@ A simple map showing Subways Per Canadian Province
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DIcJ5fXTlNZ/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.net/@vinemapper/post/DIcJ6FszXVz)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lmsenjr2pc2r)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1911874956008501758)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jz8nyc/subway_locations_per_100k_people_provinces_and/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jz8o0g/subway_locations_per_100k_people_provinces_and/)

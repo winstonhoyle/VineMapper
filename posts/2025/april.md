@@ -4,7 +4,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - |[1](../../projects/restaurants/Popeyes_Per_State/)|[2](../../projects/ethnicity/Scotch-Irish_in_USA/)|[3](../../projects/economics/Percent_Energy_from_Solar_Per_State/)|[4](../../projects/agriculture/Beer_Of_Barley_Production_Europe_Per_Capita_2022/)|[5](../../projects/restaurants/Dodo_Pizza_Per_Country/)|
 |[6](../../projects/versus/English_Vs_Irish_In_USA/)|[7](../../projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](../../projects/ethnicity/Pennsylvania_German_In_USA/)|[9](../../projects/restaurants/Wendys_Per_State/)|[10](../../projects/versus/Czech_Vs_Slovak_In_USA/)|[11](../../projects/economics/Largest_Energy_Sources_By_State/)|[12](../../projects/ethnicity/Lebanese_In_USA/)|
-|[13](../../projects/stores/Dollar_Trees_Per_State_Per_Capita/)|[14](../../projects/economics/Interstates_Per_State/)|[15](../../projects/restaurants/Popeyes_Per_State_Per_Capita/)|[16](../../projects/politics/Parliamentary_Power_By_County/)|[17](../../projects/economics/Percent_Energy_from_Biomass_Per_State/)|[18](../../projects/ethnicity/African_Ancestry_Nationalities_USA/) |[19](../../projects/versus/Checkers_Vs_Rallys/)|
+|[13](../../projects/stores/Dollar_Trees_Per_State_Per_Capita/)|[14](../../projects/restaurants/Subways_Per_Canadian_Province/)|[15](../../projects/restaurants/Popeyes_Per_State_Per_Capita/)|[16](../../projects/politics/Parliamentary_Power_By_County/)|[17](../../projects/economics/Percent_Energy_from_Biomass_Per_State/)|[18](../../projects/ethnicity/African_Ancestry_Nationalities_USA/) |[19](../../projects/versus/Checkers_Vs_Rallys/)|
 |[20](../../projects/economics/Bachelors_Degree_In_Poverty/)|[21](../../projects/restaurants/Waffle_House_Per_State/)|[22](../../projects/politics/European_Socialists_2025/)|[23](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Per_State/)|[24](../../projects/economics/Vehicle_Deaths_Per_State_Per_Capita/)|[25](../../projects/restaurants/Rallys_Per_State/)|[26](../../projects/economics/Homeownership_Under_35_Per_State/)|
 |[27](../../projects/restaurants/Krispy_Kremes_Per_State/)|[28](../../projects/economics/Vehicle_Miles_Traveled_Per_State/)|[29](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|[30](../../projects/restaurants/Checkers_Per_State/)|-|-|-|
 
@@ -23,7 +23,7 @@
 * [04/11/2025](../../projects/economics/Largest_Energy_Sources_By_State/) Largest Energy Sources By State (2023)
 * [04/12/2025](../../projects/ethnicity/Lebanese_In_USA/) Lebanese Ancestry In the USA
 * [04/13/2025](../../projects/stores/Dollar_Trees_Per_State_Per_Capita/) Dollar Trees Per 100k People
-* [04/14/2025](../../projects/economics/Interstates_Per_State/) Miles Of Interstates Per State (2024)
+* [04/14/2025](../../projects/restaurants/Subways_Per_Canadian_Province/) Subways Per Capita Per Canadian Province
 * [04/15/2025](../../projects/restaurants/Popeyes_Per_State_Per_Capita/) Popeyes Per 100k People
 * [04/16/2025](../../projects/politics/Parliamentary_Power_By_County/) Parliamentary Power By Country
 * [04/17/2025](../../projects/economics/Percent_Energy_from_Biomass_Per_State/) Biomass Energy by State (2023)
