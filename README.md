@@ -87,8 +87,8 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 [May](posts/2025/may.md)
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|-|-|-|-|[1](projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](projects/restaurants/Waffle_House_Per_State_Totals/)|3|
-|[4](projects/economics/Homeownership_85_And_Over_Per_State/)|5|6|7|8|9|10|
+|-|-|-|-|[1](projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](projects/restaurants/Waffle_House_Per_State_Totals/)|[3](projects/agriculture/Horse_Meat_Produced_2022/)|
+|[4](projects/ethnicity/South_Africans_In_USA/)|5|6|[7](projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|9|[10](projects/ethnicity/West_Indian_Nationalities_USA/)|
 |11|12|13|14|15|16|17|
 |18|19|20|21|22|23|24|
 |25|26|27|28|29|30|31|
