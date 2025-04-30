@@ -6,7 +6,7 @@
 |[6](../../projects/versus/English_Vs_Irish_In_USA/)|[7](../../projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](../../projects/ethnicity/Pennsylvania_German_In_USA/)|[9](../../projects/restaurants/Wendys_Per_State/)|[10](../../projects/versus/Czech_Vs_Slovak_In_USA/)|[11](../../projects/economics/Largest_Energy_Sources_By_State/)|[12](../../projects/ethnicity/Lebanese_In_USA/)|
 |[13](../../projects/stores/Dollar_Trees_Per_State_Per_Capita/)|[14](../../projects/restaurants/Subways_Per_Canadian_Province/)|[15](../../projects/restaurants/Popeyes_Per_State_Per_Capita/)|[16](../../projects/economics/Homeownership_85_And_Over_Per_State/)|[17](../../projects/economics/Percent_Energy_from_Biomass_Per_State/)|[18](../../projects/ethnicity/African_Ancestry_Nationalities_USA/) |[19](../../projects/versus/Checkers_Vs_Rallys/)|
 |[20](../../projects/economics/Bachelors_Degree_In_Poverty/)|[21](../../projects/restaurants/Waffle_House_Per_State/)|[22](../../projects/politics/European_Socialists_2025/)|[23](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Per_State/)|[24](../../projects/economics/Vehicle_Deaths_Per_State_Per_Capita/)|[25](../../projects/restaurants/Rallys_Per_State/)|[26](../../projects/economics/Homeownership_Under_35_Per_State/)|
-|[27](../../projects/restaurants/Krispy_Kremes_Per_State/)|[28](../../projects/economics/Vehicle_Miles_Traveled_Per_State/)|[29](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|[30](../../projects/restaurants/Checkers_Per_State/)|-|-|-|
+|[27](../../projects/restaurants/Krispy_Kremes_Per_State/)|[28](../../projects/economics/Vehicle_Miles_Traveled_Per_State/)|[29](../../projects/agriculture/Horse_Meat_Produced_2022/)|[30](../../projects/restaurants/Checkers_Per_State/)|-|-|-|
 
 ## Posts
 
@@ -38,5 +38,5 @@
 * [04/26/2025](../../projects/economics/Homeownership_Under_35_Per_State/) Homeownership Under 35 Per State
 * [04/27/2025](../../projects/restaurants/Krispy_Kremes_Per_State/) Krispy Kreme Locations Per 1m People
 * [04/28/2025](../../projects/economics/Vehicle_Miles_Traveled_Per_State/) Vehicular Miles Traveled Per State
-* [04/29/2025](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties) Dollar General Vs Wafflehouse Per State
+* [04/29/2025](../../projects/agriculture/Horse_Meat_Produced_2022/) Horse Meat Production In Europe (2022)
 * [04/30/2025](../../projects/restaurants/Checkers_Per_State/) Checkers Restaurants Per 1m People

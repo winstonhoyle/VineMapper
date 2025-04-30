@@ -2,7 +2,7 @@
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|-|-|-|-|[1](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](../../projects/restaurants/Waffle_House_Per_State_Totals/)|[3](../../projects/agriculture/Horse_Meat_Produced_2022/)|
+|-|-|-|-|[1](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](../../projects/restaurants/Waffle_House_Per_State_Totals/)|[3](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|
 |[4](../../projects/ethnicity/South_Africans_In_USA/)|5|6|[7](../../projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](../../projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|[9](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/)|[10](../../projects/ethnicity/West_Indian_Nationalities_USA/)|
 |11|12|13|14|15|16|17|
 |18|19|[20](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/)|21|22|23|24|
@@ -12,7 +12,7 @@
 
 * [05/01/2025](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/) Vehicle Deaths Per 100 Million Miles Traveled Per State
 * [05/02/2025](../../projects/restaurants/Waffle_House_Per_State_Totals/) Waffle House Locations Per State
-* [05/03/2025](../../projects/agriculture/Horse_Meat_Produced_2022/) Horse Meat Production In Europe (2022)
+* [05/03/2025](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties) Dollar General Vs Wafflehouse Per State
 * [05/04/2025](../../projects/ethnicity/South_Africans_In_USA/) South African Ancestry In the USA
 * [05/05/2025]()
 * [05/06/2025]()
