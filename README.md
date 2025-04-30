@@ -81,7 +81,7 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 |[6](projects/versus/English_Vs_Irish_In_USA/)|[7](projects/economics/Percent_Energy_from_Wind_Per_State/)|[8](projects/ethnicity/Pennsylvania_German_In_USA/)|[9](projects/restaurants/Wendys_Per_State/)|[10](projects/versus/Czech_Vs_Slovak_In_USA/)|[11](projects/economics/Largest_Energy_Sources_By_State/)|[12](projects/ethnicity/Lebanese_In_USA/)|
 |[13](projects/stores/Dollar_Trees_Per_State_Per_Capita/)|[14](projects/restaurants/Subways_Per_Canadian_Province/)|[15](projects/restaurants/Popeyes_Per_State_Per_Capita/)|[16](projects/economics/Homeownership_85_And_Over_Per_State/)|[17](projects/economics/Percent_Energy_from_Biomass_Per_State/)|[18](projects/ethnicity/African_Ancestry_Nationalities_USA/) |[19](projects/versus/Checkers_Vs_Rallys/)|
 |[20](projects/economics/Bachelors_Degree_In_Poverty/)|[21](projects/restaurants/Waffle_House_Per_State/)|[22](projects/politics/European_Socialists_2025/)|[23](projects/versus/Dennys_Vs_IHOP_Waffle_House_Per_State/)|[24](projects/economics/Vehicle_Deaths_Per_State_Per_Capita/)|[25](projects/restaurants/Rallys_Per_State/)|[26](projects/economics/Homeownership_Under_35_Per_State/)|
-|[27](projects/restaurants/Krispy_Kremes_Per_State/)|[28](projects/economics/Vehicle_Miles_Traveled_Per_State/)|[29](projects/agriculture/Horse_Meat_Produced_2022/)|[30](projects/restaurants/Checkers_Per_State/)|-|-|-|
+|[27](projects/restaurants/Krispy_Kremes_Per_State/)|[28](projects/economics/Vehicle_Miles_Traveled_Per_State/)|[29](projects/agriculture/Horse_Meat_Produced_2022/)|[30](projects/ethnicity/West_Indian_Nationalities_USA/)|-|-|-|
 
 
 
@@ -89,7 +89,7 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|[1](projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](projects/restaurants/Waffle_House_Per_State_Totals/)|[3](projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|
-|[4](projects/ethnicity/South_Africans_In_USA/)|5|6|[7](projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|[9](projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/)|[10](projects/ethnicity/West_Indian_Nationalities_USA/)|
+|[4](projects/ethnicity/South_Africans_In_USA/)|[5](projects/restaurants/Checkers_Per_State/)|6|[7](projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|[9](projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/)|10|
 |11|12|13|14|15|16|17|
 |18|19|[20](projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/)|21|22|23|24|
 |25|26|27|28|29|30|31|
