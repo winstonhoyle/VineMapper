@@ -1,5 +1,5 @@
 ## Denny's Vs IHOP Vs Waffle House Per State
-A simple map showing if a State has more Denny's or IHOP
+A simple map showing if a State has more Denny's or IHOP or Waffle House
 ![Image](https://drive.google.com/uc?export=view&id=1i0YKvenevQac8hsFVyUkjwVmEPYTNF9X)
 
 ## Data
