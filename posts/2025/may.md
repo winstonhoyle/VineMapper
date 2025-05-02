@@ -4,8 +4,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|[1](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](../../projects/restaurants/Waffle_House_Per_State_Totals/)|[3](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|
 |[4](../../projects/ethnicity/South_Africans_In_USA/)|[5](../../projects/restaurants/Checkers_Per_State/)|[6](../../projects/economics/Percent_Without_Internet_Subscription_Per_State/)|[7](../../projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](../../projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|[9](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/)|[10](../../projects/restaurants/Dave_and_Busters_Per_State/)|
-|[11](../../projects/demography/Ratio_Unmarried_Men_To_Women/)|[12](../../projects/economics/Percent_Without_Internet_Subscription_Per_County/)|[13](../../projects/ethnicity/Ukrainian_Change_in_USA_2022_2023/)|[14](../../projects/stores/Bucees_Per_State/)|[15](../../projects/restaurants/Perkins_Per_State/)|[16](../../projects/demography/Unmarried_Per_State/)|17|
-|18|19|[20](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/)|21|22|23|24|
+|[11](../../projects/demography/Ratio_Unmarried_Men_To_Women/)|[12](../../projects/economics/Percent_Without_Internet_Subscription_Per_County/)|[13](../../projects/ethnicity/Ukrainian_Change_in_USA_2022_2023/)|[14](../../projects/stores/Bucees_Per_State/)|[15](../../projects/restaurants/Perkins_Per_State/)|[16](../../projects/demography/Unmarried_Per_State/)|[17](../../projects/versus/English_Vs_German_Per_County/)|
+|18|19|[20](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/)|21|22|23|[24](../../projects/versus/English_Vs_Irish_Per_County/)|
 |[25](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_State/)|[26](../../projects/agriculture/Corn_Production_Europe_Per_Capita_2022/)|27|28|29|30|31|
 
 ## Posts
@@ -26,14 +26,14 @@
 * [05/14/2025](../../projects/stores/Bucees_Per_State/) Buc-ee's Per State
 * [05/15/2025](../../projects/restaurants/Perkins_Per_State/) Perkins Per State
 * [05/16/2025](../../projects/demography/Unmarried_Per_State/) Percent of State Population Never Married
-* [05/17/2025]()
+* [05/17/2025](../../projects/versus/English_Vs_German_Per_County/) Does Your County Have More English or German Ancestry?
 * [05/18/2025]()
 * [05/19/2025]()
 * [05/20/2025](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/) Cheese From Whole Cow Milk Production Per 100 People In Europe (2022)
 * [05/21/2025]()
 * [05/22/2025]()
 * [05/23/2025]()
-* [05/24/2025]()
+* [05/24/2025](../../projects/versus/English_Vs_Irish_Per_County/) Does Your County Have More English or Irish Ancestry?
 * [05/25/2025](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_State/) Denny's Vs IHOP Vs Waffle House Vs Perkins Per State
 * [05/26/2025](../../projects/agriculture/Corn_Production_Europe_Per_Capita_2022/) Corn Production Per 100 People In Europe (2022)
 * [05/27/2025]()
