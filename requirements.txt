@@ -70,7 +70,11 @@ filelock==3.17.0
     # via virtualenv
 fqdn==1.5.1
     # via jsonschema
+geographiclib==2.0
+    # via geopy
 geopandas==1.0.1
+    # via -r requirements.in
+geopy==2.4.1
     # via -r requirements.in
 h11==0.14.0
     # via httpcore

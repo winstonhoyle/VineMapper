@@ -2,6 +2,7 @@ beautifulsoup4
 cloudscraper
 country_converter
 geopandas
+geopy
 h3
 jupyter
 lxml
