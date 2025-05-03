@@ -1,5 +1,5 @@
 ## Waffle House Locations Per State
-A simple map shoing the number of Waffle Houses per state
+A simple map showing the number of Waffle Houses per state
 ![Image](https://drive.google.com/uc?export=view&id=1ZAJoEHONB1NVVYKMk-XGMplKddmfsEAA)
 
 ## Data

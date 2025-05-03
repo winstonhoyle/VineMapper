@@ -1,5 +1,5 @@
 ## Waffle House Locations Per 1m People
-A simple map shoing the number of Waffle Houses per 1m People
+A simple map showing the number of Waffle Houses per 1m People
 ![Image](https://drive.google.com/uc?export=view&id=13Dh_KzSWDLOM50WUna_QRg94NOsseQMG)
 
 ## Data
