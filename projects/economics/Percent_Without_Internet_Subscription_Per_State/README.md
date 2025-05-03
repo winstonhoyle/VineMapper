@@ -1,6 +1,6 @@
 ## Percent of Households Without An Internet Subscription
 A simple map showing what percent of households do not have an internet subscription
-![Image](https://drive.google.com/uc?export=view&id=1kTVKhrHa0E3MosAB3j_1PYQT8DwoLjMh)
+![Image](https://drive.google.com/uc?export=view&id=1vQDKbN93BSj_Ci97PIDW1wcx1lXRilr0)
 
 ## Data
 * [Housing Data](https://data.census.gov/table/ACSST5Y2023.S2801?q=internet&g=010XX00US$0400000)
