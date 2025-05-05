@@ -3,7 +3,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|[1](../../projects/economics/Vehicle_Deaths_Per_100m_Vehicle_Miles_Traveled/)|[2](../../projects/restaurants/Waffle_House_Per_State_Totals/)|[3](../../projects/economics/Percent_Without_Internet_Subscription_Per_State/)|
-|[4](../../projects/ethnicity/South_Africans_In_USA/)|[5](../../projects/restaurants/Checkers_Per_State/)|[6](../../projects/economics/Percent_Without_Internet_Subscription_Per_County/)|[7](../../projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](../../projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|[9](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/)|[10](../../projects/restaurants/Dave_and_Busters_Per_State/)|
+|[4](../../projects/ethnicity/South_Africans_In_USA/)|[5](../../projects/restaurants/Checkers_Per_State/)|[6](../../projects/restaurants/Dave_and_Busters_Per_State/)|[7](../../projects/ethnicity/Arab_Ancestry_Nationalities_USA/)|[8](../../projects/economics/Renter_Occupied_Units_Before_1990_Per_State/)|[9](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/)|[10](../../projects/economics/Percent_Without_Internet_Subscription_Per_County/)|
 |[11](../../projects/demography/Ratio_Unmarried_Men_To_Women/)|[12](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|[13](../../projects/ethnicity/Ukrainian_Change_in_USA_2022_2023/)|[14](../../projects/stores/Bucees_Per_State/)|[15](../../projects/restaurants/Perkins_Per_State/)|[16](../../projects/demography/Unmarried_Per_State/)|[17](../../projects/versus/English_Vs_German_Per_County/)|
 |[18](../../projects/restaurants/Whataburgers_Per_Texas_Counties/)|[19](../../projects/demography/Fertility_Rates_In_Bulgaria_2024/)|[20](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/)|[21](../../projects/versus/English_Vs_Irish_Per_County/)|22|23|[24](../../projects/restaurants/Whataburger_Per_State/)|
 |[25](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_State/)|[26](../../projects/agriculture/Corn_Production_Europe_Per_Capita_2022/)|27|28|29|[30](../../projects/economics/Avg_Monthly_Wage_Bulgaria_2024/)|31|
@@ -14,12 +14,12 @@
 * [05/02/2025](../../projects/restaurants/Waffle_House_Per_State_Totals/) Waffle House Locations Per State
 * [05/03/2025](../../projects/economics/Percent_Without_Internet_Subscription_Per_State/) Percent of Households Per State Without An Internet Subscription
 * [05/04/2025](../../projects/ethnicity/South_Africans_In_USA/) South African Ancestry In the USA
-* [05/05/2025](../../projects/restaurants/Checkers_Per_State/) Checkers Restaurants Per 1m People
-* [05/06/2025](../../projects/economics/Percent_Without_Internet_Subscription_Per_County/) Percent of Households Without An Internet Subscription Per County
+* [05/05/2025](../../projects/restaurants/Checkers_Per_State/) Checkers Restaurants Per State
+* [05/06/2025](../../projects/restaurants/Dave_and_Busters_Per_State/) Dave & Buster's Per State
 * [05/07/2025](../../projects/ethnicity/Arab_Ancestry_Nationalities_USA/) Most Reported Arab Ancestry Per State
 * [05/08/2025](../../projects/economics/Renter_Occupied_Units_Before_1990_Per_State/) Percent of Renters Who Moved In Before 1990
 * [05/09/2025](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_2022/) Cheese From Whole Cow Milk Production In Europe (2022)
-* [05/10/2025](../../projects/restaurants/Dave_and_Busters_Per_State/) Dave & Buster's Per State
+* [05/10/2025](../../projects/economics/Percent_Without_Internet_Subscription_Per_County/) Percent of Households Without An Internet Subscription Per County
 * [05/11/2025](../../projects/demography/Ratio_Unmarried_Men_To_Women/) Ratio Of Unmarried Men to Unmarried Women
 * [05/12/2025](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties) Dollar General Vs Wafflehouse Per State
 * [05/13/2025](../../projects/ethnicity/Ukrainian_Change_in_USA_2022_2023/) Change In Ukrainian Ancestry Per State from 2022 to 2023
