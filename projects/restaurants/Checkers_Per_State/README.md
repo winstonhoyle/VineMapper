@@ -1,6 +1,6 @@
 ## Checkers Per State
 A simple map showing number of Checkers per state
-![Image](https://drive.google.com/uc?export=view&id=-AkQsFYWV)
+![Image](https://drive.google.com/uc?export=view&id=1i_L7aFXKsJF8yFUGQSziVq4k0S1LlVds)
 
 ## Data
 * [Checkers and Rally's Data](https://locations.checkersandrallys.com/)
@@ -12,11 +12,11 @@ A simple map showing number of Checkers per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DJR1AjWpCc4/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DJR1BE1pobm)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3logrvvap2k2p)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1915838295952789558)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1kffy6j/checkers_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1kffy5u/checkers_per_state/)
