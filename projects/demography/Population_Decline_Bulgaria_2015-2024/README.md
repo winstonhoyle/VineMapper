@@ -1,9 +1,9 @@
-## Average Monthly Wage Per Bulgurian Region
-A simple map showing the average monthly wage per region in Bulgaria
+## Population Decline as Percentage in Bulgaria from 2015 to 2024
+A simple map showing the percentage decline of population in Bulgarian regions
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Economic Data](https://www.nsi.bg/en/content/3930/statistical-regions-district)
+* [Population Data](https://infostat.nsi.bg/)
 * [Bulgaria GeoJSON](https://simplemaps.com/gis/country/bg)
 * [European Borders](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/countries)
 
