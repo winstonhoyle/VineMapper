@@ -12,7 +12,7 @@ A simple map showing the average price to buy a new car per state
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
-- [ ] [Threads]()()
+- [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()
 - [ ] [X/Twitter]()
