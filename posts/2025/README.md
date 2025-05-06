@@ -53,3 +53,13 @@ Click the month for post descriptions
 |[11](../../projects/demography/Ratio_Unmarried_Men_To_Women/)|[12](../../projects/versus/Dollar_General_Vs_Wafflehouse_Counties)|[13](../../projects/ethnicity/Ukrainian_Change_in_USA_2022_2023/)|[14](../../projects/stores/Bucees_Per_State/)|[15](../../projects/restaurants/Perkins_Per_State/)|[16](../../projects/demography/Unmarried_Per_State/)|[17](../../projects/versus/English_Vs_German_Per_County/)|
 |[18](../../projects/restaurants/Whataburgers_Per_Texas_Counties/)|[19](../../projects/demography/Fertility_Rates_In_Bulgaria_2024/)|[20](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/)|[21](../../projects/versus/English_Vs_Irish_Per_County/)|[22](../../projects/economics/Cheapest_State_To_Buy_New_Car/)|[23](../../projects/demography/Population_Decline_Bulgaria_2015-2024/)|[24](../../projects/restaurants/Whataburger_Per_State/)|
 |[25](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_State/)|26|[27](../../projects/agriculture/Corn_Production_Europe_Per_Capita_2022/)|[28](../../projects/stores/Campgrounds_Per_State_2025/)|[29](../../projects/restaurants/Winchells_Donuts_Per_State/)|[30](../../projects/economics/Avg_Monthly_Wage_Bulgaria_2024/)|[31](../../projects/stores/Raleys_Per_State/)|
+
+[June](june.md)
+
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|[2](../../projects/stores/Campgrounds_Per_State_Per_Capita_2025/)|3|4|5|6|7|
+|8|9|10|11|12|13|14|
+|15|16|17|18|19|20|21|
+|22|23|24|25|26|27|28|
+|29|30|-|-|-|-|-|
