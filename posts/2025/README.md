@@ -58,8 +58,8 @@ Click the month for post descriptions
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[1](../../projects/economics/Bankruptcy_Filings_Per_State/)|[2](../../projects/stores/Campgrounds_Per_State_Per_Capita_2025/)|3|4|[5](../../projects/economics/Bankruptcy_Filings_Per_State_2023_to_2024/)|[6](../../projects/stores/Sheetz_Per_State/)|7|
-|8|9|10|11|12|13|14|
+|[1](../../projects/economics/Bankruptcy_Filings_Per_State/)|[2](../../projects/stores/Campgrounds_Per_State_Per_Capita_2025/)|3|[4](../../projects/restaurants/Burger_Kings_Per_State/)|[5](../../projects/economics/Bankruptcy_Filings_Per_State_2023_to_2024/)|[6](../../projects/stores/Sheetz_Per_State/)|7|
+|8|9|[10](../../projects/versus/Wendys_Vs_Burger_King_Per_State/)|11|12|13|14|
 |15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
+|22|23|[24](../../projects/restaurants/Burger_Kings_Per_Capita/)|25|26|27|28|
 |29|30|-|-|-|-|-|
