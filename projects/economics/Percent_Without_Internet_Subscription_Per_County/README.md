@@ -1,6 +1,6 @@
 ## Percent of Households Without An Internet Subscription Per County
 A simple map showing what percent of households do not have an internet subscription per county
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1kTVKhrHa0E3MosAB3j_1PYQT8DwoLjMh)
 
 ## Data
 * [Housing Data](https://data.census.gov/table/ACSST5Y2023.S2801?q=internet&g=010XX00US$0500000)
@@ -13,10 +13,10 @@ A simple map showing what percent of households do not have an internet subscrip
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DJeoRAzs9bc/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DJeoRZHMG7X)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1921237952669110746)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lotbyft3b22e)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1kjd9yf/percent_of_housing_units_without_an_internet/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1kjd9lp/percent_of_housing_units_without_an_internet/)
