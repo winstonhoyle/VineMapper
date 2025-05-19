@@ -1,6 +1,6 @@
 ## Whataburgers Per Texas County
 A simple map showing how many Whataburgers are in each Texas county
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=14tmzRQTqI6olJRM9dSts27a4x-T1LmQo)
 
 ## Data
 * [Whataburger Data, check other Whataburger Map. Webscrapping takes ~15m](../Whataburger_Per_State/)
@@ -15,10 +15,10 @@ A simple map showing how many Whataburgers are in each Texas county
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DJza5LlM02U/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DJza5q-sNdR)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lphlpibhe22g)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1kppgnz/whataburgers_per_texas_county/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1kppgdz/whataburgers_per_texas_county/)

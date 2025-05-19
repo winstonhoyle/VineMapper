@@ -1,6 +1,6 @@
-## Fertility Rate Per Bulgurian Region
-A simple map showing the fertility rate per region in Bulgaria
-![Image](https://drive.google.com/uc?export=view&id=)
+## Fertility Rate Per Bulgurian Province
+A simple map showing the fertility rate per province in Bulgaria
+![Image](https://drive.google.com/uc?export=view&id=1B1f6XbCAJJ_WioznEfD4Amw-9mQ8_Xil)
 
 ## Data
 * [Fertility Data](https://www.nsi.bg/en/content/2970/total-fertility-rate-statistical-regions-districts-and-place-residence)
@@ -12,11 +12,11 @@ A simple map showing the fertility rate per region in Bulgaria
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DJ2AdHAvw8r/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DJ2AdqcPLB9)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lpk4ab4qqc2k)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1924519172475912699)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1kqhsuj/fertility_rates_per_bulgarian_region_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1kqhrle/fertility_rates_per_bulgarian_region_2024/)

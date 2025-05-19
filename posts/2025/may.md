@@ -28,7 +28,7 @@
 * [05/16/2025](../../projects/demography/Unmarried_Per_State/) Percent of State Population Never Married
 * [05/17/2025](../../projects/versus/English_Vs_German_Per_County/) Does Your County Have More English or German Ancestry?
 * [05/18/2025](../../projects/restaurants/Whataburgers_Per_Texas_Counties/) Whataburgers Per Texas County
-* [05/19/2025](../../projects/demography/Fertility_Rates_In_Bulgaria_2024/) Fertility Rate Per Bulgarian Region
+* [05/19/2025](../../projects/demography/Fertility_Rates_In_Bulgaria_2024/) Fertility Rate Per Bulgarian Province
 * [05/20/2025](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/) Cheese From Whole Cow Milk Production Per 100 People In Europe (2022)
 * [05/21/2025](../../projects/versus/English_Vs_Irish_Per_County/) Does Your County Have More English or Irish Ancestry?
 
