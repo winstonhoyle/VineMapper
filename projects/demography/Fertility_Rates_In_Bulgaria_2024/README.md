@@ -20,3 +20,4 @@ A simple map showing the fertility rate per province in Bulgaria
 - [x] [Twitter/X](https://x.com/VineMapper/status/1924519172475912699)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1kqhsuj/fertility_rates_per_bulgarian_region_2024/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1kqhrle/fertility_rates_per_bulgarian_region_2024/)
+- [x] [Reddit r/Bulgaria](https://www.reddit.com/r/bulgaria/comments/1krafk7/fertility_rate_per_bulgarian_region_2024/)
