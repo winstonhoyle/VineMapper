@@ -2,7 +2,7 @@
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[1](../../projects/economics/Bankruptcy_Filings_Per_State/)|[2](../../projects/stores/Campgrounds_Per_State_Per_Capita_2025/)|[3](../../projects/ethnicity/Slavic_Ancestry_Nationalities_USA/)|[4](../../projects/restaurants/Burger_Kings_Per_State/)|5|[6](../../projects/stores/Sheetz_Per_State/)|[7](../../projects/demography/Disability_Percent_Per_State/)|
+|[1](../../projects/economics/Bankruptcy_Filings_Per_State/)|[2](../../projects/stores/Campgrounds_Per_State_2025/)|[3](../../projects/ethnicity/Slavic_Ancestry_Nationalities_USA/)|[4](../../projects/restaurants/Burger_Kings_Per_State/)|5|[6](../../projects/stores/Sheetz_Per_State/)|[7](../../projects/demography/Disability_Percent_Per_State/)|
 |8|[9](../../projects/ethnicity/Ukrainian_Change_in_USA_2022_2023/)|[10](../../projects/versus/Wendys_Vs_Burger_King_Per_State/)|[11](../../projects/economics/Registration_Fees_For_Car_Per_State/)|12|[13](../../projects/demography/Disability_Percent_Per_County/)|14|
 |15|16|17|18|19|20|21|
 |22|23|[24](../../projects/restaurants/Burger_Kings_Per_Capita/)|25|26|27|28|
@@ -10,7 +10,7 @@
 
 ## Posts
 * [06/01/2025](../../projects/economics/Bankruptcy_Filings_Per_State/) Bankruptcy Filings Per 100k People
-* [06/02/2025](../../projects/stores/Campgrounds_Per_State_Per_Capita_2025/) Campgrounds Per 100k People
+* [06/02/2025](../../projects/stores/Campgrounds_Per_State_2025/) Camp Grounds Per State
 * [06/03/2025](../../projects/ethnicity/Slavic_Ancestry_Nationalities_USA/) Most Reported Slavic Ancestry Per State
 * [06/04/2025](../../projects/restaurants/Burger_Kings_Per_State/) Burger Kings Per State
 * [06/05/2025]()
