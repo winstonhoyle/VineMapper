@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-anyio==4.8.0
+anyio==4.9.0
     # via
     #   httpx
     #   jupyter-server
@@ -16,22 +16,22 @@ arrow==1.3.0
     # via isoduration
 asttokens==3.0.0
     # via stack-data
-async-lru==2.0.4
+async-lru==2.0.5
     # via jupyterlab
-attrs==25.1.0
+attrs==25.3.0
     # via
     #   jsonschema
     #   referencing
 babel==2.17.0
     # via jupyterlab-server
-beautifulsoup4==4.13.3
+beautifulsoup4==4.13.4
     # via
     #   -r requirements.in
     #   nbconvert
     #   wikipedia
 bleach[css]==6.2.0
     # via nbconvert
-certifi==2025.1.31
+certifi==2025.4.26
     # via
     #   httpcore
     #   httpx
@@ -42,7 +42,7 @@ cffi==1.17.1
     # via argon2-cffi-bindings
 cfgv==3.4.0
     # via pre-commit
-charset-normalizer==3.4.1
+charset-normalizer==3.4.2
     # via requests
 cloudscraper==1.2.71
     # via -r requirements.in
@@ -52,7 +52,9 @@ comm==0.2.2
     #   ipywidgets
 country-converter==1.3
     # via -r requirements.in
-debugpy==1.8.12
+currencyconverter==0.18.6
+    # via -r requirements.in
+debugpy==1.8.14
     # via ipykernel
 decorator==5.2.1
     # via ipython
@@ -66,7 +68,7 @@ executing==2.2.0
     # via stack-data
 fastjsonschema==2.21.1
     # via nbformat
-filelock==3.17.0
+filelock==3.18.0
     # via virtualenv
 fqdn==1.5.1
     # via jsonschema
@@ -76,15 +78,15 @@ geopandas==1.0.1
     # via -r requirements.in
 geopy==2.4.1
     # via -r requirements.in
-h11==0.14.0
+h11==0.16.0
     # via httpcore
-h3==4.2.1
+h3==4.2.2
     # via -r requirements.in
-httpcore==1.0.7
+httpcore==1.0.9
     # via httpx
 httpx==0.28.1
     # via jupyterlab
-identify==2.6.8
+identify==2.6.12
     # via pre-commit
 idna==3.10
     # via
@@ -97,35 +99,35 @@ ipykernel==6.29.5
     #   jupyter
     #   jupyter-console
     #   jupyterlab
-ipython==9.0.1
+ipython==9.2.0
     # via
     #   ipykernel
     #   ipywidgets
     #   jupyter-console
 ipython-pygments-lexers==1.1.1
     # via ipython
-ipywidgets==8.1.5
+ipywidgets==8.1.7
     # via jupyter
 isoduration==20.11.0
     # via jsonschema
 jedi==0.19.2
     # via ipython
-jinja2==3.1.5
+jinja2==3.1.6
     # via
     #   jupyter-server
     #   jupyterlab
     #   jupyterlab-server
     #   nbconvert
-json5==0.10.0
+json5==0.12.0
     # via jupyterlab-server
 jsonpointer==3.0.0
     # via jsonschema
-jsonschema[format-nongpl]==4.23.0
+jsonschema[format-nongpl]==4.24.0
     # via
     #   jupyter-events
     #   jupyterlab-server
     #   nbformat
-jsonschema-specifications==2024.10.1
+jsonschema-specifications==2025.4.1
     # via jsonschema
 jupyter==1.1.1
     # via -r requirements.in
@@ -137,7 +139,7 @@ jupyter-client==8.6.3
     #   nbclient
 jupyter-console==6.6.3
     # via jupyter
-jupyter-core==5.7.2
+jupyter-core==5.8.1
     # via
     #   ipykernel
     #   jupyter-client
@@ -151,7 +153,7 @@ jupyter-events==0.12.0
     # via jupyter-server
 jupyter-lsp==2.2.5
     # via jupyterlab
-jupyter-server==2.15.0
+jupyter-server==2.16.0
     # via
     #   jupyter-lsp
     #   jupyterlab
@@ -160,7 +162,7 @@ jupyter-server==2.15.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.3.5
+jupyterlab==4.4.3
     # via
     #   jupyter
     #   notebook
@@ -170,9 +172,9 @@ jupyterlab-server==2.27.3
     # via
     #   jupyterlab
     #   notebook
-jupyterlab-widgets==3.0.13
+jupyterlab-widgets==3.0.15
     # via ipywidgets
-lxml==5.3.1
+lxml==5.4.0
     # via -r requirements.in
 markupsafe==3.0.2
     # via
@@ -182,7 +184,7 @@ matplotlib-inline==0.1.7
     # via
     #   ipykernel
     #   ipython
-mistune==3.1.2
+mistune==3.1.3
     # via nbconvert
 nbclient==0.10.2
     # via nbconvert
@@ -199,13 +201,13 @@ nest-asyncio==1.6.0
     # via ipykernel
 nodeenv==1.9.1
     # via pre-commit
-notebook==7.3.2
+notebook==7.4.3
     # via jupyter
 notebook-shim==0.2.4
     # via
     #   jupyterlab
     #   notebook
-numpy==2.2.3
+numpy==2.2.6
     # via
     #   -r requirements.in
     #   geopandas
@@ -216,7 +218,7 @@ openpyxl==3.1.5
     # via -r requirements.in
 overrides==7.7.0
     # via jupyter-server
-packaging==24.2
+packaging==25.0
     # via
     #   geopandas
     #   ipykernel
@@ -237,15 +239,15 @@ parso==0.8.4
     # via jedi
 pexpect==4.9.0
     # via ipython
-platformdirs==4.3.6
+platformdirs==4.3.8
     # via
     #   jupyter-core
     #   virtualenv
-pre-commit==4.1.0
+pre-commit==4.2.0
     # via -r requirements.in
-prometheus-client==0.21.1
+prometheus-client==0.22.0
     # via jupyter-server
-prompt-toolkit==3.0.50
+prompt-toolkit==3.0.51
     # via
     #   ipython
     #   jupyter-console
@@ -265,9 +267,9 @@ pygments==2.19.1
     #   ipython-pygments-lexers
     #   jupyter-console
     #   nbconvert
-pyogrio==0.10.0
+pyogrio==0.11.0
     # via geopandas
-pyparsing==3.2.1
+pyparsing==3.2.3
     # via cloudscraper
 pyproj==3.7.1
     # via
@@ -278,9 +280,9 @@ python-dateutil==2.9.0.post0
     #   arrow
     #   jupyter-client
     #   pandas
-python-json-logger==3.2.1
+python-json-logger==3.3.0
     # via jupyter-events
-pytz==2025.1
+pytz==2025.2
     # via pandas
 pyxlsb==1.0.10
     # via -r requirements.in
@@ -288,7 +290,7 @@ pyyaml==6.0.2
     # via
     #   jupyter-events
     #   pre-commit
-pyzmq==26.2.1
+pyzmq==26.4.0
     # via
     #   ipykernel
     #   jupyter-client
@@ -316,13 +318,13 @@ rfc3986-validator==0.1.1
     # via
     #   jsonschema
     #   jupyter-events
-rpds-py==0.23.1
+rpds-py==0.25.1
     # via
     #   jsonschema
     #   referencing
 send2trash==1.8.3
     # via jupyter-server
-shapely==2.0.7
+shapely==2.1.1
     # via
     #   -r requirements.in
     #   geopandas
@@ -332,7 +334,7 @@ six==1.17.0
     #   rfc3339-validator
 sniffio==1.3.1
     # via anyio
-soupsieve==2.6
+soupsieve==2.7
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
@@ -342,7 +344,7 @@ terminado==0.18.1
     #   jupyter-server-terminals
 tinycss2==1.4.0
     # via bleach
-tornado==6.4.2
+tornado==6.5.1
     # via
     #   ipykernel
     #   jupyter-client
@@ -368,23 +370,23 @@ traitlets==5.14.3
     #   nbclient
     #   nbconvert
     #   nbformat
-types-python-dateutil==2.9.0.20241206
+types-python-dateutil==2.9.0.20250516
     # via arrow
-typing-extensions==4.12.2
+typing-extensions==4.13.2
     # via
     #   anyio
     #   beautifulsoup4
     #   ipython
     #   referencing
-tzdata==2025.1
+tzdata==2025.2
     # via pandas
 uri-template==1.3.0
     # via jsonschema
-urllib3==2.3.0
+urllib3==2.4.0
     # via requests
-utm==0.8.0
+utm==0.8.1
     # via -r requirements.in
-virtualenv==20.29.2
+virtualenv==20.31.2
     # via pre-commit
 wcwidth==0.2.13
     # via prompt-toolkit
@@ -396,7 +398,7 @@ webencodings==0.5.1
     #   tinycss2
 websocket-client==1.8.0
     # via jupyter-server
-widgetsnbextension==4.0.13
+widgetsnbextension==4.0.14
     # via ipywidgets
 wikipedia==1.4.0
     # via -r requirements.in
