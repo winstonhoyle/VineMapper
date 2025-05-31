@@ -1,6 +1,6 @@
 ## Raley's Locations
 A simple map Raley's brand locations
-![Image](https://drive.google.com/uc?export=view&id=1UfeP0Wu8J4I2VFVdTQrmsI-_Qlo_08FC)
+[Image is too large to display on Github](https://drive.google.com/uc?export=view&id=1UfeP0Wu8J4I2VFVdTQrmsI-_Qlo_08FC)
 
 ## Data
 * [Raley's Data](https://www.raleys.com/stores)
