@@ -31,7 +31,6 @@
 * [05/19/2025](../../projects/demography/Fertility_Rates_In_Bulgaria_2024/) Fertility Rate Per Bulgarian Province
 * [05/20/2025](../../projects/agriculture/Cheese_Milk_Cow_Production_Europe_Per_Capita_2022/) Cheese From Whole Cow Milk Production Per 100 People In Europe (2022)
 * [05/21/2025](../../projects/versus/English_Vs_Irish_Per_County/) Does Your County Have More English or Irish Ancestry?
-
 * [05/22/2025](../../projects/economics/Cheapest_State_To_Buy_New_Car/) Cheapest State To Buy A New Car
 * [05/23/2025](../../projects/demography/Population_Decline_Bulgaria_2015-2024/) Population Decline as Percentage in Bulgaria from 2015 to 2024
 * [05/24/2025](../../projects/restaurants/Whataburger_Per_State/) Whataburgers Per State
