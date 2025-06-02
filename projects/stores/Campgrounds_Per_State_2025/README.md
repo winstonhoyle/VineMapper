@@ -1,6 +1,6 @@
 ## Campgrounds Per State
 A simple map number of campgrounds per state
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1nsPg6wGccRon52nerB_lzToxBerpMLKI)
 
 ## Data
 * [Campground Data](https://camping-usa.com/campgrounds/)
