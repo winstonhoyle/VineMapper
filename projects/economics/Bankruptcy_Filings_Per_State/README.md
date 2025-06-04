@@ -4,6 +4,7 @@ A simple map showing bankruptcy filings per state per 100k
 
 ## Data
 * [2024 Bankruptcy Data](https://www.uscourts.gov/data-news/data-tables/2024/12/31/bankruptcy-filings/f-2)
+* [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
