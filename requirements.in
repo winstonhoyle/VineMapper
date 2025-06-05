@@ -16,5 +16,6 @@ pyxlsb
 requests
 shapely
 tqdm
+Unidecode
 utm
 wikipedia
