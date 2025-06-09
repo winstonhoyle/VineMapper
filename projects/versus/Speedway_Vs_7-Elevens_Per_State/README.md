@@ -14,11 +14,11 @@ A Simple Map showing if a State has more Speedway or 7-Eleven
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram](https://www.instagram.com/p/DKptJzpyc0X/)
+- [x] [Instagram](https://www.instagram.com/p/DKptJzpyc0X/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads](https://www.threads.com/@vinemapper/post/DKptKV0yqw5)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DKptKV0yqw5)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lr4m4nvc4k2n)
-- [ ] [X/Twitter](https://x.com/VineMapper/status/1931796416332251148)
-- [ ] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1l6ko5p/7eleven_vs_speedway/)
-- [ ] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1l6ko8j/7eleven_vs_speedway/)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lr4m4nvc4k2n)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1931796416332251148)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1l6ko5p/7eleven_vs_speedway/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1l6ko8j/7eleven_vs_speedway/)
