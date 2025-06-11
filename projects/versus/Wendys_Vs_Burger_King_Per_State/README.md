@@ -13,11 +13,11 @@ A simple map showing if a State has more Wendy's or Burger King
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DKurAaUPNYO/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DKurA1_vS-n)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1932495392442364060)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1l85ahv/burger_king_vs_wendys/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1l85ako/burger_king_vs_wendys/)
