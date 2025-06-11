@@ -1,6 +1,6 @@
 ## Wendy's Vs Burger King Per State
 A simple map showing if a State has more Wendy's or Burger King
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1ZV6F-19w2R0F_CsaAoknx3YXButKWHKT)
 
 ## Data
 * [Wendy's Data, Webscrapping takes ~30m](../../restaurants/Wendys_Per_State/)
