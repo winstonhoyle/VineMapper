@@ -1,6 +1,6 @@
 ## Percent of County Population With A Disability
 A simple map showing percent of each county with a disability
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1XA4gbFtYTPtsa3Y5FYaHdfMpbBYgp8T7)
 
 ## Data
 * [Disability Data](https://data.census.gov/table/ACSST5Y2023.S1810?t=Disability&g=010XX00US$0500000&moe=false)
@@ -16,10 +16,10 @@ A simple map showing percent of each county with a disability
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DK2NXbGR-TI/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DK2NYDAxVAa)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [X/Twitter]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lristtagfc25)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1933556091612447202)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1lajpsm/percent_of_county_population_with_a_disability/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1lajppv/percent_of_county_population_with_a_disability/)
