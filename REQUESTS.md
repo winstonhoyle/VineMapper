@@ -1,6 +1,11 @@
 ## Requests Table
 
-* Dates are in `MM/DD/YYYY`
+Populated from reddit's requests:
+
+* [Requests Before 6/10/2025](https://www.reddit.com/user/VineMapper/comments/1h9p5hj/requests/)
+* [Requests 6/10-12/10](https://www.reddit.com/user/VineMapper/comments/1lat0m9/requests_6101210/)
+
+Dates are in `MM/DD/YYYY`
 
 Request | Description | Date Request | Date Posted | Status
 :-: | :-: | :-: | :-: | :-:
