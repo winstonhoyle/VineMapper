@@ -13,7 +13,7 @@ Within each project, this [Code](#Code) section will give you a [Jupyter Noteboo
 Within each project, is a `README.md` with links to the datasets. I tried to use the datasets raw as they were downloaded but some needed to be altered.
 
 ## Requests
-Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there is a [REQUESTS.md](requests.md) file with updated requests
+Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there is a [REQUESTS.md](REQUESTS.md) file with updated requests
 
 ## Social Links
 * [Reddit](https://www.reddit.com/user/VineMapper/submitted/)
