@@ -12,6 +12,9 @@ Each project has a `requirements.txt` but I have also created a master [requirem
 Within each project, this [Code](#Code) section will give you a [Jupyter Notebook](https://jupyter.org/) to run and create the datasets.
 Within each project, is a `README.md` with links to the datasets. I tried to use the datasets raw as they were downloaded but some needed to be altered.
 
+## Requests
+Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there is a [REQUESTS.md](requests.md) file with updated requests
+
 ## Social Links
 * [Reddit](https://www.reddit.com/user/VineMapper/submitted/)
 * [Instagram](https://www.instagram.com/VineMapper/)

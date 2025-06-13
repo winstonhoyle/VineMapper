@@ -15,6 +15,7 @@ pyproj
 pyxlsb
 requests
 shapely
+tabulate
 tqdm
 Unidecode
 utm
