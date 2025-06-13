@@ -100,4 +100,4 @@ Within each project, is a `README.md` with links to the datasets. I tried to use
 |[8](projects/versus/Speedway_Vs_7-Elevens_Per_State/)|[9](projects/economics/Heliports_Per_State/)|[10](projects/versus/Wendys_Vs_Burger_King_Per_State/)|[11](projects/economics/Registration_Fees_For_Car_Per_State/)|[12](projects/stores/7_11_Per_Capita/)|[13](projects/demography/Disability_Percent_Per_County/)|[14](projects/versus/Italian_Vs_Irish_Per_County/)|
 |[15](projects/economics/Heliports_Per_Capita/)|[16](projects/demography/Population_Change_Slovenia_2015-2025/)|17|[18](projects/demography/Hearing_Disability_Per_State/)|[19](projects/economics/Airports_Per_State/)|[20](projects/demography/Population_Change_Latvia_2015-2025/)|21|
 |22|[23](projects/economics/Airports_Per_Capita/)|[24](projects/restaurants/Burger_Kings_Per_Capita/)|[25](projects/economics/Avg_Monthly_Wage_Slovenia_2024/)|[26](projects/demography/Population_Change_Russians_In_Latvia_2015-2025/)|27|[28](projects/demography/Hearing_Disability_Per_State/)|
-|29|30|-|-|-|-|-|
+|[29](projects/demography/Population_Change_Lithuania_2015-2025/)|30|-|-|-|-|-|
