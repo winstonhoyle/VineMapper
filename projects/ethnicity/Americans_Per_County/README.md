@@ -1,4 +1,4 @@
-## Percent "Americans" Per USA County
+## Percent "Americans" Per US County
 A simple map showing the percent of Americans per US County
 ![Image](https://drive.google.com/uc?export=view&id=)
 

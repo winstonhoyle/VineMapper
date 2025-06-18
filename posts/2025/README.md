@@ -68,8 +68,8 @@ Click the month for post descriptions
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| - | - |1|[2](../../projects/ethnicity/Slavic_Ancestry_Per_County/)|3|[4](../../projects/ethnicity/Americans_Per_County/)|5|
-|6|[7](../../projects/politics/State_Legislators_Per_State/)|8|9|10|11|12|
+| - | - |[1](../../projects/restaurants/Buffalo_Wild_Wings_Per_State/)|[2](../../projects/ethnicity/Slavic_Ancestry_Per_County/)|3|[4](../../projects/ethnicity/Americans_Per_County/)|5|
+|[6](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/)|[7](../../projects/politics/State_Legislators_Per_State/)|8|9|10|11|12|
 |13|14|15|16|17|18|19|
 |20|21|22|23|24|25|26|
 |27|28|29|30|31|-|-|
