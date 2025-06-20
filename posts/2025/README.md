@@ -69,7 +69,7 @@ Click the month for post descriptions
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | - | - |[1](../../projects/restaurants/Buffalo_Wild_Wings_Per_State/)|[2](../../projects/ethnicity/Slavic_Ancestry_Per_County/)|[3](../../projects/agriculture/Corn_Production_Per_State/)|[4](../../projects/ethnicity/Americans_Per_County/)|[5](../../projects/demography/Population_Change_Croatia_2013-2023/)|
-|[6](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/)|[7](../../projects/politics/State_Legislators_Per_State/)|[8](../../projects/demography/Population_Change_Tennessee_2000-2023/)|9|10|11|12|
-|13|14|15|16|17|18|19|
+|[6](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/)|[7](../../projects/politics/State_Legislators_Per_State/)|[8](../../projects/demography/Population_Change_Tennessee_2000-2023/)|9|10|[11](../../projects/demography/Population_Change_Estonia_2015-2025/)|12|
+|13|14|15|16|[17](../../projects/demography/Population_Change_Russians_In_Estonia_2018_2025/)|18|19|
 |20|21|22|23|24|25|26|
 |27|28|29|30|31|-|-|
