@@ -1,9 +1,9 @@
-## Corn Produced Per State
-A simple map showing number of corn produced (bushels) per 100 people
+## Corn Produced Per Arce
+A simple map showing number of corn produced (bushels) per acre
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Corn Data](https://quickstats.nass.usda.gov/)
+* [Corn Data](https://usda.library.cornell.edu/concern/publications/k3569432s)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 
