@@ -5,7 +5,7 @@
 | - | - |[1](../../projects/restaurants/Buffalo_Wild_Wings_Per_State/)|[2](../../projects/ethnicity/Slavic_Ancestry_Per_County/)|[3](../../projects/agriculture/Corn_Production_Per_State/)|[4](../../projects/ethnicity/Americans_Per_County/)|[5](../../projects/demography/Population_Change_Croatia_2013-2023/)|
 |[6](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/)|[7](../../projects/politics/State_Legislators_Per_State/)|[8](../../projects/demography/Population_Change_Tennessee_2000-2023/)|[9](../../projects/agriculture/Corn_Production_Per_Capita/)|[10](../../projects/stores/Kwik_Trip_Per_State/)|[11](../../projects/demography/Population_Change_Estonia_2015-2025/)|12|
 |[13](../../projects/agriculture/Corn_Production_Per_Acre/)|[14](../../projects/ethnicity/French_In_USA/)|[15](../../projects/demography/Speak_Language_Spanish_At_Home_Per_County/)|16|[17](../../projects/demography/Population_Change_Russians_In_Estonia_2018_2025/)|18|[19](../../projects/demography/Speak_Only_English_Per_County/)|
-|20|[21](../../projects/demography/Population_Change_West_Virginia_2000-2023/)|22|23|24|[25](../../projects/demography/Speak_Only_English_Per_State/)|26|
+|20|[21](../../projects/demography/Population_Change_West_Virginia_2000-2023/)|22|23|[24](../../projects/demography/Population_Change_Turkish_In_Bulgaria_2011-2021/)|[25](../../projects/demography/Speak_Only_English_Per_State/)|26|
 |27|28|29|30|31|-|-|
 
 ## Posts
@@ -33,7 +33,7 @@
 * [07/21/2025](../../projects/demography/Population_Change_West_Virginia_2000-2023/) Population Change in Tennessee from 2000 to 2023
 * [07/22/2025]()
 * [07/23/2025]()
-* [07/24/2025]()
+* [07/24/2025](../../projects/demography/Population_Change_Turkish_In_Bulgaria_2011-2021/) Population Decline as Percentage in Bulgaria from 2015 to 2024
 * [07/25/2025](../../projects/demography/Speak_Only_English_Per_State/) Percent of State Population That Only Speaks English
 * [07/26/2025]()
 * [07/27/2025]()
