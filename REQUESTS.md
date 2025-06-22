@@ -59,3 +59,4 @@ Request | Description | Date Request | Date Posted | Status
 | [Comment](https://www.reddit.com/r/MapPorn/comments/1l4xc3c/comment/mwcq6kl/) | Royal Farms Per State  | 06/06/2025 | | [Webscraping](https://royalfarms.com/locations/)  |
 | [Comment](https://www.reddit.com/r/MapPorn/comments/1l9sa9n/comment/mxh4zoh/) | Kwik Trips Per State | 06/12/2025 | | [Webscraping](https://www.kwiktrip.com/locator) |
 | [Comment](https://www.reddit.com/r/MapPorn/comments/1l9sa9n/comment/mxezfyo/) | 7-Elevens Per Japanese Prefecture  | 06/12/2025 | | [Webscraping](https://ml.its-mo.com/p/en/711map/nmap.htm?lat=35.6781444&lon=139.7693167) |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1lhtkv1/comment/mz6s3ku/) | Percent of County That Speaks Spanish At Home | 06/22/2025 | 07/15/2025 | Map Made
