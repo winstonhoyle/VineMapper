@@ -9,7 +9,6 @@ A simple map showing percent of each county population that speaks only English
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
 * [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
-
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)
 
