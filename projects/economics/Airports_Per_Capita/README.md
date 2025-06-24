@@ -1,5 +1,5 @@
-## Airports Per 100k People
-A simple map showing the number of airports with scheduled service per 100k People per State
+## Airports Per 1m People
+A simple map showing the number of airports with scheduled service per 1m People per State
 ![Image](https://drive.google.com/uc?export=view&id=1FRhvHUoy2rH43WKFsJMIAjD9xw4WJV9j)
 
 ## Data
