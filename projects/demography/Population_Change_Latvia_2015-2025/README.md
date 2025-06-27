@@ -21,5 +21,4 @@ A simple map showing the percentage decline of population in Latvian Municipalit
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1lg6mtn/percent_change_in_population_by_latvian/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1lg6mr5/percent_change_in_population_by_latvian/)
 - [x] [Reddit r/Latvia](https://www.reddit.com/r/latvia/comments/1lg6ovi/percent_change_in_population_by_latvian/)
-- [x] [Reddit r/BalticStates](https://www.reddit.com/r/BalticStates/comments/1lg6ymg/percent_change_in_population_by_latvian/
-)
+- [x] [Reddit r/BalticStates](https://www.reddit.com/r/BalticStates/comments/1lg6ymg/percent_change_in_population_by_latvian/)

@@ -1,5 +1,5 @@
 ## Percent Change In Russian Population By Latvian Municipality (2015-2025)
-A simple map showing the percentage decline of the Russian population in Latvian Municipalities
+A simple map showing the percentage change of the Russian population in Latvian Municipalities
 ![Image](https://drive.google.com/uc?export=view&id=11xV3XllNr5oaCf_jPv63KAiXA9vET9_3)
 
 ## Data
