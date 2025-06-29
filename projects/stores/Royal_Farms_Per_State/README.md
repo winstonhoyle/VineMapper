@@ -1,9 +1,9 @@
-## Wawa Per State
-A simple map showing number of Wawas per state
+## Royal Farms Per State
+A simple map showing number of Royal Farms Per State
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Wawa Data](https://www.wawa.com/locations/store-locator)
+* [Royal Farms Data](https://royalfarms.com/locations/)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
