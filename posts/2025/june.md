@@ -37,5 +37,5 @@
 * [06/26/2025](../../projects/demography/Population_Change_Russians_In_Latvia_2015-2025/) Russian Population Change in Latvia from 2015 to 2025
 * [06/27/2025](../../projects/demography/Vision_Disability_Per_State/) Percent of State Population With A Vision Difficulty
 * [06/28/2025](../../projects/ethnicity/Nordic_Ancestry_Per_County/) Most Reported Nordic Ancestry Per County
-* [06/29/2025](../../projects/demography/Population_Change_Lithuania_2015-2025/) Population Change Per Lithuanian Municipalities from 2015 to 2025
+* [06/29/2025](../../projects/demography/Population_Change_Lithuania_2015-2025/) Percent Change In Population By Lithuania Municipality (2015-2025)
 * [06/30/2025](../../projects/politics/People_Per_State_Legislator/) People Per State Legislator
