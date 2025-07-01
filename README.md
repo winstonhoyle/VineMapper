@@ -117,9 +117,9 @@ Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there
 [August](posts/2025/august.md)
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|-|-|-|-|-|[1](projects/demography/Population_Change_Greece_2014-2024/)|2|
-|3|[4](projects/ethnicity/Largest_Asian_Subgroup_Per_County/)|5|6|[7](projects/demography/Population_Change_Italy_2019-2025/)|[8](projects/ethnicity/Hispanic_Ancestry_Per_County/)|9|
-|10|[11](projects/ethnicity/Hispanic_Ancestry_Per_State/)|12|13|14|15|16|
+|-|-|-|-|-|[1](projects/demography/Population_Change_Greece_2014-2024/)|[2](projects/stores/Walmart_Per_Capita/)|
+|3|[4](projects/ethnicity/Largest_Asian_Subgroup_Per_County/)|5|[6](projects/stores/Walmart_Per_State/)|[7](projects/demography/Population_Change_Italy_2019-2025/)|[8](projects/ethnicity/Hispanic_Ancestry_Per_County/)|9|
+|10|[11](projects/ethnicity/Hispanic_Ancestry_Per_State/)|[12](projects/stores/Walmart_Wage_Per_State/)|13|14|15|16|
 |17|18|19|20|21|22|23|
 |24|25|26|27|28|29|30|
 |31|-|-|-|-|-|-|
