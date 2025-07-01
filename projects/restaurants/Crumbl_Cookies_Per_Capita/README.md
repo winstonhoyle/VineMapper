@@ -1,5 +1,5 @@
-## Crumbl Cookies Per State
-A Simple Map showing Crumbl Cookies per state
+## Crumbl Cookies Per 1m People
+A Simple Map showing Crumbl Cookies per 1m people per state
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
