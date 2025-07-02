@@ -2,7 +2,7 @@
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| - | - |[1](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/)|[2](../../projects/ethnicity/Slavic_Ancestry_Per_County/)|[3](../../projects/agriculture/Corn_Production_Per_State/)|[4](../../projects/ethnicity/Americans_Per_County/)|[5](../../projects/demography/Population_Change_Croatia_2013-2023/)|
+| - | - |[1](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/)|[2](../../projects/ethnicity/Slavic_Ancestry_Per_County/)|[3](../../projects/politics/At_Risk_Hospitals_Per_State/)|[4](../../projects/ethnicity/Americans_Per_County/)|[5](../../projects/demography/Population_Change_Croatia_2013-2023/)|
 |[6](../../projects/restaurants/Buffalo_Wild_Wings_Per_State/)|[7](../../projects/politics/State_Legislators_Per_State/)|[8](../../projects/demography/Population_Change_Tennessee_2000-2023/)|[9](../../projects/agriculture/Corn_Production_Per_Capita/)|[10](../../projects/stores/Kwik_Trip_Per_State/)|[11](../../projects/demography/Population_Change_Estonia_2015-2025/)|[12](../../projects/restaurants/Chick-fil-a_Per_Capita/)|
 |[13](../../projects/agriculture/Corn_Production_Per_Acre/)|[14](../../projects/ethnicity/French_In_USA/)|[15](../../projects/demography/Speak_Language_Spanish_At_Home_Per_County/)|[16](../../projects/versus/Chick-Fil-A_Vs_KFC_Vs_Popeyes/)|[17](../../projects/demography/Population_Change_Russians_In_Estonia_2018_2025/)|[18](../../projects/economics/Change_In_Rent_2010-2023_Per_State/)|[19](../../projects/demography/Speak_Only_English_Per_County/)|
 |[20](../../projects/restaurants/Chick-fil-a_Per_State/)|[21](../../projects/demography/Population_Change_West_Virginia_2000-2023/)|[22](../../projects/economics/Total_Change_In_Rent_2010-2023_Per_State/)|[23](../../projects/ethnicity/Arab_Ancestry_Nationalities_Per_County/)|[24](../../projects/demography/Population_Change_Turkish_In_Bulgaria_2011-2021/)|[25](../../projects/demography/Speak_Only_English_Per_State/)|[26](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_County/)|
@@ -12,7 +12,7 @@
 
 * [07/01/2025](../../projects/restaurants/Buffalo_Wild_Wings_Per_Capita/) Buffalo Wild Wings Per 1m People
 * [07/02/2025](../../projects/ethnicity/Slavic_Ancestry_Per_County/) Most Reported Slavic Ancestry Per County
-* [07/03/2025](../../projects/agriculture/Corn_Production_Per_State/) Bushels of Corn Produced Per 100 People
+* [07/03/2025](../../projects/politics/At_Risk_Hospitals_Per_State/) At-Risk Rural Hospitals by State – One Big Beautiful Bill Act
 * [07/04/2025](../../projects/ethnicity/Americans_Per_County/) Percent "Americans" Per US County
 * [07/05/2025](../../projects/demography/Population_Change_Croatia_2013-2023/) Percent Population Change in Croatia from 2013 to 2023
 * [07/06/2025](../../projects/restaurants/Buffalo_Wild_Wings_Per_State/) Buffalo Wild Wings Per State
