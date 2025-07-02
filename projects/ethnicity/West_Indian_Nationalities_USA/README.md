@@ -1,5 +1,5 @@
 ## Most Reported West Indian Ancestry Per State
-A simple map showing the most reported Arab ancestry per State
+A simple map showing the most reported West Indian per State
 ![Image](https://drive.google.com/uc?export=view&id=18HmUUbc7mOuofVDe2ULPrNpAvr263HYb)
 
 ## Data
