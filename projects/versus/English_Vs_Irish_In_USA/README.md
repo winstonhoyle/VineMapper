@@ -20,3 +20,6 @@ A simple map showing the if a state's ancestry is more English or Irish
 - [x] [X/Twitter](https://x.com/VineMapper/status/1908940838195155081)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1jt00eu/does_your_state_have_more_english_or_irish/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1jt00dk/does_your_state_have_more_english_or_irish/)
+
+## Stolen Posts
+- [x] [Instagram](https://www.instagram.com/p/DLe7reno8K6/)
