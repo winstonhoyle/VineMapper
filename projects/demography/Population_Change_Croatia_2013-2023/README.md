@@ -1,6 +1,6 @@
 ## Population Change in Croatia from 2013 to 2023
 A simple map showing the percentage decline of population in Croatian Counties
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1K89-CIPMlB-TQ2oL2kjHlNjUFEXv6amn)
 
 ## Data
 * [Population Data](https://web.dzs.hr/PxWeb/pxweb/en/Stanovni%C5%A1tvo/)
@@ -12,12 +12,12 @@ A simple map showing the percentage decline of population in Croatian Counties
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DLuvPcMs6y3/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DLuvPwRMhEA)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lt7zfjjm5c2u)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1941511909402083501)
 - [ ] [Reddit r/Maps]()
 - [ ] [Reddit r/MapPorn]()
-- [ ] [Reddit r/Latvia]()
+- [ ] [Reddit r/Croatia]()
