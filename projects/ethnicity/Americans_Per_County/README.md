@@ -18,5 +18,5 @@ A simple map showing the percent of Americans per US County
 - [ ] [Youtube Shorts]()
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lt5ieeza722y)
 - [x] [Twitter/X](https://x.com/VineMapper/status/1941147090597663045)
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ltwbsj/americans_per_county/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ltwbgi/americans_per_county/)
