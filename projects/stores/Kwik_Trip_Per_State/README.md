@@ -20,3 +20,4 @@ A simple map showing Kwik Trip locations and per 100k information
 - [x] [Twitter/X](https://x.com/VineMapper/status/1943339680038109595)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1lwgfmf/kwik_trips_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1lwgfhv/kwik_trips_per_state/)
+- [x] [Reddit r/KwikTrip](https://www.reddit.com/r/KwikTrip/comments/1lwgj50/kwik_trips_per_state/)
