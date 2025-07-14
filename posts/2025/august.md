@@ -23,7 +23,7 @@
 * [08/10/2025](../../projects/restaurants/Crumbl_Cookies_Per_State/) Crumbl Cookies Per State
 * [08/11/2025](../../projects/ethnicity/Hispanic_Ancestry_Per_State/) Hispanic Ancestry Per State
 * [08/12/2025](../../projects/stores/Walmart_Wage_Per_State/) Walmart's Hourly Wage Per State
-* [08/13/2025](../../projects/agriculture/Corn_Production_Per_State/) Bushels of Corn Produced Per 100 People
+* [08/13/2025](../../projects/agriculture/Corn_Production_Per_State/) Total Bushels of Corn Produced
 * [08/14/2025](../../projects/ethnicity/West_Indian_Per_County/) Most Reported West Indian Ancestry Per County
 * [08/15/2025]()
 * [08/16/2025]()
