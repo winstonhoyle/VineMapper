@@ -1,6 +1,6 @@
 ## Chick-Fil-A Vs KFC Vs Popeyes Per State
 A simple map showing if a state has more Chick-Fil-A, KFC, or Popeyes
-![Image](https://drive.google.com/uc?export=view&id=1nga6GXJOMcHHEA4m4dTgeI0K0LnQCvKh)
+![Image](https://drive.google.com/uc?export=view&id=1GpVd4BodCidwSsG73VB6CxKctWcRmba7)
 
 ## Data
 * [Popeyes Data, Webscrapping takes ~1h](../../restaurants/Popeyes_Per_State/)
@@ -15,11 +15,11 @@ A simple map showing if a state has more Chick-Fil-A, KFC, or Popeyes
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DMLTzNlx0eH/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DMLTznzxNNE)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lu3wakqdps2r)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1945532935257444617)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1m1ihwm/chickfila_vs_popeyes_vs_kfc/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1m1ii0y/chickfila_vs_popeyes_vs_kfc/)
