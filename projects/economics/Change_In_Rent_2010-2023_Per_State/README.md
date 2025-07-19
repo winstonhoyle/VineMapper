@@ -14,10 +14,10 @@ A simple map showing the what percent rent increase from 2010 to 2023
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram](https://www.instagram.com/p/DMQvXY0SXB7/)
-- [ ] [Threads](https://www.threads.com/@vinemapper/post/DMQvX4lyScW)
+- [x] [Instagram](https://www.instagram.com/p/DMQvXY0SXB7/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DMQvX4lyScW)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter](https://x.com/VineMapper/status/1946297228194369841)
-- [ ] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lub7xc3m2s2g)
-- [ ] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1m3c6su/percent_increase_of_median_rent_from_2010_to_2023/)
-- [ ] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1m3c6rl/percent_increase_of_median_rent_from_2010_to_2023/)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1946297228194369841)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lub7xc3m2s2g)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1m3c6su/percent_increase_of_median_rent_from_2010_to_2023/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1m3c6rl/percent_increase_of_median_rent_from_2010_to_2023/)
