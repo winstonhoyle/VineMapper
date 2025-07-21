@@ -1,6 +1,6 @@
 ## Population Change in West Virginia from 2000 to 2023
 A simple map showing the change in percentage of population in West Virginia
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1i1SjCN3g9cet0O_N3OrE6VOAv0vxn8ly)
 
 ## Data
 * [West Virginia Data (2023)](https://data.census.gov/table/ACSDP5Y2023.DP05?g=010XX00US$0500000_040XX00US47$0500000&moe=false)
@@ -13,10 +13,11 @@ A simple map showing the change in percentage of population in West Virginia
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DMYHMIvxbBR/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DMYHMqVRjyd)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [X/Twitter]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3luigdceems27)
+- [x] [X/Twitter](https://x.com/VineMapper/status/1947334777100767619)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1m5nqsy/percent_population_change_per_west_virginian/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1m5nqq1/percent_population_change_per_west_virginian/)
+- [x] [Reddit r/WestVirginia](https://www.reddit.com/r/WestVirginia/comments/1m5ns1j/percent_population_change_per_west_virginian/)
