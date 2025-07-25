@@ -34,7 +34,7 @@
 * [07/22/2025](../../projects/economics/Total_Change_In_Rent_2010-2023_Per_State/) Increase of Median Rent from 2010 to 2023
 * [07/23/2025](../../projects/ethnicity/Arab_Ancestry_Nationalities_Per_County/) Most Reported Arab Ancestry Per County
 * [07/24/2025](../../projects/demography/Population_Change_Turkish_In_Bulgaria_2011-2021/) Population Decline as Percentage in Bulgaria from 2015 to 2024
-* [07/25/2025](../../projects/demography/Speak_Only_English_Per_State/) Percent of State Population That Only Speaks English
+* [07/25/2025](../../projects/demography/Speak_Only_English_Per_State/) Percent of State Population That Only Speaks English At Home
 * [07/26/2025](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_County/) Denny's Vs IHOP Vs Waffle House Vs Perkins Per County
 * [07/27/2025](../../projects/demography/Population_Change_Slovakia_2014-2024/) Percent Population Change in Slovakia from 2014 to 2024
 * [07/28/2025](../../projects/ethnicity/African_Ancestry_Nationalities_Per_County/) Most Reported African Ancestry Per County
