@@ -1,6 +1,6 @@
 ## Denny's Vs IHOP Vs Waffle House Vs Perkins Per County
 A simple map showing if a county has more Denny's or IHOP or Waffle House or Perkins
-![Image](https://drive.google.com/uc?export=view&id=1UY2UtJ4cD7HziMa5VbRKT3w4qkPzb5NN)
+![Image](https://drive.google.com/uc?export=view&id=1Nka-ACR3vnGmnxddIIhTzoV6gMb24AIg)
 
 ## Data
 * [Denny's Data, Webscrapping takes ~10m](../../restaurants/Dennys_Per_State/)
@@ -17,11 +17,11 @@ A simple map showing if a county has more Denny's or IHOP or Waffle House or Per
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DMlHS-svxcM/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DMlHTiAPlAm)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3luv4n66lj22o)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1949164613070901535)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1m9zj5x/ihop_vs_dennys_vs_waffle_house_vs_perkins_per/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/ihop_vs_dennys_vs_waffle_house_vs_perkins_per/)

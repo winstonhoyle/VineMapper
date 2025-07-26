@@ -1,6 +1,6 @@
 ## Percent of State Population That Only Speaks English At Home
 A simple map showing percent of each State population that speaks only English
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=17gKWYsIifB3mqKdPNnGI5A_4MjCvvJgv)
 
 ## Data
 * [Langauge Data](https://data.census.gov/table/ACSST1Y2023.S1601)
