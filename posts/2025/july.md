@@ -37,7 +37,7 @@
 * [07/25/2025](../../projects/demography/Speak_Only_English_Per_State/) Percent of State Population That Only Speaks English At Home
 * [07/26/2025](../../projects/versus/Dennys_Vs_IHOP_Waffle_House_Perkins_Per_County/) Denny's Vs IHOP Vs Waffle House Vs Perkins Per County
 * [07/27/2025](../../projects/demography/Population_Change_Slovakia_2014-2024/) Percent Population Change in Slovakia from 2014 to 2024
-* [07/28/2025](../../projects/ethnicity/African_Ancestry_Nationalities_Per_County/) Most Reported African Ancestry Per County
+* [07/28/2025](../../projects/ethnicity/African_Ancestry_Nationalities_Per_County/) Most Self-Reported African Ancestry Per County
 * [07/29/2025](../../projects/stores/Royal_Farms_Per_State/) Royal Farms Per State
 * [07/30/2025](../../projects/politics/Federal_Taxes_Paid_Per_Dollar_Support_Per_State/) Federal Tax Dollars Paid Per Dollar of Support Received (2023)
 * [07/31/2025](../../projects/ethnicity/Largest_Asian_Subgroup_Per_State/) Largest Asian Racial Subgroup by State
