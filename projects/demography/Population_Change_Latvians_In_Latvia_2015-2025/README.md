@@ -1,5 +1,3 @@
-**NOT POSTING**
-
 ## Percent Change In Latvian Population By Latvian Municipality (2015-2025)
 A simple map showing the percentage change of the Latvian population in Latvian Municipalities
 ![Image](https://drive.google.com/uc?export=view&id=1CZZ1AIyRcCF1DE6m5EgeIGOxvHZhU6zg)
