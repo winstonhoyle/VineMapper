@@ -1,6 +1,6 @@
 ## Largest Asian Racial Subgroup by County
 A simple map showing which Asian Racial Subgroup is the most populous per county
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1nxz0Xba16xPK8ksUE01Ni-lbC6ak9lkI)
 
 ## Data
 * [Racial Data Data](https://data.census.gov/table/ACSDT5Y2023.B02015)
@@ -12,10 +12,10 @@ A simple map showing which Asian Racial Subgroup is the most populous per county
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DNJ1gBiT8az/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DNJ1goiTR5D)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1954332826289222039)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lvyy7tepsc2l)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1mm456f/largest_asian_racial_subgroup_by_county/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1mm44wq/largest_asian_racial_subgroup_by_county/)
