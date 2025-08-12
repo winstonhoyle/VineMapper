@@ -3,7 +3,7 @@ A simple map showing people who reported Japanese Ancestry Alone or Combined per
 ![Image](https://drive.google.com/uc?export=view&id=1ZpjmdHMJuiT1tou3r3LLp2r7YtwBE4ta)
 
 ## Data
-* [Racial Data Data](https://data.census.gov/table/ACSDT5Y2023.B02018)
+* [Racial Data](https://data.census.gov/table/ACSDT5Y2023.B02018)
 * [Total Population Data](https://data.census.gov/table/ACSST5Y2023.S0101)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
