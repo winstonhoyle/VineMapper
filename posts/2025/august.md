@@ -28,7 +28,7 @@
 * [08/15/2025](../../projects/demography/Household_Size_Per_State/) Average Household Size Per State
 * [08/16/2025](../../projects/ethnicity/Largest_Pacific_Islander_Subgroup_Per_State/) Largest Pacific Islander Group Per State
 * [08/17/2025](../../projects/ethnicity/Central_American_Ancestry_Per_State/) Most Common Central American Hispanic Origin Per State
-* [08/18/2025]()
+* [08/18/2025](../../projects/agriculture/Rice_Production_Per_State/) Total Bushels of Rice Produced
 * [08/19/2025](../../projects/stores/Walmart_Per_State/) Walmarts Per State
 * [08/20/2025]()
 * [08/21/2025]()
