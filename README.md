@@ -120,6 +120,6 @@ Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there
 |-|-|-|-|-|[1](projects/stores/Walmart_Per_Capita/)|[2](projects/economics/Largest_Occupation_Sector_Per_County_Male/)|
 |[3](projects/economics/Largest_Occupation_Sector_Per_County_Female/)|[4](projects/demography/Population_Change_Greece_2014-2024/)|[5](projects/restaurants/Crumbl_Cookies_Per_Capita/)|[6](projects/demography/Population_Change_Italy_2019-2025/)|[7](projects/stores/Walmart_Wage_Per_State/)|[8](projects/demography/Population_Change_Latvians_In_Latvia_2015-2025/)|[9](projects/ethnicity/Largest_Asian_Subgroup_Per_County/)|
 |[10](projects/restaurants/Crumbl_Cookies_Per_State/)|[11](projects/ethnicity/Japanese_Per_State)|[12](projects/ethnicity/Hispanic_Ancestry_Per_State/)|[13](projects/agriculture/Corn_Production_Per_State/)|[14](projects/ethnicity/West_Indian_Per_County/)|[15](projects/demography/Household_Size_Per_State/)|[16](projects/ethnicity/Largest_Pacific_Islander_Subgroup_Per_State/)|
-|[17](projects/ethnicity/Central_American_Ancestry_Per_State/)|[18](projects/ethnicity/Hispanic_Ancestry_Per_State/)|[19](projects/stores/Walmart_Per_State/)|20|21|22|23|
-|24|25|26|27|28|29|30|
+|[17](projects/ethnicity/Central_American_Ancestry_Per_State/)|[18](projects/ethnicity/Hispanic_Ancestry_Per_State/)|[19](projects/stores/Walmart_Per_State/)|[20](projects/economics/Labor_Participation_Rate_Per_County/)|[21](projects/versus/Unemployment_Rate_Female_Vs_Male/)|22|[23](projects/economics/Labor_Participation_Rate_Per_State/)|
+|24|25|[26](projects/economics/Labor_Participation_Rate_Per_State_Female/)|27|28|[29](projects/economics/Labor_Participation_Rate_Per_State_Male/)|30|
 |31|-|-|-|-|-|-|
