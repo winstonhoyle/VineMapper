@@ -1,9 +1,9 @@
 ## Largest Pacific Island Subgroup by State
-A simple map showing which Asian Racial Subgroup is the most populous per state
+A simple map showing which Pacific Island Subgroup is the most populous per state
 ![Image](https://drive.google.com/uc?export=view&id=1EwgpuPqBHXKLl4FN4_jn6Irq-Oq-QALV)
 
 ## Data
-* [Ancestry Data](https://data.census.gov/table/ACSDT5Y2023.B02019)
+* [Pacific Islander Data](https://data.census.gov/table/ACSDT5Y2023.B02019)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
 ## Code

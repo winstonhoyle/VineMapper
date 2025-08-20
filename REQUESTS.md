@@ -61,3 +61,15 @@ Request | Description | Date Request | Date Posted | Status
 | [Comment](https://www.reddit.com/r/MapPorn/comments/1l9sa9n/comment/mxezfyo/) | 7-Elevens Per Japanese Prefecture  | 06/12/2025 | | [Webscraping](https://ml.its-mo.com/p/en/711map/nmap.htm?lat=35.6781444&lon=139.7693167) |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1lhtkv1/comment/mz6s3ku/) | Percent of County That Speaks Spanish At Home | 06/22/2025 | 07/15/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1m0kbbg/percent_of_county_population_that_speaks_spanish/)
 [Comment](https://www.reddit.com/r/MapPorn/comments/1lhtkv1/comment/mz6w7we/) | Percent of County That Speaks One Language | 06/22/2025 | 07/19/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1m43608/percent_of_county_population_that_only_speaks/)
+[Comment](https://www.reddit.com/r/MapPorn/comments/1lwgfhv/comment/n2ejlxr/) | Casey's Per State | 07/10/2025 | | [Webscraping](https://www.caseys.com/store-finder/locations)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1lwgfhv/comment/n2ejlxr/) | Casey's Vs Kwik Trips | 07/10/2025 | | [Webscraping](https://www.caseys.com/store-finder/locations)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1m29dyx/comment/n3n6dsk/) | Change In Ukrainian Population Per Estonian County (2018-2025)| 07/17/2025 |  | Making Map|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1m3c6rl/comment/n3vk3cr/) | Median Income Change from 2010 to 2023 Per State | 07/18/2025 |  | Making Map|
+[Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Zaxby's Per State| 07/20/2025 | | [Webscraping](https://www.zaxbys.com/locations)|
+[Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Raising Canes Per State | 07/20/2025 | | [Webscraping](https://locations.raisingcanes.com/search)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5br4ri/) | Bob Evans Per State | 07/26/2025 |  | [Webscraping](https://www.bobevans.com/locations)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5c0n6q/) | Wafflehouse Vs Huddlehouse | 07/26/2025 | | Making Map|
+[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | | Making Map|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6ds5lf/) | Walmarts Per 100k (Canada) | 08/01/2025 | | [Webscraping](https://www.walmart.ca/en)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6cy9rc/) | Meijers Per State | 08/01/2025 | | [Webscraping](https://www.meijer.com/shopping/store-finder.html)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1mpn3lp/comment/n8kuqs5/) | Soy Bean Production Per State | 08/13/2025 |  | Making Map|
