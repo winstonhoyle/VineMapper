@@ -1,5 +1,5 @@
 ## Largest Pacific Island Subgroup by County
-A simple map showing which Pacific Island Subgroup is the most populous per state
+A simple map showing which Pacific Island Subgroup is the most populous per county
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
@@ -12,9 +12,9 @@ A simple map showing which Pacific Island Subgroup is the most populous per stat
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
-- [ ] [Threads](https://www.threads.com/@vinemapper/post/DNb6L2sTJWM)
+- [ ] [Threads]()
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter](https://x.com/VineMapper/status/1956876363899584853)
-- [ ] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lwkmysqis22h)
-- [ ] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1mscqkd/largest_pacific_islander_group_per_state/)
-- [ ] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1mscqaw/largest_pacific_islander_group_per_state/)
+- [ ] [X/Twitter]()
+- [ ] [BlueSky]()
+- [ ] [Reddit r/Maps]()
+- [ ] [Reddit r/MapPorn]()
