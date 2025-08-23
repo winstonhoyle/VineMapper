@@ -6,7 +6,7 @@
 |[3](../../projects/economics/Largest_Occupation_Sector_Per_County_Female/)|[4](../../projects/demography/Population_Change_Greece_2014-2024/)|[5](../../projects/restaurants/Crumbl_Cookies_Per_Capita/)|[6](../../projects/demography/Population_Change_Italy_2019-2025/)|[7](../../projects/stores/Walmart_Wage_Per_State/)|[8](../../projects/demography/Population_Change_Latvians_In_Latvia_2015-2025/)|[9](../../projects/ethnicity/Largest_Asian_Subgroup_Per_County/)|
 |[10](../../projects/restaurants/Crumbl_Cookies_Per_State/)|[11](../../projects/ethnicity/Japanese_Per_State)|[12](../../projects/ethnicity/Hispanic_Ancestry_Per_State/)|[13](../../projects/agriculture/Corn_Production_Per_State/)|[14](../../projects/ethnicity/West_Indian_Per_County/)|[15](../../projects/demography/Household_Size_Per_State/)|[16](../../projects/ethnicity/Largest_Pacific_Islander_Subgroup_Per_State/)|
 |[17](../../projects/ethnicity/Central_American_Ancestry_Per_State/)|[18](../../projects/ethnicity/Hispanic_Ancestry_Per_State/)|[19](../../projects/stores/Walmart_Per_State/)|[20](../../projects/economics/Labor_Participation_Rate_Per_County/)|[21](../../projects/versus/Unemployment_Rate_Female_Vs_Male/)|[22](../../projects/ethnicity/Largest_Pacific_Islander_Subgroup_Per_County/)|[23](../../projects/economics/Labor_Participation_Rate_Per_State/)|
-|24|[25](../../projects/ethnicity/Central_American_Origin_Per_County/)|[26](../../projects/economics/Labor_Participation_Rate_Per_State_Female/)|27|28|[29](../../projects/economics/Labor_Participation_Rate_Per_State_Male/)|30|
+|24|[25](../../projects/ethnicity/Central_American_Origin_Per_County/)|[26](../../projects/economics/Labor_Participation_Rate_Per_State_Female/)|27|[28](../../projects/ethnicity/South_American_Origin_Per_County/)|[29](../../projects/economics/Labor_Participation_Rate_Per_State_Male/)|30|
 |31|-|-|-|-|-|-|
 
 ## Posts
@@ -38,7 +38,7 @@
 * [08/25/2025](../../projects/ethnicity/Central_American_Origin_Per_County/) Most Common Central American Origin Per County
 * [08/26/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Female/) Labor Force Participation Rate Per State, Female
 * [08/27/2025]()
-* [08/28/2025]()
+* [08/28/2025](../../projects/ethnicity/South_American_Origin_Per_County/) Most Common South American Origin Per County
 * [08/29/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Male/) Labor Force Participation Rate Per State, Female
 * [08/30/2025]()
 * [08/31/2025]()
