@@ -71,5 +71,5 @@ Request | Description | Date Request | Date Posted | Status
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5c0n6q/) | Wafflehouse Vs Huddlehouse | 07/26/2025 | | Making Map|
 [Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | | Making Map|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6ds5lf/) | Walmarts Per 100k (Canada) | 08/01/2025 | | [Webscraping](https://www.walmart.ca/en)|
-[Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6cy9rc/) | Meijers Per State | 08/01/2025 | | [Webscraping](https://www.meijer.com/shopping/store-finder.html)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6cy9rc/) | Meijers Per State | 08/01/2025 | 08/24/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1mz55gb/meijers_per_state/)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mpn3lp/comment/n8kuqs5/) | Soy Bean Production Per State | 08/13/2025 |  | Making Map|

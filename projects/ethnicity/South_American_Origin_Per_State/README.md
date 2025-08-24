@@ -1,5 +1,5 @@
-## Most Common South American Hispanic Origin Per County
-A simple map showing which South American nationality is the Most Common Per County
+## Most Common South American Hispanic Origin Per State
+A simple map showing which South American nationality is the Most Common Per State
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
