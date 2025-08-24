@@ -20,3 +20,4 @@ A simple map showing number of Meijers Per State
 - [x] [Twitter/X](https://x.com/VineMapper/status/1959701367490322867)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1mz55jr/meijers_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1mz55gb/meijers_per_state/)
+- [x] [Reddit r/Meijer](https://www.reddit.com/r/meijer/comments/1mz5cts/meijers_per_state/)
