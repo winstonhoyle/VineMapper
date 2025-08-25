@@ -35,7 +35,7 @@
 * [08/22/2025](../../projects/ethnicity/Largest_Pacific_Islander_Subgroup_Per_County/) Largest Pacific Island Subgroup by County
 * [08/23/2025](../../projects/economics/Labor_Participation_Rate_Per_State/) Labor Force Participation Rate Per State
 * [08/24/2025](../../projects/stores/Meijers_Per_State/) Meijers Per State
-* [08/25/2025](../../projects/ethnicity/Central_American_Origin_Per_County/) Most Common Central American Origin Per County
+* [08/25/2025](../../projects/ethnicity/Central_American_Origin_Per_County/) Most Common Central American (Hispanic) Origin by County
 * [08/26/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Female/) Labor Force Participation Rate Per State, Female
 * [08/27/2025]()
 * [08/28/2025](../../projects/ethnicity/South_American_Origin_Per_County/) Most Common South American Hispanic Origin Per County
