@@ -1,6 +1,6 @@
 ## Labor Force Participation Rate Per State, Female
 A simple map showing labor participation rate per county, females 20-64
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1OG1TAhrhFcFgihHpQdL5IbGHm7d40bzY)
 
 ## Data
 * [Labor Data](https://data.census.gov/table/ACSST5Y2023.S2301)
@@ -11,10 +11,10 @@ A simple map showing labor participation rate per county, females 20-64
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DN1Jb_PZJ7S/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DN1JcfC5Js9)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1960428383768301758)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lwuborla4k2j)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1n0vrjp/labor_force_participation_rate_per_state_female/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1n0vrmx/labor_force_participation_rate_per_state_female/)
