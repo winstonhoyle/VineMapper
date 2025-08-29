@@ -36,9 +36,9 @@
 * [08/23/2025](../../projects/economics/Labor_Participation_Rate_Per_State/) Labor Force Participation Rate Per State
 * [08/24/2025](../../projects/stores/Meijers_Per_State/) Meijers Per State
 * [08/25/2025](../../projects/ethnicity/Central_American_Origin_Per_County/) Most Common Central American (Hispanic) Origin by County
-* [08/26/2025](../../projects/economics/Labor_Participation_Rate_Per_County_Female/) Labor Force Participation Rate Per State, Female
+* [08/26/2025](../../projects/economics/Labor_Participation_Rate_Per_County_Female/) Labor Force Participation Rate Per County, Female
 * [08/27/2025](../../projects/demography/Language_Spoken_At_Home_Not_English_Spanish/) Most Common Language Spoken At Home, Not English or Spanish
 * [08/28/2025](../../projects/ethnicity/South_American_Origin_Per_County/) Most Common South American Hispanic Origin Per County
-* [08/29/2025](../../projects/economics/Labor_Participation_Rate_Per_County_Male/) Labor Force Participation Rate Per State, Male
+* [08/29/2025](../../projects/economics/Labor_Participation_Rate_Per_County_Male/) Labor Force Participation Rate Per County, Male
 * [08/30/2025](../../projects/stores/Food_Lions_Per_State) Food Lions Per State
 * [08/31/2025](../../projects/ethnicity/South_American_Origin_Per_State/) Most Common South American Hispanic Origin Per State
