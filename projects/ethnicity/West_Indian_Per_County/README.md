@@ -4,6 +4,7 @@ A simple map showing the most reported West Indian per county
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2023.B04006?q=People+Reporting+Ancestry&g=010XX00US$0400000&moe=false)
+* [County Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
 ## Code

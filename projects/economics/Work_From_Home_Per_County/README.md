@@ -3,7 +3,8 @@ A simple map showing the percent of the county that works from home
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Langauge Data](https://data.census.gov/table/ACSDT5Y2023.C16001)
+* [Labor Data](https://data.census.gov/table/ACSST5Y2023.S0802)
+* [County Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
 ## Code

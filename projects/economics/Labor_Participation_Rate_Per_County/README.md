@@ -4,6 +4,7 @@ A simple map showing labor participation rate per county
 
 ## Data
 * [Labor Data](https://data.census.gov/table/ACSST5Y2023.S2301)
+* [County Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
 ## Code
