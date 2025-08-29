@@ -1,5 +1,5 @@
-## Average Commute Time (Minutes) Per State
-A simple map showing the average travel time to work
+## Percent of Workers Per State that Work Out of State
+A simple map showing the percent of workers who work outside the state
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
