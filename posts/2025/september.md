@@ -18,7 +18,7 @@
 * [09/06/2025](../../projects/politics/Pro_Israel_Senate_Contributions_Per_State/) Pro-Israel Senate Contributions Per State
 * [09/07/2025](../../projects/stores/Harris_Teeters_Per_State/) Harris Teeter Locations Per State
 * [09/08/2025](../../projects/economics/Average_Travel_Time_To_Work_Per_State/) Average Commute Time (Minutes) Per State
-* [09/09/2025](../../projects/agriculture/Soy_Bean_Production_Per_State) Total Bushels of Corn Produced
+* [09/09/2025](../../projects/agriculture/Soy_Bean_Production_Per_State) Total Bushels of Soybeans Produced
 * [09/10/2025](../../projects/politics/Pro_Israel_House_Contributions_Per_State/) Pro-Israel House Contributions Per State
 * [09/11/2025]()
 * [09/12/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Female/) Labor Force Participation Rate Per State, Female
