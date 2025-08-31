@@ -1,9 +1,9 @@
-## Kroger Locations Per State
-A simple map showing number of Kroger Locations
+## Ruler Foods Locations Per State
+A simple map showing number of Ruler Foods Locations
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Kroger Data](https://developer.kroger.com/api-products/api/location-api-partner)
+* [Ruler Foods Data](https://developer.kroger.com/api-products/api/location-api-partner)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
