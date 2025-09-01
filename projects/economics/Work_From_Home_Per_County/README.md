@@ -1,6 +1,6 @@
 ## Percent of Workers that Work From Home Per County
 A simple map showing the percent of the county that works from home
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1eVTZWeDwBK-fQppS-4gtq4YrFpMXkhno)
 
 ## Data
 * [Labor Data](https://data.census.gov/table/ACSST5Y2023.S0802)
@@ -12,10 +12,10 @@ A simple map showing the percent of the county that works from home
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DOETT6rCa5F/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DOETUS9iTYp)
 - [ ] [Youtube Shorts]()
-- [ ] [X/Twitter]()
-- [ ] [BlueSky]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [X/Twitter](https://x.com/VineMapper/status/1962561109518623042)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lxs3alqx522t)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1n5u6hx/percent_of_workers_that_work_from_home_per_county/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1n5u6f3/percent_of_workers_that_work_from_home_per_county/)
