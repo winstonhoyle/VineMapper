@@ -4,8 +4,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|[1](../../projects/economics/Work_From_Home_Per_County/)|[2](../../projects/demography/Language_Spoken_At_Home_Per_County_Not_English_Spanish)|[3](../../projects/stores/Krogers_Per_State)|[4](../../projects/demography/Population_Change_Ukrainians_In_Estonia_2018_2025)|[5](../../projects/economics/Work_From_Home_Per_State)|[6](../../projects/politics/Pro_Israel_Contributions_Per_State/)|
 |[7](../../projects/stores/Harris_Teeters_Per_State/)|[8](../../projects/economics/Average_Travel_Time_To_Work_Per_State/)|[9](../../projects/agriculture/Soy_Bean_Production_Per_State)|[10](../../projects/politics/Pro_Israel_House_Contributions_Per_State/)|[11](../../projects/stores/Ruler_Foods_Per_State/)|[12](../../projects/economics/Labor_Participation_Rate_Per_State_Female/)|13|
-|14|[15](../../projects/economics/Work_Out_Of_State_Per_State/)|[16](../../projects/Smiths_Grocery_Per_State)|17|[18](../../projects/economics/Median_Income_Different_Male_Female_Per_County/) |19|20|
-|21|[22](../../projects/economics/Median_Income_Different_Male_Female_Per_State/)|23|24|[25](../../projects/economics/Labor_Participation_Rate_Per_State_Male/)|26|27|
+|14|[15](../../projects/economics/Work_Out_Of_State_Per_State/)|[16](../../projects/Smiths_Grocery_Per_State)|17|[18](../../projects/economics/Median_Income_Different_Male_Female_Per_County/) |[19](../../projects/stores/Spirit_Halloween_Locations_Per_Capita/)|20|
+|21|[22](../../projects/economics/Median_Income_Different_Male_Female_Per_State/)|[23](../../projects/stores/Spirit_Halloween_Locations_Per_State/)|24|[25](../../projects/economics/Labor_Participation_Rate_Per_State_Male/)|26|[27](../../projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province)|
 |28|29|30|-|-|-|-|
 
 ## Posts
@@ -25,18 +25,18 @@
 * [09/13/2025]()
 * [09/14/2025]()
 * [09/15/2025](../../projects/economics/Work_Out_Of_State_Per_State/) Percent of Workers Who Work Out of State
-* [09/16/2025](../../projects/Smiths_Grocery_Per_State) Smith's Food And Drug Locations Per State
+* [09/16/2025](../../projects/stores/Smiths_Grocery_Per_State) Smith's Food And Drug Locations Per State
 * [09/17/2025]()
 * [09/18/2025](../../projects/economics/Median_Income_Different_Male_Female_Per_County/) Male Median Wage Vs Female Median Wage Per County
-* [09/19/2025]()
+* [09/19/2025](../../projects/stores/Spirit_Halloween_Locations_Per_Capita/) Spirit Halloween Locations Per 1m People Per State
 * [09/20/2025]()
 * [09/21/2025]()
 * [09/22/2025](../../projects/economics/Median_Income_Different_Male_Female_Per_State/) Male Median Wage Vs Female Median Wage Per State
-* [09/23/2025]()
+* [09/23/2025](../../projects/stores/Spirit_Halloween_Locations_Per_State/) Spirit Halloween Locations Per State
 * [09/24/2025]()
 * [09/25/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Male/) Labor Force Participation Rate Per State, Male
 * [09/26/2025]()
-* [09/27/2025]()
+* [09/27/2025](../../projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province) Spirit Halloween Locations Per Canadian Province
 * [09/28/2025]()
 * [09/29/2025]()
 * [09/30/2025]()
