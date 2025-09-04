@@ -132,3 +132,12 @@ Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there
 |14|[15](projects/economics/Work_Out_Of_State_Per_State/)|[16](projects/Smiths_Grocery_Per_State)|[17](projects/ethnicity/East_Asian_Groups_Per_State)|[18](projects/economics/Median_Income_Different_Male_Female_Per_County/) |[19](projects/stores/Spirit_Halloween_Locations_Per_Capita/)|20|
 |[21](projects/ethnicity/Southeast_Asian_Groups_Per_County/)|[22](projects/economics/Median_Income_Different_Male_Female_Per_State/)|[23](projects/stores/Spirit_Halloween_Locations_Per_State/)|[24](projects/ethnicity/Southeast_Asian_Groups_Per_State/)|[25](projects/economics/Labor_Participation_Rate_Per_State_Male/)|26|[27](projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province)|
 |[28](projects/ethnicity/Native_American_Tribe_Per_State/)|29|30|-|-|-|-|
+
+[October](posts/2025/october.md)
+|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|-|-|-|1|[2](projects/ethnicity/Balkan_Ancestry_Per_State/)|3|4|
+|5|[6](projects/ethnicity/Balkan_Ancestry_Per_County/)|7|8|9|10|11|
+|12|13|14|15|16|17|18|
+|19|20|21|22|23|24|25|
+|26|27|28|29|30|31|-|

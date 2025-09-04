@@ -21,3 +21,4 @@ A simple map showing number of Kroger Locations
 - [x] [Twitter/X](https://x.com/VineMapper/status/1963275690943648120)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1n7j9th/kroger_locations_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1n7j9mr/kroger_locations_per_state/)
+- [x] [Reddit r/Kroger](https://www.reddit.com/r/kroger/comments/1n7jeex/kroger_locations_per_state/)
