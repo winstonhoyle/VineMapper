@@ -15,7 +15,7 @@
 * [09/03/2025](../../projects/stores/Krogers_Per_State) Kroger Locations Per State
 * [09/04/2025](../../projects/demography/Population_Change_Ukrainians_In_Estonia_2018_2025) Percent Ukrainian Population Increase in Estonia from 2018 to 2025
 * [09/05/2025](../../projects/economics/Work_From_Home_Per_State) Percent of State that Works From Home
-* [09/06/2025](../../projects/politics/Pro_Israel_Senate_Contributions_Per_State/) Pro-Israel Senate Contributions Per State
+* [09/06/2025](../../projects/politics/Pro_Israel_Senate_Contributions_Per_State/) Pro-Israel Contributions To Elected Senators
 * [09/07/2025](../../projects/stores/Harris_Teeters_Per_State/) Harris Teeter Locations Per State
 * [09/08/2025](../../projects/economics/Average_Travel_Time_To_Work_Per_State/) Average Commute Time (Minutes) Per State
 * [09/09/2025](../../projects/agriculture/Soy_Bean_Production_Per_State) Total Bushels of Soybeans Produced
