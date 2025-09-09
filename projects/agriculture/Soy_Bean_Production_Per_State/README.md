@@ -1,6 +1,6 @@
 ## Soybean Production Per State
 A simple map showing number of Soybean produced (bushels) per state
-![Image](https://drive.google.com/uc?export=view&id=1kHVFTPBkjtBuckPy2rBTKTYmXh331GPf)
+![Image](https://drive.google.com/uc?export=view&id=1BdMGULWjTgGzGPVrNuzNSOgl-5IY5Tbk)
 
 ## Data
 * [Soybean Data](https://usda.library.cornell.edu/concern/publications/k3569432s)
@@ -12,10 +12,10 @@ A simple map showing number of Soybean produced (bushels) per state
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
-- [ ] [Threads]()
+- [x] [Instagram](https://www.instagram.com/p/DOY1AiskQuL/)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DOY1BABEQhy)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lyg4odaxrs2r)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1965449848473485589)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ncnb20/soybean_production_per_state_2024/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ncnc0b/soybean_production_per_state_2024/)
