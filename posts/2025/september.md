@@ -3,7 +3,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|[1](../../projects/economics/Work_From_Home_Per_County/)|[2](../../projects/demography/Language_Spoken_At_Home_Per_County_Not_English_Spanish)|[3](../../projects/stores/Krogers_Per_State)|[4](../../projects/demography/Population_Change_Ukrainians_In_Estonia_2018_2025)|[5](../../projects/economics/Work_From_Home_Per_State)|[6](../../projects/politics/Pro_Israel_Contributions_Per_State/)|
-|[7](../../projects/stores/Harris_Teeters_Per_State/)|[8](../../projects/economics/Average_Travel_Time_To_Work_Per_State/)|[9](../../projects/agriculture/Soy_Bean_Production_Per_State)|[10](../../projects/politics/Pro_Israel_House_Contributions_Per_State/)|[11](../../projects/stores/Ruler_Foods_Per_State/)|[12](../../projects/economics/Labor_Participation_Rate_Per_State_Female/)|[13](../../projects/ethnicity/East_Asian_Groups_Per_County)|
+|[7](../../projects/stores/Harris_Teeters_Per_State/)|[8](../../projects/economics/Average_Travel_Time_To_Work_Per_State/)|[9](../../projects/agriculture/Soy_Bean_Production_Per_State)|[10](../../projects/politics/Pro_Israel_Contributions_Per_State/)|[11](../../projects/stores/Ruler_Foods_Per_State/)|[12](../../projects/economics/Labor_Participation_Rate_Per_State_Female/)|[13](../../projects/ethnicity/East_Asian_Groups_Per_County)|
 |[14](../../projects/demography/Population_Change_Germany_2016_2024/)|[15](../../projects/economics/Work_Out_Of_State_Per_State/)|[16](../../projects/Smiths_Grocery_Per_State)|[17](../../projects/ethnicity/East_Asian_Groups_Per_State)|[18](../../projects/economics/Median_Income_Different_Male_Female_Per_County/) |[19](../../projects/stores/Spirit_Halloween_Locations_Per_Capita/)|[20](../../projects/politics/Pro_Gun_Rights_Contributions_Per_State/)|
 |[21](../../projects/ethnicity/Southeast_Asian_Groups_Per_County/)|[22](../../projects/economics/Median_Income_Different_Male_Female_Per_State/)|[23](../../projects/stores/Spirit_Halloween_Locations_Per_State/)|[24](../../projects/ethnicity/Southeast_Asian_Groups_Per_State/)|[25](../../projects/economics/Labor_Participation_Rate_Per_State_Male/)|26|[27](../../projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province)|
 |[28](../../projects/ethnicity/Native_American_Tribe_Per_State/)|29|30|-|-|-|-|
@@ -19,7 +19,7 @@
 * [09/07/2025](../../projects/stores/Harris_Teeters_Per_State/) Harris Teeter Locations Per State
 * [09/08/2025](../../projects/economics/Average_Travel_Time_To_Work_Per_State/) Average Commute Time (Minutes) Per State
 * [09/09/2025](../../projects/agriculture/Soy_Bean_Production_Per_State) Total Bushels of Soybeans Produced
-* [09/10/2025](../../projects/politics/Pro_Israel_House_Contributions_Per_State/) Pro-Israel House Contributions Per State
+* [09/10/2025](../../projects/politics/Pro_Israel_Contributions_Per_State/) Pro-Israel Congressional Candidate Contributions Per State (2024)
 * [09/11/2025](../../projects/stores/Ruler_Foods_Per_State/) Ruler Locations Per State
 * [09/12/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Female/) Labor Force Participation Rate Per State, Female
 * [09/13/2025](../../projects/ethnicity/East_Asian_Groups_Per_County) Most Common East Asian Group by County
