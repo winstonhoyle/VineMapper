@@ -1,6 +1,6 @@
 ## Smith's Food And Drug Locations Per State
 A simple map showing number of Smith's Food And Drug Locations
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1NvlxJhx6IlpXnm1fNSZcMZKUYZW8mhwW)
 
 ## Data
 * [Smith's Food And Drug Data](https://developer.kroger.com/api-products/api/location-api-partner)
@@ -13,11 +13,11 @@ A simple map showing number of Smith's Food And Drug Locations
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DOq7mnPCX7v/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DOq7nE3CZIu)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3lyxsf6526k2l)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1967997519612530991)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1nin5mm/smiths_food_and_drug_locations_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1nin4rm/smiths_food_and_drug_locations_per_state/)
