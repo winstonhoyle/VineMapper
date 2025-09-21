@@ -23,3 +23,7 @@ A simple map showing number of Meijers Per State
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1mz55jr/meijers_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1mz55gb/meijers_per_state/)
 - [x] [Reddit r/Meijer](https://www.reddit.com/r/meijer/comments/1mz5cts/meijers_per_state/)
+
+## Stolen
+* [Instagram](https://www.instagram.com/p/DN_nMSPEYQk/)
+* [Reddit r/Michigan](https://www.reddit.com/r/Michigan/comments/1nm547w/how_lucky_are_we/)
