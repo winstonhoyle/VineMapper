@@ -35,7 +35,7 @@
 * [09/23/2025](../../projects/stores/Spirit_Halloween_Locations_Per_State/) Spirit Halloween Locations Per State
 * [09/24/2025](../../projects/ethnicity/Southeast_Asian_Groups_Per_State/) Most Common Southeast Asian Group by State
 * [09/25/2025](../../projects/economics/Labor_Participation_Rate_Per_State_Male/) Labor Force Participation Rate Per State, Male
-* [09/26/2025]()
+* [09/26/2025](../../projects/politics/Dairy_Lobby_Contributions_Per_State/) Dairy Industry Donor Contributions to Congressional Candidates (2024)
 * [09/27/2025](../../projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province) Spirit Halloween Locations Per Canadian Province
 * [09/28/2025](../../projects/ethnicity/Native_American_Tribe_Per_State/) Most Common Self-Reported Native American Group by State
 * [09/29/2025](../../projects/economics/Work_From_Home_Per_County/)  Percent of Workers Who Work Out of State Per County
