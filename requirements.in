@@ -1,6 +1,7 @@
 beautifulsoup4
 cloudscraper
 country_converter
+curl_cffi
 CurrencyConverter
 demjson3
 geopandas
