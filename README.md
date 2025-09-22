@@ -137,7 +137,7 @@ Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/stores/Bass_Pro_Shops_Per_State/)|[2](projects/ethnicity/Balkan_Ancestry_Per_State/)|[3](projects/economics/Commute_More_60_Minutes_Per_State/)|4|
-|[5](projects/stores/REI_Locations_Per_State/)|[6](projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](projects/economics/Commute_More_60_Minutes_Per_County)|8|9|10|11|
+|[5](projects/stores/REI_Locations_Per_State/)|[6](projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](projects/economics/Commute_More_60_Minutes_Per_County)|8|9|[10](projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County) |11|
 |12|13|14|15|16|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|-|
