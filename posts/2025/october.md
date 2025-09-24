@@ -3,7 +3,7 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](../../projects/stores/Bass_Pro_Shops_Per_State/)|[2](../../projects/ethnicity/Balkan_Ancestry_Per_State/)|[3](../../projects/economics/Commute_More_60_Minutes_Per_State/)|[4](../../projects/demography/Citizen_Origin_Region_Per_County/)|
-|[5](../../projects/stores/REI_Locations_Per_State/)|[6](../../projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](../../projects/economics/Commute_More_60_Minutes_Per_County)|8|9|[10](../../projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County) |11|
+|[5](../../projects/stores/REI_Locations_Per_State/)|[6](../../projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](../../projects/economics/Commute_More_60_Minutes_Per_County)|[8](../../projects/demography/Citizen_European_Origin_Region_Per_County/)|9|[10](../../projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County)|[11](../../projects/demography/Citizen_European_Origin_Region_Per_County/) |
 |12|13|14|15|16|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|-|
@@ -17,10 +17,10 @@
 * [10/05/2025](../../projects/stores/REI_Locations_Per_State/) REI Co-op Locations Per State
 * [10/06/2025](../../projects/ethnicity/Balkan_Ancestry_Per_County/) Most Common Balkan Ancestry by County
 * [10/07/2025](../../projects/economics/Commute_More_60_Minutes_Per_County) Percent of Workers Per County That Commute More Than 60 Minutes
-* [10/08/2025]()
+* [10/08/2025](../../projects/demography/Citizen_European_Origin_Region_Per_County/) Most Common European Country of Birth For Naturalized Citizens Per County
 * [10/09/2025]()
 * [10/10/2025](../../projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County) Median Real Estate Taxes Paid Per Housing Unit Without a Mortgage
-* [10/11/2025]()
+* [10/11/2025](../../projects/demography/Citizen_European_Origin_Region_Per_County/) Most Common African Country of Birth For Naturalized Citizens Per County
 * [10/12/2025]()
 * [10/13/2025]()
 * [10/14/2025]()

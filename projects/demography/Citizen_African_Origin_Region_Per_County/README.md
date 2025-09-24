@@ -1,9 +1,9 @@
-## Most Common Region of Birth For Naturalized Citizens Per County
-A simple map of the most common region of birth for naturalized U.S. citizens
+## Most Common African Country of Birth For Naturalized Citizens Per County
+A simple map of the most common European country of birth for naturalized U.S. citizens
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Citizen Data](https://data.census.gov/table/ACSDT5Y2023.B05002)
+* [Citizen Data](https://data.census.gov/table/ACSDT5Y2023.B05006)
 * [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 

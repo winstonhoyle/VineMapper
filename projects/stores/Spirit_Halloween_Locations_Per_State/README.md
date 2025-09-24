@@ -20,3 +20,4 @@ A simple map showing number of Spirit Halloween locations Per State
 - [x] [Twitter/X](https://x.com/VineMapper/status/1970501808008372393)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1nojiv6/spirit_halloween_locations_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1nojit2/spirit_halloween_locations_per_state/)
+- [x] [Reddit r/SpiritHalloween](https://www.reddit.com/r/SpiritHalloween/comments/1nozfij/spirit_halloween_locations_per_state/)
