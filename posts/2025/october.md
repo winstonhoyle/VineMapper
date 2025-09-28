@@ -2,7 +2,7 @@
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|-|-|-|[1](../../projects/stores/Bass_Pro_Shops_Per_State/)|[2](../../projects/ethnicity/Balkan_Ancestry_Per_State/)|[3](../../projects/economics/Commute_More_60_Minutes_Per_State/)|[4](../../projects/demography/Citizen_Origin_Region_Per_County/)|
+|-|-|-|[1](../../projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province)|[2](../../projects/ethnicity/Balkan_Ancestry_Per_State/)|[3](../../projects/economics/Commute_More_60_Minutes_Per_State/)|[4](../../projects/demography/Citizen_Origin_Region_Per_County/)|
 |[5](../../projects/stores/REI_Locations_Per_State/)|[6](../../projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](../../projects/economics/Commute_More_60_Minutes_Per_County)|[8](../../projects/demography/Citizen_European_Origin_Region_Per_County/)|9|[10](../../projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County)|[11](../../projects/demography/Citizen_European_Origin_Region_Per_County/) |
 |12|13|14|15|16|17|18|
 |19|20|21|22|23|24|25|
@@ -10,7 +10,7 @@
 
 ## Posts
 
-* [10/01/2025](../../projects/stores/Bass_Pro_Shops_Per_State/) Bass Pro Shop Locations Per State
+* [10/01/2025](../../projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province) Spirit Halloween Locations Per Canadian Province
 * [10/02/2025](../../projects/ethnicity/Balkan_Ancestry_Per_State/) Most Common Balkan Ancestry by State
 * [10/03/2025](../../projects/economics/Commute_More_60_Minutes_Per_State/) Percent of Workers Per State That Commute More Than 60 Minutes
 * [10/04/2025](../../projects/demography/Citizen_Origin_Region_Per_County/) Most Common Regional Origin For Naturalized Citizens Per County
