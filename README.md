@@ -137,7 +137,7 @@ Requests are [made on reddit](https://www.reddit.com/user/VineMapper/) but there
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|[1](projects/stores/Spirit_Halloween_Locations_Per_Canadian_Province)|[2](projects/ethnicity/Balkan_Ancestry_Per_State/)|[3](projects/economics/Commute_More_60_Minutes_Per_State/)|[4](projects/demography/Citizen_Origin_Region_Per_County/)|
-|[5](projects/stores/REI_Locations_Per_State/)|[6](projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](projects/economics/Commute_More_60_Minutes_Per_County)|[8](projects/demography/Citizen_European_Origin_Region_Per_County/)|[9](projects/restaurants/Chipotle_Per_Capita/)|[10](projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County)|[11](projects/demography/Citizen_European_Origin_Region_Per_County/)|
-|[12](projects/stores/Camping_World_Locations_Per_State/)|[13](projects/restaurants/Chipotle_Per_State/)|14|15|16|17|18|
+|[5](projects/stores/REI_Locations_Per_State/)|[6](projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](projects/economics/Commute_More_60_Minutes_Per_County)|[8](projects/demography/Citizen_European_Origin_Region_Per_County/)|[9](projects/restaurants/Chipotle_Per_Capita/)|[10](projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County)|[11](projects/demography/Citizen_European_African_Region_Per_State/)|
+|[12](projects/stores/Camping_World_Locations_Per_State/)|[13](projects/restaurants/Chipotle_Per_State/)|[14](projects/demography/Citizen_European_Origin_Region_Per_State/)|15|16|17|18|
 |19|20|21|22|23|24|25|
 |26|27|28|29|30|31|-|
