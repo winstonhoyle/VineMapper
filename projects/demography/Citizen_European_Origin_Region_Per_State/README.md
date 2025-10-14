@@ -15,6 +15,6 @@ A simple map of the most common European country of birth for naturalized U.S. c
 - [x] [Threads](https://www.threads.com/@vinemapper/post/DPzCvYCj39p)
 - [ ] [Youtube Shorts]()
 - [x] [X/Twitter](https://x.com/VineMapper/status/1978146504972849386)
-- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m2p2qdx7mk2h)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m367vjrduk22)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1o6leid/most_common_european_country_of_birth_for/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1o6le6a/most_common_european_country_of_birth_for/)
