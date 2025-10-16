@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.5
+cloudscraper==1.2.71
+geopandas==1.0.1
+jupyter==1.0.0
+pandas==2.2.3
