@@ -1,6 +1,6 @@
 ## Del Taco Locations Per State
 A Simple Map showing Del Taco Locations per State
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=12jEQL4vWCP1s8yOLwPhBK8Cdr-PCiPrj)
 
 ## Data
 * [Del Taco Data](https://locations.deltaco.com/us)
@@ -15,11 +15,11 @@ A Simple Map showing Del Taco Locations per State
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DQFKP_5j0-v/)
 - [ ] [Instagram Reels]()
-- [ ]  [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DQFKQn4Dy60)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m3pw37yl422j)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1980696306814435701)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ock47g/del_taco_locations_per_state/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ock3z6/del_taco_locations_per_state/)
