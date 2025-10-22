@@ -1,6 +1,6 @@
 ## Most Common Asia Country of Birth For Naturalized Citizens Per County
 A simple map of the most common Asian country of birth for naturalized U.S. citizens
-![Image](https://drive.google.com/uc?export=view&id=1MyrKN0dYyeFbXj6vuYFEgJYtNYp-r7tU)
+![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
 * [Citizen Data](https://data.census.gov/table/ACSDT5Y2023.B05006)

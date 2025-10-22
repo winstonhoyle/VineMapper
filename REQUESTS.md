@@ -68,8 +68,16 @@ Request | Description | Date Request | Date Posted | Status
 [Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Zaxby's Per State| 07/20/2025 | | [Webscraping](https://www.zaxbys.com/locations)|
 [Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Raising Canes Per State | 07/20/2025 | | [Webscraping](https://locations.raisingcanes.com/search)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5br4ri/) | Bob Evans Per State | 07/26/2025 |  | [Webscraping](https://www.bobevans.com/locations)|
-[Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5c0n6q/) | Wafflehouse Vs Huddlehouse | 07/26/2025 | | Making Map|
-[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | | Making Map|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5c0n6q/) | Wafflehouse Vs Huddlehouse | 07/26/2025 | | Making Map |
+[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | | Making Map |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6ds5lf/) | Walmarts Per 100k (Canada) | 08/01/2025 | | [Webscraping](https://www.walmart.ca/en)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6cy9rc/) | Meijers Per State | 08/01/2025 | 08/24/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1mz55gb/meijers_per_state/)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mpn3lp/comment/n8kuqs5/) | Soy Bean Production Per State | 08/13/2025 | 09/09/2025 |[Map Posted](https://www.reddit.com/r/MapPorn/comments/1ncnc0b/soybean_production_per_state_2024/)|
+[Comment](https://www.reddit.com/r/MapPorn/comments/1mz55gb/comment/nao6n45/) | Fred Meyer Locations Per State | 08/24/2025 | | Making Map |
+[Comment](https://www.reddit.com/r/Maps/comments/1n46st8/comment/nbs2752/) | Mega Image locations in Romania | 09/01/2025 | | Finding Data |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1n5u6f3/comment/nbvs6m4/) | Change of Percent of Workers Per County Pre-COVID to now | 09/01/2025 | | Finding Data |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1n7j9mr/comment/nc92zxl/) | Shoprite Locations Per State | 09/03/2025 | | Finding Data |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1na4f6n/comment/ncrkcka/) | Oil & Gas Industry Donor Contributions to Congressional Candidates | 09/06/2025 | 10/12/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1o4vm7x/oil_gas_industry_donor_contributions_to/) |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1ngxuwd/comment/neb42bs/) | Workers Who Come From Out of State Per State | 09/15/2025 | | Finding Data |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1nsrss4/comment/ngo5d43/) | Bass Pro Shops and Cabella's Per State | 09/29/2025 | | Making Map |
+[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/nhxci3s/) | US counties by white ancestry, Majority only | 10/05/2025 | | Making Map |
