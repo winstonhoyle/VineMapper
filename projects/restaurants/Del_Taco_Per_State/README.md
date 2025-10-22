@@ -23,3 +23,4 @@ A Simple Map showing Del Taco Locations per State
 - [x] [Twitter/X](https://x.com/VineMapper/status/1980696306814435701)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ock47g/del_taco_locations_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ock3z6/del_taco_locations_per_state/)
+- [x] [Reddit r/DelTaco](https://www.reddit.com/r/DelTaco/comments/1ocuuse/del_taco_locations_per_state/)
