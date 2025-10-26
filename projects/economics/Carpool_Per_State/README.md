@@ -1,5 +1,5 @@
 ## Percent of Workers Who Carpool Per State
-A simple map showing the percent of workers who work outside the state
+A simple map showing the percent of workers who carpool per state
 ![Image](https://drive.google.com/uc?export=view&id=1eTDUrvNCxcXAASYkIk1F16plLiRyKX9j)
 
 ## Data
