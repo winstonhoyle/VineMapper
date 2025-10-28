@@ -66,7 +66,7 @@ Request | Description | Date Request | Date Posted | Status
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m29dyx/comment/n3n6dsk/) | Change In Ukrainian Population Per Estonian County (2018-2025)| 07/17/2025 | 09/04/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1n8d7d9/percent_increase_of_ethnic_ukrainians_by_estonian/) |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m3c6rl/comment/n3vk3cr/) | Median Income Change from 2010 to 2023 Per State | 07/18/2025 |  | Making Map|
 [Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Zaxby's Per State| 07/20/2025 | | [Webscraping](https://www.zaxbys.com/locations)|
-[Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Raising Canes Per State | 07/20/2025 | | [Webscraping](https://locations.raisingcanes.com/search)|
+[Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Raising Canes Per State | 07/20/2025 | 10/28/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1oij66y/raising_canes_per_1m_people/)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5br4ri/) | Bob Evans Per State | 07/26/2025 |  | [Webscraping](https://www.bobevans.com/locations)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5c0n6q/) | Wafflehouse Vs Huddlehouse | 07/26/2025 | | Making Map |
 [Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | | Making Map |
