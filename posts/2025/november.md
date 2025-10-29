@@ -3,8 +3,8 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|-|-|[1](../../projects/restaurants/Raising_Canes_Per_State/)|
-|2|3|4|[5](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|6|7|8|
-|9|10|11|12|13|14|15|
+|[2](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State)|3|[4](../../projects/ethnicity/Largest_Ancestry_Per_County/) |[5](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/)|6|7|8|
+|9|10|11|12|[13](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
 |30|-|-|-|-|-|-|
@@ -12,10 +12,10 @@
 ## Posts
 
 * [11/01/2025](../../projects/restaurants/Raising_Canes_Per_State/) Raising Cane's Locations Per State
-* [11/02/2025]()
+* [11/02/2025](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State) Average Hourly Wage for an Educational Instructor Per State
 * [11/03/2025]()
-* [11/04/2025]()
-* [11/05/2025](../../projects/versus/Most_Common_Kroger_Brand_Per_State/) Most Common Kroger Brand Per State
+* [11/04/2025](../../projects/ethnicity/Largest_Ancestry_Per_County/) Most Common Self-Reported Ancestry Per County
+* [11/05/2025](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/) Teachers Vs Police Officers Hourly Wage Per State
 * [11/06/2025]()
 * [11/07/2025]()
 * [11/08/2025]()
@@ -23,7 +23,7 @@
 * [11/10/2025]()
 * [11/11/2025]()
 * [11/12/2025]()
-* [11/13/2025]()
+* [11/13/2025](../../projects/versus/Most_Common_Kroger_Brand_Per_State/) Most Common Kroger Brand Per State
 * [11/14/2025]()
 * [11/15/2025]()
 * [11/16/2025]()

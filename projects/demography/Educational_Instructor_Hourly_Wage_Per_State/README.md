@@ -1,10 +1,10 @@
-## Most Common Self-Reported Ancestry Per County
-A simple map showing most reported ancestry per county
+##  Average Hourly Wage for an Educational Instructor Per State
+A simple map showing hour wage for educational instructors and librarians
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Ethnic Data](https://data.census.gov/table/ACSDT5Y2023.B04006)
-* [County Data](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* [Employment Data](https://www.bls.gov/oes/current/oessrcst.htm)
+* [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
 ## Code
@@ -13,7 +13,6 @@ A simple map showing most reported ancestry per county
 ## Posts
 - [ ] [Tiktok]()
 - [ ] [Instagram]()
-- [ ] [Instagram Reels]()
 - [ ] [Threads]()
 - [ ] [Youtube Shorts]()
 - [ ] [BlueSky]()

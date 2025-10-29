@@ -1,5 +1,5 @@
-## Most Common Self-Reported Ancestry Per County
-A simple map showing most reported ancestry per county
+## Counties Where a Single White Ancestry Is the Majority
+A simple map showing the a counties' ancestry if they're a white ancestry and a majority
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data

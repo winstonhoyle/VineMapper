@@ -103,15 +103,15 @@ Click the month for post descriptions
 |[5](../../projects/stores/REI_Locations_Per_State/)|[6](../../projects/ethnicity/Balkan_Ancestry_Per_County/)|[7](../../projects/economics/Commute_More_60_Minutes_Per_County)|[8](../../projects/demography/Citizen_European_Origin_Region_Per_County/)|[9](../../projects/restaurants/Chipotle_Per_Capita/)|[10](../../projects/economics/Median_Real_Estate_Taxes_Paid_Without_Mortgage_Per_County)|[11](../../projects/demography/Citizen_African_Origin_Per_State/)|
 |[12](../../projects/politics/Oil_And_Gas_Industry_Contributions_Per_State/)|[13](../../projects/restaurants/Chipotle_Per_State/)|[14](../../projects/demography/Citizen_European_Origin_Region_Per_State/)|[15](../../projects/economics/Vehicles_Per_State/)|[16](../../projects/demography/Firearm_Ownership_Rate_Per_State/)|[17](../../projects/restaurants/QDOBA_Per_State/)|[18](../../projects/stores/Camping_World_Locations_Per_State/)|
 |[19](../../projects/economics/Median_Real_Estate_Taxes_Paid_With_Mortgage_Per_County/)|[20](../../projects/demography/Citizen_Asian_Origin_Per_State/)|[21](../../projects/restaurants/Del_Taco_Per_State/)|[22](../../projects/versus/Chipotle_Vs_QDOBA_Per_State/)|[23](../../projects/economics/Carpool_Per_State/)|[24](../../projects/demography/Citizen_Asian_Origin_Region_Per_County/)|[25](../../projects/restaurants/Huddlehouse_Per_State/)|
-|[26](../../projects/police/Police_Officers_Per_State/)|[27](../../projects/economics/Carpool_Per_County/)|[28](../../projects/restaurants/Raising_Canes_Per_Capita/)|[29](../../projects/police/Police_Officer_Hourly_Wage_Per_State/)|30|31|-|
+|[26](../../projects/police/Police_Officers_Per_State/)|[27](../../projects/economics/Carpool_Per_County/)|[28](../../projects/restaurants/Raising_Canes_Per_Capita/)|[29](../../projects/police/Police_Officer_Hourly_Wage_Per_State/)|[30](../../projects/ethnicity/Largest_White_Ancestry_Majority_Only_Per_County/) |31|-|
 
 [November](november.md)
 
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|-|-|[1](../../projects/restaurants/Raising_Canes_Per_State/)|
-|2|3|4|[5](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|6|7|8|
-|9|10|11|12|13|14|15|
+|[2](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State)|3|[4](../../projects/ethnicity/Largest_Ancestry_Per_County/) |[5](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/)|6|7|8|
+|9|10|11|12|[13](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
 |30|-|-|-|-|-|-|
