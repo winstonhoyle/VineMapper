@@ -80,4 +80,4 @@ Request | Description | Date Request | Date Posted | Status
 [Comment](https://www.reddit.com/r/MapPorn/comments/1na4f6n/comment/ncrkcka/) | Oil & Gas Industry Donor Contributions to Congressional Candidates | 09/06/2025 | 10/12/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1o4vm7x/oil_gas_industry_donor_contributions_to/) |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1ngxuwd/comment/neb42bs/) | Workers Who Come From Out of State Per State | 09/15/2025 | | Finding Data |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1nsrss4/comment/ngo5d43/) | Bass Pro Shops and Cabella's Per State | 09/29/2025 | | Making Map |
-[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/nhxci3s/) | US counties by white ancestry, Majority only | 10/05/2025 | | Making Map |
+[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/nhxci3s/) | US counties by white ancestry, Majority only | 10/05/2025 | 10/30/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1ok74z1/counties_where_a_single_ancestry_is_the_majority/) |
