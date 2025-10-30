@@ -1,6 +1,6 @@
 ## Counties Where A Single Ancestry Is The Majority
 A simple map showing the a counties' ancestry if they're a white ancestry and a majority
-![Image](https://drive.google.com/uc?export=view&id=1-EgkhkJjCO1bZcgCPj2VpNaSIRRwWVBB/)
+![Image](https://drive.google.com/uc?export=view&id=EgkhkJjCO1bZcgCPj2VpNaSIRRwWVBB/)
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2023.B04006)
