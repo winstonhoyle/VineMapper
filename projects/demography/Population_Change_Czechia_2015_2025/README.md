@@ -20,3 +20,4 @@ A simple map showing the percentage growth/decline in Czech District from 2015-2
 - [x] [Twitter/X](https://x.com/VineMapper/status/1984305997544824884)
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ol01m9/percent_population_change_by_czech_district/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ol019m/percent_population_change_by_czech_district/)
+- [x] [Reddit r/Czech](https://www.reddit.com/r/czech/comments/1ol06v2/percent_population_change_by_czech_district/)
