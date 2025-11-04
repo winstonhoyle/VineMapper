@@ -3,8 +3,8 @@
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|-|-|[1](../../projects/restaurants/Raising_Canes_Per_State/)|
-|[2](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State)|[3](../../projects/restaurants/Taco_Bell_by_County/)|[4](../../projects/ethnicity/Largest_Ancestry_Per_County/)|[5](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/)|[6](../../projects/demography/Firefighters_Hourly_Wage_Per_State/)|7|8|
-|9|10|11|12|[13](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|14|15|
+|[2](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State)|[3](../../projects/restaurants/Taco_Bell_by_County/)|[4](../../projects/ethnicity/Largest_Ancestry_Per_County/)|[5](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/)|[6](../../projects/demography/Firefighters_Hourly_Wage_Per_State/)|[7](../../projects/stores/Shell_Gas_Stations_Per_Capita/)|8|
+|[9](../../projects/stores/Spirit_Christmas_Locations_Per_State/)|10|11|[12](../../projects/stores/Shell_Gas_Stations_Per_State/)|[13](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
 |30|-|-|-|-|-|-|
@@ -17,12 +17,12 @@
 * [11/04/2025](../../projects/ethnicity/Largest_Ancestry_Per_County/) Most Common Self-Reported Ancestry Per County
 * [11/05/2025](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/) Teachers Vs Police Officers Hourly Wage Per State
 * [11/06/2025](../../projects/demography/Firefighters_Hourly_Wage_Per_State/) Average Hourly Wage of Firefighers Per State
-* [11/07/2025]()
+* [11/07/2025](../../projects/stores/Shell_Gas_Stations_Per_Capita/) Shell Gas Stations Per 100k People
 * [11/08/2025]()
-* [11/09/2025]()
+* [11/09/2025](../../projects/stores/Spirit_Christmas_Locations_Per_State/) Spirit Christmas Locations Per State
 * [11/10/2025]()
 * [11/11/2025]()
-* [11/12/2025]()
+* [11/12/2025](../../projects/stores/Shell_Gas_Stations_Per_State/) Shell Gas Stations Per State
 * [11/13/2025](../../projects/versus/Most_Common_Kroger_Brand_Per_State/) Most Common Kroger Brand Per State
 * [11/14/2025]()
 * [11/15/2025]()
