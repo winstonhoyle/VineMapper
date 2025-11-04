@@ -110,7 +110,7 @@ Click the month for post descriptions
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |-|-|-|-|-|-|[1](../../projects/restaurants/Raising_Canes_Per_State/)|
-|[2](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State)|[3](../../projects/restaurants/Taco_Bell_by_County/)|[4](../../projects/ethnicity/Largest_Ancestry_Per_County/) |[5](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/)|6|7|8|
+|[2](../../projects/demography/Educational_Instructor_Hourly_Wage_Per_State)|[3](../../projects/restaurants/Taco_Bell_by_County/)|[4](../../projects/ethnicity/Largest_Ancestry_Per_County/)|[5](../../projects/versus/Teachers_Vs_Police_Officers_Hourly_Wage/)|[6](../../projects/demography/Firefighters_Hourly_Wage_Per_State/)|7|8|
 |9|10|11|12|[13](../../projects/versus/Most_Common_Kroger_Brand_Per_State/)|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
