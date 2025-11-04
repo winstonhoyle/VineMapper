@@ -1,6 +1,6 @@
 ## Most Common Self-Reported Ancestry Per County
 A simple map showing most reported ancestry per county
-![Image](https://drive.google.com/uc?export=view&id=)
+![Image](https://drive.google.com/uc?export=view&id=1NP_kHn9Z5zmKZMPP-QzsOE0SUGdOChWR)
 
 ## Data
 * [Ethnic Data](https://data.census.gov/table/ACSDT5Y2023.B04006)
@@ -12,11 +12,11 @@ A simple map showing most reported ancestry per county
 
 ## Posts
 - [ ] [Tiktok]()
-- [ ] [Instagram]()
+- [x] [Instagram](https://www.instagram.com/p/DQpO-4pkj7O/)
 - [ ] [Instagram Reels]()
-- [ ] [Threads]()
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DQpO_QUEqSz)
 - [ ] [Youtube Shorts]()
-- [ ] [BlueSky]()
-- [ ] [Twitter/X]()
-- [ ] [Reddit r/Maps]()
-- [ ] [Reddit r/MapPorn]()
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m4t5f62rls2o)
+- [x] [Twitter/X](https://bsky.app/profile/vinemapper.bsky.social/post/3m4t5f62rls2o)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ooeq22/largest_selfreported_white_ancestry_per_county/https://www.reddit.com/r/Maps/comments/1ooeq22/largest_selfreported_white_ancestry_per_county/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ooepso/largest_selfreported_white_ancestry_per_county/)
