@@ -20,7 +20,7 @@
 * [11/07/2025](../../projects/stores/Shell_Gas_Stations_Per_Capita/) Shell Gas Stations Per 100k People
 * [11/08/2025](../../projects/ethnicity/Hispanic_Ancestry_Per_County/) Largest Self-Reported Hispanic Origin Per County
 * [11/09/2025](../../projects/stores/Spirit_Christmas_Locations_Per_State/) Spirit Christmas Locations Per State
-* [11/10/2025](../../projcets/versus/Shell_Vs_Exxon_Per_State) Shell Vs Exxon Gas Stations Per State
+* [11/10/2025](../../projects/versus/Shell_Vs_Exxon_Per_State) Shell Vs Exxon Gas Stations Per State
 * [11/11/2025]()
 * [11/12/2025](../../projects/stores/Shell_Gas_Stations_Per_State/) Shell Gas Stations Per State
 * [11/13/2025]
