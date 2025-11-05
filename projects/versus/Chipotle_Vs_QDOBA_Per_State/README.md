@@ -16,7 +16,7 @@ A simple map showing if a state has more Chipotles or QDOBAs
 - [ ] [Tiktok]()
 - [x] [Instagram](https://www.instagram.com/p/DQHqmgXj4UF/)
 - [ ] [Instagram Reels]()
-- [x [Threads](https://www.threads.com/@vinemapper/post/DQHqnB2D4qL)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DQHqnB2D4qL)
 - [ ] [Youtube Shorts]()
 - [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m3seenqbb22e)
 - [x] [Twitter/X](https://x.com/VineMapper/status/1981048916163649639)
