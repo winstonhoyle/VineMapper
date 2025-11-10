@@ -14,11 +14,11 @@ A simple map showing if a state has more Shells or Exxons
 
 ## Posts
 - [ ] [Tiktok]()
-- [x] [Instagram](https://www.instagram.com/p/DQ4epETD9oq/)
+- [x] [Instagram](https://www.instagram.com/p/DQ4fQlFj8Nj/)
 - [ ] [Instagram Reels]()
-- [x] [Threads](https://www.threads.com/@vinemapper/post/DQ4eppnD7BK)
+- [x] [Threads](https://www.threads.com/@vinemapper/post/DQ4fREXD84n)
 - [ ] [Youtube Shorts]()
-- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m5bzrqrv322f)
-- [x] [Twitter/X](https://x.com/VineMapper/status/1987918783210721623)
-- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1oti68v/shell_vs_exxon/)
-- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1oti65l/shell_vs_exxon/)
+- [x] [BlueSky](https://bsky.app/profile/vinemapper.bsky.social/post/3m5c23cbals2f)
+- [x] [Twitter/X](https://x.com/VineMapper/status/1987920179456856320)
+- [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1otibov/shell_vs_exxon/)
+- [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1otibfd/shell_vs_exxon/)
