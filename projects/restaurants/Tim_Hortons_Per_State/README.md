@@ -1,13 +1,11 @@
-## Shell Gas Stations Per State
-A Simple Map showing Shell Gas Stations Per State
+## Tim Hortons Locations Per State
+A Simple Map showing locations and per 1m people data of Tim Hortons per American state
 ![Image](https://drive.google.com/uc?export=view&id=)
 
 ## Data
-* [Shell Data](https://find.shell.com/us/fuel/locations/)
+* [Tim Hortons Data](https://locations.timhortons.com/en/locations-list/)
 * [State Population Totals](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
 * [State Boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
-* [Great Lakes](https://usicecenter.gov/Products/GreatLakesData)
-* [World GeoJSON](https://public.opendatasoft.com/explore/dataset/world-administrative-boundaries/export/?flg=en-us)
 
 ## Code
 * [Jupyter Notebook](FormatData.ipynb)
