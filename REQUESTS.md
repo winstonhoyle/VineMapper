@@ -69,7 +69,7 @@ Request | Description | Date Request | Date Posted | Status
 [Comment](https://www.reddit.com/r/ChickFilA/comments/1m4t1tf/comment/n47o6g6/) | Raising Canes Per State | 07/20/2025 | 10/28/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1oij66y/raising_canes_per_1m_people/)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5br4ri/) | Bob Evans Per State | 07/26/2025 |  | [Webscraping](https://www.bobevans.com/locations)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1m9zj7d/comment/n5c0n6q/) | Wafflehouse Vs Huddlehouse | 07/26/2025 | | Making Map |
-[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | | Making Map |
+[Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/n5cf739/) | US Counties With A Taco Bell | 07/26/2025 | 11/03/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1onmgou/does_your_county_have_a_taco_bell/) |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6ds5lf/) | Walmarts Per 100k (Canada) | 08/01/2025 | | [Webscraping](https://www.walmart.ca/en)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mey3qo/comment/n6cy9rc/) | Meijers Per State | 08/01/2025 | 08/24/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1mz55gb/meijers_per_state/)|
 [Comment](https://www.reddit.com/r/MapPorn/comments/1mpn3lp/comment/n8kuqs5/) | Soy Bean Production Per State | 08/13/2025 | 09/09/2025 |[Map Posted](https://www.reddit.com/r/MapPorn/comments/1ncnc0b/soybean_production_per_state_2024/)|
@@ -81,3 +81,6 @@ Request | Description | Date Request | Date Posted | Status
 [Comment](https://www.reddit.com/r/MapPorn/comments/1ngxuwd/comment/neb42bs/) | Workers Who Come From Out of State Per State | 09/15/2025 | | Finding Data |
 [Comment](https://www.reddit.com/r/MapPorn/comments/1nsrss4/comment/ngo5d43/) | Bass Pro Shops and Cabella's Per State | 09/29/2025 | | Making Map |
 [Comment](https://www.reddit.com/user/VineMapper/comments/1lat0m9/comment/nhxci3s/) | US counties by white ancestry, Majority only | 10/05/2025 | 10/30/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1ok74z1/counties_where_a_single_ancestry_is_the_majority/) |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1ojb55z/comment/nmj3v0h/) | Average Firefighter Hourly Wage Per State | 11/01/2025 | 11/06/2025 | [Map Posted](https://www.reddit.com/r/MapPorn/comments/1oqcy8b/average_hourly_wage_of_firefighters_per_state/) |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1omt4e7/comment/nmtywt2/) | Administrators Per Teacher | 11/02/2025 | | Finding Data |
+[Comment](https://www.reddit.com/r/MapPorn/comments/1onmgou/comment/nn0imve/) | Does Your County Have a Subway? | 11/03/2025 | | Making Map |
