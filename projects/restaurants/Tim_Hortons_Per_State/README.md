@@ -21,4 +21,3 @@ A Simple Map showing locations and per 1m people data of Tim Hortons per America
 - [x] [Reddit r/Maps](https://www.reddit.com/r/Maps/comments/1ox3v2b/tim_hortons_locations_per_state/)
 - [x] [Reddit r/MapPorn](https://www.reddit.com/r/MapPorn/comments/1ox3ux2/tim_hortons_locations_per_state/)
 - [x] [Reddit r/TimHortons](https://www.reddit.com/r/TimHortons/comments/1ox3x3n/tim_hortons_locations_per_state/)
-- [ ] 
