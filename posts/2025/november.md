@@ -30,7 +30,7 @@
 * [11/17/2025](../../projects/restaurants/Tim_Hortons_Per_Province/) Tim Hortons Locations in Canada
 * [11/18/2025](../../projects/stores/Exxon_Gas_Stations_Per_State/) Exxon Gas Stations Per State
 * [11/19/2025](../../projects/demography/Never_Married_Per_State/) Percent of Population Never Married
-* [11/20/2025]()
+* [11/20/2025](../../projects/economics/Avg_Monthly_Wage_Czechia_2024/) Gross Median Monthly Gross Wage Per Czech Region
 * [11/21/2025]()
 * [11/22/2025]()
 * [11/23/2025]()
