@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-anyio==4.10.0
+anyio==4.14.2
     # via
     #   httpx
     #   jupyter-server
@@ -353,8 +353,6 @@ six==1.17.0
     # via
     #   python-dateutil
     #   rfc3339-validator
-sniffio==1.3.1
-    # via anyio
 soupsieve==2.8
     # via beautifulsoup4
 stack-data==0.6.3
