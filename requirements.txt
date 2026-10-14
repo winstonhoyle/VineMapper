@@ -76,8 +76,10 @@ executing==2.2.0
     # via stack-data
 fastjsonschema==2.21.2
     # via nbformat
-filelock==3.19.1
-    # via virtualenv
+filelock==3.32.7
+    # via
+    #   python-discovery
+    #   virtualenv
 fqdn==1.5.1
     # via jsonschema
 geographiclib==2.1
@@ -292,6 +294,8 @@ python-dateutil==2.9.0.post0
     #   arrow
     #   jupyter-client
     #   pandas
+python-discovery==1.6.2
+    # via virtualenv
 python-dotenv==1.1.1
     # via kroger-api
 python-json-logger==3.3.0
@@ -408,7 +412,7 @@ urllib3==2.5.0
     #   requests
 utm==0.8.1
     # via -r requirements.in
-virtualenv==20.34.0
+virtualenv==21.7.13
     # via pre-commit
 wcwidth==0.2.13
     # via prompt-toolkit
